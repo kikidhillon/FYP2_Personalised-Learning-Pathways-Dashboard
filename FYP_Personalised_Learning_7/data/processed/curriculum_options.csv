@@ -1,0 +1,254 @@
+area,selection_rule,course_code_raw,course_name,credit_hours,course_group,prerequisite_text,programme_code,semester,default_semester,source_sheet,source_type,curriculum_row_id,is_selection_slot,refer_table
+A. Corporate Management,Choose ONLY 5 courses from this set,GFB1033,Management & Organisational Behaviour,3,EM,,IT,,,IT_EM,minor_elective,IT-EM-01,False,
+A. Corporate Management,Choose ONLY 5 courses from this set,GFB2043,Principles of Marketing,3,EM,,IT,,,IT_EM,minor_elective,IT-EM-02,False,
+A. Corporate Management,Choose ONLY 5 courses from this set,GFB3113,Corporate Communication,3,EM,,IT,,,IT_EM,minor_elective,IT-EM-03,False,
+A. Corporate Management,Choose ONLY 5 courses from this set,GFB3093,Strategic Management,3,EM,,IT,,,IT_EM,minor_elective,IT-EM-04,False,
+A. Corporate Management,Choose ONLY 5 courses from this set,GFB3073,Human Resource Management (Final Year Only),3,EM,,IT,,,IT_EM,minor_elective,IT-EM-05,False,
+A. Corporate Management,Choose ONLY 5 courses from this set,GEB3213,Forecasting Methods for Management,3,EM,,IT,,,IT_EM,minor_elective,IT-EM-06,False,
+A. Corporate Management,Choose ONLY 5 courses from this set,GEB3203,Strategic Business Analytics,3,EM,,IT,,,IT_EM,minor_elective,IT-EM-07,False,
+B. Financial Management,Choose ONLY 5 courses from this set,GFB2053,Principle of Finance,3,EM,,IT,,,IT_EM,minor_elective,IT-EM-08,False,
+B. Financial Management,Choose ONLY 5 courses from this set,GFB2013,Business Accounting,3,EM,,IT,,,IT_EM,minor_elective,IT-EM-09,False,
+B. Financial Management,Choose ONLY 5 courses from this set,GFB2113,Fundamental of Investment,3,EM,,IT,,,IT_EM,minor_elective,IT-EM-10,False,
+B. Financial Management,Choose ONLY 5 courses from this set,GFB3033,Corporate Finance,3,EM,,IT,,,IT_EM,minor_elective,IT-EM-11,False,
+B. Financial Management,Choose ONLY 5 courses from this set,GFB3043,International Financial Management,3,EM,,IT,,,IT_EM,minor_elective,IT-EM-12,False,
+B. Financial Management,Choose ONLY 5 courses from this set,GFB3083,International Business,3,EM,,IT,,,IT_EM,minor_elective,IT-EM-13,False,
+C. Accounting and Finance,This set contains 5 courses,GFB2013,Principle of Finance,3,EM,,IT,,,IT_EM,minor_elective,IT-EM-14,False,
+C. Accounting and Finance,This set contains 5 courses,GFB2153,Business Accounting,3,EM,,IT,,,IT_EM,minor_elective,IT-EM-15,False,
+C. Accounting and Finance,This set contains 5 courses,GFB2283,Fundamental of Investment,3,EM,,IT,,,IT_EM,minor_elective,IT-EM-16,False,
+C. Accounting and Finance,This set contains 5 courses,GFB2293,Corporate Finance,3,EM,,IT,,,IT_EM,minor_elective,IT-EM-17,False,
+C. Accounting and Finance,This set contains 5 courses,GFB2303,International Financial Management,3,EM,,IT,,,IT_EM,minor_elective,IT-EM-18,False,
+A. Big Data Analytics,,TFB3113,Data Mining,3,CSp,,IT,,,IT_CSp,core_specialisation,IT-CSP-01,False,
+A. Big Data Analytics,,TFB3123,Machine Learning,3,CSp,,IT,,,IT_CSp,core_specialisation,IT-CSP-02,False,
+A. Big Data Analytics,,TFB3133,Data Visualisation,3,CSp,,IT,,,IT_CSp,core_specialisation,IT-CSP-03,False,
+B. Digital Technology,,TFB3213,Digital Innovations,3,CSp,,IT,,,IT_CSp,core_specialisation,IT-CSP-04,False,
+B. Digital Technology,,TFB3223,Emerging Topics in Digital Technology,3,CSp,,IT,,,IT_CSp,core_specialisation,IT-CSP-05,False,
+B. Digital Technology,,TFB3233,Digital Economy,3,CSp,,IT,,,IT_CSp,core_specialisation,IT-CSP-06,False,
+C. FINTECH,,TFB3313,Introduction to Fintech,3,CSp,,IT,,,IT_CSp,core_specialisation,IT-CSP-07,False,
+C. FINTECH,,TFB3323,Fintech Innovation,3,CSp,,IT,,,IT_CSp,core_specialisation,IT-CSP-08,False,
+C. FINTECH,,TFB3333,Fintech Ethics and Regulations,3,CSp,,IT,,,IT_CSp,core_specialisation,IT-CSP-09,False,
+D. Software Quality,,TFB3413,Software Requirement Engineering,3,CSp,,IT,,,IT_CSp,core_specialisation,IT-CSP-10,False,
+D. Software Quality,,TFB3423,Software Design and Architecture,3,CSp,,IT,,,IT_CSp,core_specialisation,IT-CSP-11,False,
+D. Software Quality,,TFB3433,Software Testing & Quality Assurance,3,CSp,,IT,,,IT_CSp,core_specialisation,IT-CSP-12,False,
+A. Corporate Management,Choose ONLY 5 courses from this set,GEB1033,Management & Organisational Behaviour,3,EM,,CS,,,CS_EM,minor_elective,CS-EM-01,False,
+A. Corporate Management,Choose ONLY 5 courses from this set,GEB2043,Principles of Marketing,3,EM,,CS,,,CS_EM,minor_elective,CS-EM-02,False,
+A. Corporate Management,Choose ONLY 5 courses from this set,GEB3113,Corporate Communication,3,EM,,CS,,,CS_EM,minor_elective,CS-EM-03,False,
+A. Corporate Management,Choose ONLY 5 courses from this set,GEB3093,Strategic Management,3,EM,,CS,,,CS_EM,minor_elective,CS-EM-04,False,
+A. Corporate Management,Choose ONLY 5 courses from this set,GEB3073,Human Resource Management (Final Year Only),3,EM,,CS,,,CS_EM,minor_elective,CS-EM-05,False,
+A. Corporate Management,Choose ONLY 5 courses from this set,GEB3213,Forecasting Methods for Management,3,EM,,CS,,,CS_EM,minor_elective,CS-EM-06,False,
+A. Corporate Management,Choose ONLY 5 courses from this set,GEB3203,Strategic Business Analytics,3,EM,,CS,,,CS_EM,minor_elective,CS-EM-07,False,
+B. Financial Management,Choose ONLY 5 courses from this set,GFB2053,Principle of Finance,3,EM,,CS,,,CS_EM,minor_elective,CS-EM-08,False,
+B. Financial Management,Choose ONLY 5 courses from this set,GFB2013,Business Accounting,3,EM,,CS,,,CS_EM,minor_elective,CS-EM-09,False,
+B. Financial Management,Choose ONLY 5 courses from this set,GFB2113,Fundamental of Investment,3,EM,,CS,,,CS_EM,minor_elective,CS-EM-10,False,
+B. Financial Management,Choose ONLY 5 courses from this set,GFB3033,Corporate Finance,3,EM,,CS,,,CS_EM,minor_elective,CS-EM-11,False,
+B. Financial Management,Choose ONLY 5 courses from this set,GFB3043,International Financial Management,3,EM,,CS,,,CS_EM,minor_elective,CS-EM-12,False,
+B. Financial Management,Choose ONLY 5 courses from this set,GEB3083,International Business,3,EM,,CS,,,CS_EM,minor_elective,CS-EM-13,False,
+B. Financial Management,Choose ONLY 5 courses from this set,GEB3233,Enterprise Risk Management,3,EM,,CS,,,CS_EM,minor_elective,CS-EM-14,False,
+C. Accounting and Finance,This set contains 5 courses,GFB2013,Principle of Finance,3,EM,,CS,,,CS_EM,minor_elective,CS-EM-15,False,
+C. Accounting and Finance,This set contains 5 courses,GFB2153,Business Accounting,3,EM,,CS,,,CS_EM,minor_elective,CS-EM-16,False,
+C. Accounting and Finance,This set contains 5 courses,GFB2283,Fundamental of Investment,3,EM,,CS,,,CS_EM,minor_elective,CS-EM-17,False,
+C. Accounting and Finance,This set contains 5 courses,GFB2293,Corporate Finance,3,EM,,CS,,,CS_EM,minor_elective,CS-EM-18,False,
+C. Accounting and Finance,This set contains 5 courses,GFB2303,International Financial Management,3,EM,,CS,,,CS_EM,minor_elective,CS-EM-19,False,
+A. Data Analytics,,TEB3113,Big Data Analytics,3,CSp,Object Oriented Programming,CS,,,CS_CSp,core_specialisation,CS-CSP-01,False,
+A. Data Analytics,,TEB3123,Machine Learning,3,CSp,,CS,,,CS_CSp,core_specialisation,CS-CSP-02,False,
+A. Data Analytics,,TEB3133,Data Visualisation,3,CSp,,CS,,,CS_CSp,core_specialisation,CS-CSP-03,False,
+B. Cyber Security,,TEB3213,Computer Forensic,3,CSp,,CS,,,CS_CSp,core_specialisation,CS-CSP-04,False,
+B. Cyber Security,,TEB3223,Information Assurance,3,CSp,,CS,,,CS_CSp,core_specialisation,CS-CSP-05,False,
+B. Cyber Security,,TEB3233,Computer Ethics and Cyber Law,3,CSp,,CS,,,CS_CSp,core_specialisation,CS-CSP-06,False,
+C. Enterprise Systems,,TEB3313,Business Intelligence,3,CSp,,CS,,,CS_CSp,core_specialisation,CS-CSP-07,False,
+C. Enterprise Systems,,TEB3323,Enterprise System Development,3,CSp,Data and Information Management,CS,,,CS_CSp,core_specialisation,CS-CSP-08,False,
+C. Enterprise Systems,,TEB3333,IT Audit & Risk Management,3,CSp,,CS,,,CS_CSp,core_specialisation,CS-CSP-09,False,
+D. Software Quality,,TEB3413,Software Requirement Engineering,3,CSp,Software Engineering and HCI,CS,,,CS_CSp,core_specialisation,CS-CSP-10,False,
+D. Software Quality,,TEB3423,Software Design and Architecture,3,CSp,,CS,,,CS_CSp,core_specialisation,CS-CSP-11,False,
+D. Software Quality,,TEB3433,Software Testing & Quality Assurance,3,CSp,Software Engineering and HCI,CS,,,CS_CSp,core_specialisation,CS-CSP-12,False,
+A. Corporate Management,Choose ONLY 5 courses from this set,GFB1033,Management & Organisational Behaviour,3,EM,,IS,,,IS_EM,minor_elective,IS-EM-01,False,
+A. Corporate Management,Choose ONLY 5 courses from this set,GFB2043,Principles of Marketing,3,EM,,IS,,,IS_EM,minor_elective,IS-EM-02,False,
+A. Corporate Management,Choose ONLY 5 courses from this set,GFB3113,Corporate Communication,3,EM,,IS,,,IS_EM,minor_elective,IS-EM-03,False,
+A. Corporate Management,Choose ONLY 5 courses from this set,GFB3093,Strategic Management,3,EM,,IS,,,IS_EM,minor_elective,IS-EM-04,False,
+A. Corporate Management,Choose ONLY 5 courses from this set,GFB3073,Human Resource Management (Final Year Only),3,EM,,IS,,,IS_EM,minor_elective,IS-EM-05,False,
+A. Corporate Management,Choose ONLY 5 courses from this set,GEB3213,Forecasting Methods for Management,3,EM,,IS,,,IS_EM,minor_elective,IS-EM-06,False,
+A. Corporate Management,Choose ONLY 5 courses from this set,GEB3203,Strategic Business Analytics,3,EM,,IS,,,IS_EM,minor_elective,IS-EM-07,False,
+B. Financial Management,Choose ONLY 5 courses from this set,GFB2053,Principle of Finance,3,EM,,IS,,,IS_EM,minor_elective,IS-EM-08,False,
+B. Financial Management,Choose ONLY 5 courses from this set,GFB2013,Business Accounting,3,EM,,IS,,,IS_EM,minor_elective,IS-EM-09,False,
+B. Financial Management,Choose ONLY 5 courses from this set,GFB2113,Fundamental of Investment,3,EM,,IS,,,IS_EM,minor_elective,IS-EM-10,False,
+B. Financial Management,Choose ONLY 5 courses from this set,GFB3033,Corporate Finance,3,EM,,IS,,,IS_EM,minor_elective,IS-EM-11,False,
+B. Financial Management,Choose ONLY 5 courses from this set,GFB3043,International Financial Management,3,EM,,IS,,,IS_EM,minor_elective,IS-EM-12,False,
+B. Financial Management,Choose ONLY 5 courses from this set,GFB3083,International Business,3,EM,,IS,,,IS_EM,minor_elective,IS-EM-13,False,
+C. Accounting and Finance,This set contains 5 courses,GFB2013,Principle of Finance,3,EM,,IS,,,IS_EM,minor_elective,IS-EM-14,False,
+C. Accounting and Finance,This set contains 5 courses,GFB2153,Business Accounting,3,EM,,IS,,,IS_EM,minor_elective,IS-EM-15,False,
+C. Accounting and Finance,This set contains 5 courses,GFB2283,Fundamental of Investment,3,EM,,IS,,,IS_EM,minor_elective,IS-EM-16,False,
+C. Accounting and Finance,This set contains 5 courses,GFB2293,Corporate Finance,3,EM,,IS,,,IS_EM,minor_elective,IS-EM-17,False,
+C. Accounting and Finance,This set contains 5 courses,GFB2303,International Financial Management,3,EM,,IS,,,IS_EM,minor_elective,IS-EM-18,False,
+A. Big Data Analytics,,TFB3113,Data Mining,3,CSp,,IS,,,IS_CSp,core_specialisation,IS-CSP-01,False,
+A. Big Data Analytics,,TFB3123,Machine Learning,3,CSp,,IS,,,IS_CSp,core_specialisation,IS-CSP-02,False,
+A. Big Data Analytics,,TFB3133,Data Visualisation,3,CSp,,IS,,,IS_CSp,core_specialisation,IS-CSP-03,False,
+B. Digital Technology,,TFB3213,Digital Innovations,3,CSp,,IS,,,IS_CSp,core_specialisation,IS-CSP-04,False,
+B. Digital Technology,,TFB3223,Emerging Topics in Digital Technology,3,CSp,,IS,,,IS_CSp,core_specialisation,IS-CSP-05,False,
+B. Digital Technology,,TFB3233,Digital Economy,3,CSp,,IS,,,IS_CSp,core_specialisation,IS-CSP-06,False,
+C. FINTECH,,TFB3313,Introduction to Fintech,3,CSp,,IS,,,IS_CSp,core_specialisation,IS-CSP-07,False,
+C. FINTECH,,TFB3323,Fintech Innovation,3,CSp,,IS,,,IS_CSp,core_specialisation,IS-CSP-08,False,
+C. FINTECH,,TFB3333,Fintech Ethics and Regulations,3,CSp,,IS,,,IS_CSp,core_specialisation,IS-CSP-09,False,
+D. Software Quality,,TFB3413,Software Requirement Engineering,3,CSp,,IS,,,IS_CSp,core_specialisation,IS-CSP-10,False,
+D. Software Quality,,TFB3423,Software Design and Architecture,3,CSp,,IS,,,IS_CSp,core_specialisation,IS-CSP-11,False,
+D. Software Quality,,TFB3433,Software Testing & Quality Assurance,3,CSp,,IS,,,IS_CSp,core_specialisation,IS-CSP-12,False,
+,,KFL1011F / KFL1011U,Event Management,1,CoQ,,IT,,,CoQ,co_curriculum,IT-COQ-01,False,CoQ
+,,KFL1021F / KFL1021U,Groom-Me,1,CoQ,,IT,,,CoQ,co_curriculum,IT-COQ-02,False,CoQ
+,,KFL1031F / KFL1031U,Safety & Risk Management,1,CoQ,,IT,,,CoQ,co_curriculum,IT-COQ-03,False,CoQ
+,,KFL1041F / KFL1041U,Wellbeing & Resilience,1,CoQ,,IT,,,CoQ,co_curriculum,IT-COQ-04,False,CoQ
+,,KFL1051F / KFL1051U,Global Citizen,1,CoQ,,IT,,,CoQ,co_curriculum,IT-COQ-05,False,CoQ
+,,KFL1061F / KFL1061U,Territorial Army 101,1,CoQ,,IT,,,CoQ,co_curriculum,IT-COQ-06,False,CoQ
+,,KFL1071F / KFL1071U,Speaking Out Loud,1,CoQ,,IT,,,CoQ,co_curriculum,IT-COQ-07,False,CoQ
+,,KFL1081F / KFL1081U,The Press,1,CoQ,,IT,,,CoQ,co_curriculum,IT-COQ-08,False,CoQ
+,,KFL1091F / KFL1091U,Content Creator,1,CoQ,,IT,,,CoQ,co_curriculum,IT-COQ-09,False,CoQ
+,,KFL1101F / KFL1101U,Effective Influencer,1,CoQ,,IT,,,CoQ,co_curriculum,IT-COQ-10,False,CoQ
+,,KFC1011F / KFC1011U,Creative Animation,1,CoQ,,IT,,,CoQ,co_curriculum,IT-COQ-11,False,CoQ
+,,KFC1021F / KFC1021U,Snap a Shot!,1,CoQ,,IT,,,CoQ,co_curriculum,IT-COQ-12,False,CoQ
+,,KFC1031F / KFC1031U,Interior Design,1,CoQ,,IT,,,CoQ,co_curriculum,IT-COQ-13,False,CoQ
+,,KFC1041F / KFC1041U,3D Prototyping,1,CoQ,,IT,,,CoQ,co_curriculum,IT-COQ-14,False,CoQ
+,,KFC1051F / KFC1051U,3D Prototyping,1,CoQ,,IT,,,CoQ,co_curriculum,IT-COQ-15,False,CoQ
+,,KFC1061F / KFC1061U,The Inventors,1,CoQ,,IT,,,CoQ,co_curriculum,IT-COQ-16,False,CoQ
+,,KFC1071F / KFC1071U,Digital-preneur,1,CoQ,,IT,,,CoQ,co_curriculum,IT-COQ-17,False,CoQ
+,,KFC1081F / KFC1081U,E-marketing,1,CoQ,,IT,,,CoQ,co_curriculum,IT-COQ-18,False,CoQ
+,,KFC1091F / KFC1091U,FinTech,1,CoQ,,IT,,,CoQ,co_curriculum,IT-COQ-19,False,CoQ
+,,KFC1101F / KFC1101U,Investment,1,CoQ,,IT,,,CoQ,co_curriculum,IT-COQ-20,False,CoQ
+,,KFA1011F / KFA1011U,Culinary Arts,1,CoQ,,IT,,,CoQ,co_curriculum,IT-COQ-21,False,CoQ
+,,KFA1021F / KFA1021U,"Lights, Camera, Action!",1,CoQ,,IT,,,CoQ,co_curriculum,IT-COQ-22,False,CoQ
+,,KFA1031F / KFA1031U,Traditional Music,1,CoQ,,IT,,,CoQ,co_curriculum,IT-COQ-23,False,CoQ
+,,KFA1041F / KFA1041U,Let’s Dance,1,CoQ,,IT,,,CoQ,co_curriculum,IT-COQ-24,False,CoQ
+,,KFA1051F / KFA1051U,Malaysian Craft,1,CoQ,,IT,,,CoQ,co_curriculum,IT-COQ-25,False,CoQ
+,,KFA1061F / KFA1061U,The Voice,1,CoQ,,IT,,,CoQ,co_curriculum,IT-COQ-26,False,CoQ
+,,KFA1071F / KFA1071U,Doodle Arts,1,CoQ,,IT,,,CoQ,co_curriculum,IT-COQ-27,False,CoQ
+,,KFA1081F / KFA1081U,Calligraphy,1,CoQ,,IT,,,CoQ,co_curriculum,IT-COQ-28,False,CoQ
+,,KFA1091F / KFA1091U,String Ensemble,1,CoQ,,IT,,,CoQ,co_curriculum,IT-COQ-29,False,CoQ
+,,KFA1101F / KFA1101U,Creative Writing,1,CoQ,,IT,,,CoQ,co_curriculum,IT-COQ-30,False,CoQ
+,,KFS1011F / KFS1011U,Outdoor Recreation,1,CoQ,,IT,,,CoQ,co_curriculum,IT-COQ-31,False,CoQ
+,,KFS1021F / KFS1021U,Fencing,1,CoQ,,IT,,,CoQ,co_curriculum,IT-COQ-32,False,CoQ
+,,KFS1031F / KFS1031U,Aerobic Dance,1,CoQ,,IT,,,CoQ,co_curriculum,IT-COQ-33,False,CoQ
+,,KFS1041F / KFS1041U,Shooting,1,CoQ,,IT,,,CoQ,co_curriculum,IT-COQ-34,False,CoQ
+,,KFS1051F / KFS1051U,Golf,1,CoQ,,IT,,,CoQ,co_curriculum,IT-COQ-35,False,CoQ
+,,KFS1061F / KFS1061U,Mixed Martial Arts,1,CoQ,,IT,,,CoQ,co_curriculum,IT-COQ-36,False,CoQ
+,,KFS1071F / KFS1071U,Wall Climbing,1,CoQ,,IT,,,CoQ,co_curriculum,IT-COQ-37,False,CoQ
+,,KFS1081F / KFS1081U,Scuba Diving,1,CoQ,,IT,,,CoQ,co_curriculum,IT-COQ-38,False,CoQ
+,,KFS1091F / KFS1091U,Sports First Aider,1,CoQ,,IT,,,CoQ,co_curriculum,IT-COQ-39,False,CoQ
+,,KFS1101F / KFS1101U,Sports Management,1,CoQ,,IT,,,CoQ,co_curriculum,IT-COQ-40,False,CoQ
+,,LFB2012,Basic Arabic Communication,2,MPU2,,IT,,,MPU2,mpu2,IT-MPU2-01,False,MPU_2
+,,LFB2022,Basic Mandarin Communication,2,MPU2,,IT,,,MPU2,mpu2,IT-MPU2-02,False,MPU_2
+,,LFB2032,Bahasa Kebangsaan A,2,MPU2,for Malaysian Citizen only,IT,,,MPU2,mpu2,IT-MPU2-03,False,MPU_2
+,,LFB2062,Basic French Communication,2,MPU2,,IT,,,MPU2,mpu2,IT-MPU2-04,False,MPU_2
+,,LFB2052,Basic Korean Communication,2,MPU2,,IT,,,MPU2,mpu2,IT-MPU2-05,False,MPU_2
+,,LFB2042,Technical Writing,2,MPU2,,IT,,,MPU2,mpu2,IT-MPU2-06,False,MPU_2
+,,GFB2092,Business Ventures,2,MPU2,,IT,,,MPU2,mpu2,IT-MPU2-07,False,MPU_2
+,,HFB2042,Islamic Critical Thinking,2,MPU2,,IT,,,MPU2,mpu2,IT-MPU2-08,False,MPU_2
+,,HFB2052,Islamic and Contemporary Leadership,2,MPU2,,IT,,,MPU2,mpu2,IT-MPU2-09,False,MPU_2
+,,HFB2062,Stress Management Skills,2,MPU2,,IT,,,MPU2,mpu2,IT-MPU2-10,False,MPU_2
+,,HFB2082,Problem Solving and Decision Making,2,MPU2,,IT,,,MPU2,mpu2,IT-MPU2-11,False,MPU_2
+,,LFB2072,Basic Spanish Communication,2,MPU2,,IT,,,MPU2,mpu2,IT-MPU2-12,False,MPU_2
+,,LFB2082,Basic Japanese Communication,2,MPU2,,IT,,,MPU2,mpu2,IT-MPU2-13,False,MPU_2
+,,HFB2072,Innovation and Creativity Skills,2,MPU2,,IT,,,MPU2,mpu2,IT-MPU2-14,False,MPU_2
+,,KFL1011F / KFL1011U,Event Management,1,CoQ,,CS,,,CoQ,co_curriculum,CS-COQ-01,False,CoQ
+,,KFL1021F / KFL1021U,Groom-Me,1,CoQ,,CS,,,CoQ,co_curriculum,CS-COQ-02,False,CoQ
+,,KFL1031F / KFL1031U,Safety & Risk Management,1,CoQ,,CS,,,CoQ,co_curriculum,CS-COQ-03,False,CoQ
+,,KFL1041F / KFL1041U,Wellbeing & Resilience,1,CoQ,,CS,,,CoQ,co_curriculum,CS-COQ-04,False,CoQ
+,,KFL1051F / KFL1051U,Global Citizen,1,CoQ,,CS,,,CoQ,co_curriculum,CS-COQ-05,False,CoQ
+,,KFL1061F / KFL1061U,Territorial Army 101,1,CoQ,,CS,,,CoQ,co_curriculum,CS-COQ-06,False,CoQ
+,,KFL1071F / KFL1071U,Speaking Out Loud,1,CoQ,,CS,,,CoQ,co_curriculum,CS-COQ-07,False,CoQ
+,,KFL1081F / KFL1081U,The Press,1,CoQ,,CS,,,CoQ,co_curriculum,CS-COQ-08,False,CoQ
+,,KFL1091F / KFL1091U,Content Creator,1,CoQ,,CS,,,CoQ,co_curriculum,CS-COQ-09,False,CoQ
+,,KFL1101F / KFL1101U,Effective Influencer,1,CoQ,,CS,,,CoQ,co_curriculum,CS-COQ-10,False,CoQ
+,,KFC1011F / KFC1011U,Creative Animation,1,CoQ,,CS,,,CoQ,co_curriculum,CS-COQ-11,False,CoQ
+,,KFC1021F / KFC1021U,Snap a Shot!,1,CoQ,,CS,,,CoQ,co_curriculum,CS-COQ-12,False,CoQ
+,,KFC1031F / KFC1031U,Interior Design,1,CoQ,,CS,,,CoQ,co_curriculum,CS-COQ-13,False,CoQ
+,,KFC1041F / KFC1041U,3D Prototyping,1,CoQ,,CS,,,CoQ,co_curriculum,CS-COQ-14,False,CoQ
+,,KFC1051F / KFC1051U,3D Prototyping,1,CoQ,,CS,,,CoQ,co_curriculum,CS-COQ-15,False,CoQ
+,,KFC1061F / KFC1061U,The Inventors,1,CoQ,,CS,,,CoQ,co_curriculum,CS-COQ-16,False,CoQ
+,,KFC1071F / KFC1071U,Digital-preneur,1,CoQ,,CS,,,CoQ,co_curriculum,CS-COQ-17,False,CoQ
+,,KFC1081F / KFC1081U,E-marketing,1,CoQ,,CS,,,CoQ,co_curriculum,CS-COQ-18,False,CoQ
+,,KFC1091F / KFC1091U,FinTech,1,CoQ,,CS,,,CoQ,co_curriculum,CS-COQ-19,False,CoQ
+,,KFC1101F / KFC1101U,Investment,1,CoQ,,CS,,,CoQ,co_curriculum,CS-COQ-20,False,CoQ
+,,KFA1011F / KFA1011U,Culinary Arts,1,CoQ,,CS,,,CoQ,co_curriculum,CS-COQ-21,False,CoQ
+,,KFA1021F / KFA1021U,"Lights, Camera, Action!",1,CoQ,,CS,,,CoQ,co_curriculum,CS-COQ-22,False,CoQ
+,,KFA1031F / KFA1031U,Traditional Music,1,CoQ,,CS,,,CoQ,co_curriculum,CS-COQ-23,False,CoQ
+,,KFA1041F / KFA1041U,Let’s Dance,1,CoQ,,CS,,,CoQ,co_curriculum,CS-COQ-24,False,CoQ
+,,KFA1051F / KFA1051U,Malaysian Craft,1,CoQ,,CS,,,CoQ,co_curriculum,CS-COQ-25,False,CoQ
+,,KFA1061F / KFA1061U,The Voice,1,CoQ,,CS,,,CoQ,co_curriculum,CS-COQ-26,False,CoQ
+,,KFA1071F / KFA1071U,Doodle Arts,1,CoQ,,CS,,,CoQ,co_curriculum,CS-COQ-27,False,CoQ
+,,KFA1081F / KFA1081U,Calligraphy,1,CoQ,,CS,,,CoQ,co_curriculum,CS-COQ-28,False,CoQ
+,,KFA1091F / KFA1091U,String Ensemble,1,CoQ,,CS,,,CoQ,co_curriculum,CS-COQ-29,False,CoQ
+,,KFA1101F / KFA1101U,Creative Writing,1,CoQ,,CS,,,CoQ,co_curriculum,CS-COQ-30,False,CoQ
+,,KFS1011F / KFS1011U,Outdoor Recreation,1,CoQ,,CS,,,CoQ,co_curriculum,CS-COQ-31,False,CoQ
+,,KFS1021F / KFS1021U,Fencing,1,CoQ,,CS,,,CoQ,co_curriculum,CS-COQ-32,False,CoQ
+,,KFS1031F / KFS1031U,Aerobic Dance,1,CoQ,,CS,,,CoQ,co_curriculum,CS-COQ-33,False,CoQ
+,,KFS1041F / KFS1041U,Shooting,1,CoQ,,CS,,,CoQ,co_curriculum,CS-COQ-34,False,CoQ
+,,KFS1051F / KFS1051U,Golf,1,CoQ,,CS,,,CoQ,co_curriculum,CS-COQ-35,False,CoQ
+,,KFS1061F / KFS1061U,Mixed Martial Arts,1,CoQ,,CS,,,CoQ,co_curriculum,CS-COQ-36,False,CoQ
+,,KFS1071F / KFS1071U,Wall Climbing,1,CoQ,,CS,,,CoQ,co_curriculum,CS-COQ-37,False,CoQ
+,,KFS1081F / KFS1081U,Scuba Diving,1,CoQ,,CS,,,CoQ,co_curriculum,CS-COQ-38,False,CoQ
+,,KFS1091F / KFS1091U,Sports First Aider,1,CoQ,,CS,,,CoQ,co_curriculum,CS-COQ-39,False,CoQ
+,,KFS1101F / KFS1101U,Sports Management,1,CoQ,,CS,,,CoQ,co_curriculum,CS-COQ-40,False,CoQ
+,,LFB2012,Basic Arabic Communication,2,MPU2,,CS,,,MPU2,mpu2,CS-MPU2-01,False,MPU_2
+,,LFB2022,Basic Mandarin Communication,2,MPU2,,CS,,,MPU2,mpu2,CS-MPU2-02,False,MPU_2
+,,LFB2032,Bahasa Kebangsaan A,2,MPU2,for Malaysian Citizen only,CS,,,MPU2,mpu2,CS-MPU2-03,False,MPU_2
+,,LFB2062,Basic French Communication,2,MPU2,,CS,,,MPU2,mpu2,CS-MPU2-04,False,MPU_2
+,,LFB2052,Basic Korean Communication,2,MPU2,,CS,,,MPU2,mpu2,CS-MPU2-05,False,MPU_2
+,,LFB2042,Technical Writing,2,MPU2,,CS,,,MPU2,mpu2,CS-MPU2-06,False,MPU_2
+,,GFB2092,Business Ventures,2,MPU2,,CS,,,MPU2,mpu2,CS-MPU2-07,False,MPU_2
+,,HFB2042,Islamic Critical Thinking,2,MPU2,,CS,,,MPU2,mpu2,CS-MPU2-08,False,MPU_2
+,,HFB2052,Islamic and Contemporary Leadership,2,MPU2,,CS,,,MPU2,mpu2,CS-MPU2-09,False,MPU_2
+,,HFB2062,Stress Management Skills,2,MPU2,,CS,,,MPU2,mpu2,CS-MPU2-10,False,MPU_2
+,,HFB2082,Problem Solving and Decision Making,2,MPU2,,CS,,,MPU2,mpu2,CS-MPU2-11,False,MPU_2
+,,LFB2072,Basic Spanish Communication,2,MPU2,,CS,,,MPU2,mpu2,CS-MPU2-12,False,MPU_2
+,,LFB2082,Basic Japanese Communication,2,MPU2,,CS,,,MPU2,mpu2,CS-MPU2-13,False,MPU_2
+,,HFB2072,Innovation and Creativity Skills,2,MPU2,,CS,,,MPU2,mpu2,CS-MPU2-14,False,MPU_2
+,,KFL1011F / KFL1011U,Event Management,1,CoQ,,IS,,,CoQ,co_curriculum,IS-COQ-01,False,CoQ
+,,KFL1021F / KFL1021U,Groom-Me,1,CoQ,,IS,,,CoQ,co_curriculum,IS-COQ-02,False,CoQ
+,,KFL1031F / KFL1031U,Safety & Risk Management,1,CoQ,,IS,,,CoQ,co_curriculum,IS-COQ-03,False,CoQ
+,,KFL1041F / KFL1041U,Wellbeing & Resilience,1,CoQ,,IS,,,CoQ,co_curriculum,IS-COQ-04,False,CoQ
+,,KFL1051F / KFL1051U,Global Citizen,1,CoQ,,IS,,,CoQ,co_curriculum,IS-COQ-05,False,CoQ
+,,KFL1061F / KFL1061U,Territorial Army 101,1,CoQ,,IS,,,CoQ,co_curriculum,IS-COQ-06,False,CoQ
+,,KFL1071F / KFL1071U,Speaking Out Loud,1,CoQ,,IS,,,CoQ,co_curriculum,IS-COQ-07,False,CoQ
+,,KFL1081F / KFL1081U,The Press,1,CoQ,,IS,,,CoQ,co_curriculum,IS-COQ-08,False,CoQ
+,,KFL1091F / KFL1091U,Content Creator,1,CoQ,,IS,,,CoQ,co_curriculum,IS-COQ-09,False,CoQ
+,,KFL1101F / KFL1101U,Effective Influencer,1,CoQ,,IS,,,CoQ,co_curriculum,IS-COQ-10,False,CoQ
+,,KFC1011F / KFC1011U,Creative Animation,1,CoQ,,IS,,,CoQ,co_curriculum,IS-COQ-11,False,CoQ
+,,KFC1021F / KFC1021U,Snap a Shot!,1,CoQ,,IS,,,CoQ,co_curriculum,IS-COQ-12,False,CoQ
+,,KFC1031F / KFC1031U,Interior Design,1,CoQ,,IS,,,CoQ,co_curriculum,IS-COQ-13,False,CoQ
+,,KFC1041F / KFC1041U,3D Prototyping,1,CoQ,,IS,,,CoQ,co_curriculum,IS-COQ-14,False,CoQ
+,,KFC1051F / KFC1051U,3D Prototyping,1,CoQ,,IS,,,CoQ,co_curriculum,IS-COQ-15,False,CoQ
+,,KFC1061F / KFC1061U,The Inventors,1,CoQ,,IS,,,CoQ,co_curriculum,IS-COQ-16,False,CoQ
+,,KFC1071F / KFC1071U,Digital-preneur,1,CoQ,,IS,,,CoQ,co_curriculum,IS-COQ-17,False,CoQ
+,,KFC1081F / KFC1081U,E-marketing,1,CoQ,,IS,,,CoQ,co_curriculum,IS-COQ-18,False,CoQ
+,,KFC1091F / KFC1091U,FinTech,1,CoQ,,IS,,,CoQ,co_curriculum,IS-COQ-19,False,CoQ
+,,KFC1101F / KFC1101U,Investment,1,CoQ,,IS,,,CoQ,co_curriculum,IS-COQ-20,False,CoQ
+,,KFA1011F / KFA1011U,Culinary Arts,1,CoQ,,IS,,,CoQ,co_curriculum,IS-COQ-21,False,CoQ
+,,KFA1021F / KFA1021U,"Lights, Camera, Action!",1,CoQ,,IS,,,CoQ,co_curriculum,IS-COQ-22,False,CoQ
+,,KFA1031F / KFA1031U,Traditional Music,1,CoQ,,IS,,,CoQ,co_curriculum,IS-COQ-23,False,CoQ
+,,KFA1041F / KFA1041U,Let’s Dance,1,CoQ,,IS,,,CoQ,co_curriculum,IS-COQ-24,False,CoQ
+,,KFA1051F / KFA1051U,Malaysian Craft,1,CoQ,,IS,,,CoQ,co_curriculum,IS-COQ-25,False,CoQ
+,,KFA1061F / KFA1061U,The Voice,1,CoQ,,IS,,,CoQ,co_curriculum,IS-COQ-26,False,CoQ
+,,KFA1071F / KFA1071U,Doodle Arts,1,CoQ,,IS,,,CoQ,co_curriculum,IS-COQ-27,False,CoQ
+,,KFA1081F / KFA1081U,Calligraphy,1,CoQ,,IS,,,CoQ,co_curriculum,IS-COQ-28,False,CoQ
+,,KFA1091F / KFA1091U,String Ensemble,1,CoQ,,IS,,,CoQ,co_curriculum,IS-COQ-29,False,CoQ
+,,KFA1101F / KFA1101U,Creative Writing,1,CoQ,,IS,,,CoQ,co_curriculum,IS-COQ-30,False,CoQ
+,,KFS1011F / KFS1011U,Outdoor Recreation,1,CoQ,,IS,,,CoQ,co_curriculum,IS-COQ-31,False,CoQ
+,,KFS1021F / KFS1021U,Fencing,1,CoQ,,IS,,,CoQ,co_curriculum,IS-COQ-32,False,CoQ
+,,KFS1031F / KFS1031U,Aerobic Dance,1,CoQ,,IS,,,CoQ,co_curriculum,IS-COQ-33,False,CoQ
+,,KFS1041F / KFS1041U,Shooting,1,CoQ,,IS,,,CoQ,co_curriculum,IS-COQ-34,False,CoQ
+,,KFS1051F / KFS1051U,Golf,1,CoQ,,IS,,,CoQ,co_curriculum,IS-COQ-35,False,CoQ
+,,KFS1061F / KFS1061U,Mixed Martial Arts,1,CoQ,,IS,,,CoQ,co_curriculum,IS-COQ-36,False,CoQ
+,,KFS1071F / KFS1071U,Wall Climbing,1,CoQ,,IS,,,CoQ,co_curriculum,IS-COQ-37,False,CoQ
+,,KFS1081F / KFS1081U,Scuba Diving,1,CoQ,,IS,,,CoQ,co_curriculum,IS-COQ-38,False,CoQ
+,,KFS1091F / KFS1091U,Sports First Aider,1,CoQ,,IS,,,CoQ,co_curriculum,IS-COQ-39,False,CoQ
+,,KFS1101F / KFS1101U,Sports Management,1,CoQ,,IS,,,CoQ,co_curriculum,IS-COQ-40,False,CoQ
+,,LFB2012,Basic Arabic Communication,2,MPU2,,IS,,,MPU2,mpu2,IS-MPU2-01,False,MPU_2
+,,LFB2022,Basic Mandarin Communication,2,MPU2,,IS,,,MPU2,mpu2,IS-MPU2-02,False,MPU_2
+,,LFB2032,Bahasa Kebangsaan A,2,MPU2,for Malaysian Citizen only,IS,,,MPU2,mpu2,IS-MPU2-03,False,MPU_2
+,,LFB2062,Basic French Communication,2,MPU2,,IS,,,MPU2,mpu2,IS-MPU2-04,False,MPU_2
+,,LFB2052,Basic Korean Communication,2,MPU2,,IS,,,MPU2,mpu2,IS-MPU2-05,False,MPU_2
+,,LFB2042,Technical Writing,2,MPU2,,IS,,,MPU2,mpu2,IS-MPU2-06,False,MPU_2
+,,GFB2092,Business Ventures,2,MPU2,,IS,,,MPU2,mpu2,IS-MPU2-07,False,MPU_2
+,,HFB2042,Islamic Critical Thinking,2,MPU2,,IS,,,MPU2,mpu2,IS-MPU2-08,False,MPU_2
+,,HFB2052,Islamic and Contemporary Leadership,2,MPU2,,IS,,,MPU2,mpu2,IS-MPU2-09,False,MPU_2
+,,HFB2062,Stress Management Skills,2,MPU2,,IS,,,MPU2,mpu2,IS-MPU2-10,False,MPU_2
+,,HFB2082,Problem Solving and Decision Making,2,MPU2,,IS,,,MPU2,mpu2,IS-MPU2-11,False,MPU_2
+,,LFB2072,Basic Spanish Communication,2,MPU2,,IS,,,MPU2,mpu2,IS-MPU2-12,False,MPU_2
+,,LFB2082,Basic Japanese Communication,2,MPU2,,IS,,,MPU2,mpu2,IS-MPU2-13,False,MPU_2
+,,HFB2072,Innovation and Creativity Skills,2,MPU2,,IS,,,MPU2,mpu2,IS-MPU2-14,False,MPU_2

@@ -1,0 +1,666 @@
+student_key,matric_number,student_name,semester_seq,year,period,occurrence,gpa,cgpa,standing,semester_credit_hours,accumulated_credit_hours
+S1,22005410,Kieron Dimaz Singh Dhillon,1,2023,September Semester,I-1F (CUR),1.875,1.875,Academic Probation,12.0,12.0
+S1,22005410,Kieron Dimaz Singh Dhillon,2,2024,January Semester,I-2F (CUR),1.317999958992,1.85,Academic Probation & Warning,11.0,23.0
+S1,22005410,Kieron Dimaz Singh Dhillon,3,2024,May Semester,I-3F (CUR),2.45000004768372,2.278,Pass,10.0,33.0
+S1,22005410,Kieron Dimaz Singh Dhillon,4,2024,September Semester,I-4F (CUR),3.0,2.724,Good Standing,14.0,47.0
+S1,22005410,Kieron Dimaz Singh Dhillon,5,2025,January Semester,I-5F (CUR),1.39999997615814,2.349,Academic Probation & Warning,15.0,62.0
+S1,22005410,Kieron Dimaz Singh Dhillon,6,2025,May Semester,I-6F (CUR),2.26900005340576,2.567,Pass,13.0,75.0
+S1,22005410,Kieron Dimaz Singh Dhillon,7,2025,September Semester,A-6F (CUR),2.79999995231628,2.613,Pass,15.0,90.0
+S1,22005410,Kieron Dimaz Singh Dhillon,8,2026,January Semester,A-7F (CUR),0.0,2.613,Pass,7.0,97.0
+S2,22001002,Irdina,1,2023,September Semester,I-1F (CUR),3.125,3.125,Good Standing,12.0,12.0
+S2,22001002,Irdina,2,2024,January Semester,I-2F (CUR),3.26900005340576,3.2,Good Standing,13.0,25.0
+S2,22001002,Irdina,3,2024,May Semester,I-3F (CUR),2.96199989318848,3.118,Pass,13.0,38.0
+S2,22001002,Irdina,4,2024,September Semester,I-4F (DEF),,,,,38.0
+S2,22001002,Irdina,5,2025,January Semester,A-4F (CUR),3.67300009727478,3.26,Dean List,13.0,51.0
+S2,22001002,Irdina,6,2025,May Semester,A-5F (CUR),3.26600003242493,3.261,Good Standing,16.0,67.0
+S2,22001002,Irdina,7,2025,September Semester,A-6F (CUR),3.56299996376038,3.307,Dean List,12.0,79.0
+S2,22001002,Irdina,8,2026,January Semester,A-7F (CUR),0.0,3.307,Pass,7.0,86.0
+S3,22001003,Nadia,1,2023,September Semester,I-1F (CUR),2.33299994468689,2.333,Pass,12.0,12.0
+S3,22001003,Nadia,2,2024,January Semester,I-2F (CUR),3.23300004005432,3.188,Good Standing,15.0,27.0
+S3,22001003,Nadia,3,2024,May Semester,I-3F (CUR),2.56699991226196,2.949,Pass,15.0,42.0
+S3,22001003,Nadia,4,2024,September Semester,I-4F (CUR),3.08899998664856,2.986,Good Standing,14.0,56.0
+S3,22001003,Nadia,5,2025,January Semester,I-5F (CUR),2.57100009918213,2.899,Pass,14.0,70.0
+S3,22001003,Nadia,6,2025,May Semester,I-6F (CUR),3.35700011253357,2.978,Good Standing,14.0,84.0
+S3,22001003,Nadia,7,2025,September Semester,I-7F (CUR),0.0,2.978,Pass,7.0,91.0
+S3,22001003,Nadia,8,2026,January Semester,I-8F (CUR),4.0,3.06,Good Standing,7.0,98.0
+S4,22001004,Hazel,1,2023,September Semester,I-1F (CUR),2.83299994468689,2.833,Pass,12.0,12.0
+S4,22001004,Hazel,2,2024,January Semester,I-2F (CUR),2.38499999046326,2.6,Pass,13.0,25.0
+S4,22001004,Hazel,3,2024,May Semester,I-3F (CUR),2.77900004386902,2.878,Pass,17.0,42.0
+S4,22001004,Hazel,4,2024,September Semester,I-4F (CUR),2.92899990081787,2.892,Pass,14.0,56.0
+S4,22001004,Hazel,5,2025,January Semester,I-5F (CUR),3.07100009918213,2.929,Good Standing,14.0,70.0
+S4,22001004,Hazel,6,2025,May Semester,I-6F (CUR),3.41100001335144,3.012,Good Standing,14.0,84.0
+S4,22001004,Hazel,7,2025,September Semester,I-7F (CUR),0.0,3.012,Pass,7.0,91.0
+S4,22001004,Hazel,8,2026,January Semester,I-8F (CUR),4.0,3.091,Good Standing,7.0,98.0
+S5,22001005,Adam,1,2023,September Semester,I-1F (CUR),2.41700005531311,2.417,Pass,12.0,12.0
+S5,22001005,Adam,2,2024,January Semester,I-2F (CUR),2.82699990272522,2.63,Pass,13.0,25.0
+S5,22001005,Adam,3,2024,May Semester,I-3F (CUR),3.14299988746643,2.814,Good Standing,14.0,39.0
+S5,22001005,Adam,4,2024,September Semester,I-4F (CUR),3.06699991226196,2.995,Good Standing,15.0,54.0
+S5,22001005,Adam,5,2025,January Semester,I-5F (CUR),2.91700005531311,2.978,Pass,15.0,69.0
+S5,22001005,Adam,6,2025,May Semester,I-6F (CUR),3.83899998664856,3.127,Dean List,14.0,83.0
+S5,22001005,Adam,7,2025,September Semester,I-7F (CUR),0.0,3.127,Pass,7.0,90.0
+S5,22001005,Adam,8,2026,January Semester,I-8F (CUR),3.75,3.176,Good Standing,7.0,97.0
+S6,22001006,Lucas,1,2023,September Semester,I-1F (CUR),3.64599990844727,3.646,Dean List,12.0,12.0
+S6,22001006,Lucas,2,2024,January Semester,I-2F (CUR),3.26900005340576,3.45,Good Standing,13.0,25.0
+S6,22001006,Lucas,3,2024,May Semester,I-3F (CUR),3.60700011253357,3.506,Dean List,14.0,39.0
+S6,22001006,Lucas,4,2024,September Semester,I-4F (CUR),3.64299988746643,3.542,Dean List,14.0,53.0
+S6,22001006,Lucas,5,2025,January Semester,I-5F (CUR),3.14299988746643,3.459,Good Standing,14.0,67.0
+S6,22001006,Lucas,6,2025,May Semester,I-6F (CUR),3.73200011253357,3.506,Dean List,14.0,81.0
+S6,22001006,Lucas,7,2025,September Semester,I-7F (CUR),0.0,3.506,Pass,7.0,88.0
+S6,22001006,Lucas,8,2026,January Semester,I-8F (CUR),4.0,3.545,Good Standing,7.0,95.0
+S7,22001007,Rayyan,1,2023,September Semester,I-1F (CUR),1.95799994468689,1.958,Academic Probation,12.0,12.0
+S7,22001007,Rayyan,2,2024,January Semester,I-2F (PRB),1.90900003910065,2.225,Academic Probation,11.0,23.0
+S7,22001007,Rayyan,3,2024,May Semester,I-3F (PRB),1.22699999809265,1.871,Academic Probation & Warning,11.0,34.0
+S7,22001007,Rayyan,4,2024,September Semester,I-4F (PRB),1.93799996376038,1.885,Academic Probation,8.0,42.0
+S7,22001007,Rayyan,5,2025,January Semester,I-5F (CUR),1.5,1.813,Academic Probation,9.0,51.0
+S7,22001007,Rayyan,6,2025,May Semester,I-6F (PRB),3.31800007820129,2.093,Good Standing,11.0,62.0
+S7,22001007,Rayyan,7,2025,September Semester,A-6F (CUR),2.15000009536743,2.512,Pass,15.0,77.0
+S7,22001007,Rayyan,8,2026,January Semester,E-6F (CUR),1.92900002002716,2.611,Academic Probation,14.0,91.0
+S8,22001008,Leon,1,2023,September Semester,I-1F (CUR),3.375,3.375,Good Standing,12.0,12.0
+S8,22001008,Leon,2,2024,January Semester,I-2F (CUR),2.59999990463257,2.944,Pass,15.0,27.0
+S8,22001008,Leon,3,2024,May Semester,I-3F (CUR),3.16700005531311,3.256,Good Standing,15.0,42.0
+S8,22001008,Leon,4,2024,September Semester,I-4F (CUR),3.25,3.255,Good Standing,10.0,52.0
+S8,22001008,Leon,5,2025,January Semester,I-5F (CUR),3.26699995994568,3.258,Good Standing,15.0,67.0
+S8,22001008,Leon,6,2025,May Semester,I-6F (CUR),3.19600009918213,3.247,Good Standing,14.0,81.0
+S8,22001008,Leon,7,2025,September Semester,I-7F (CUR),0.0,3.247,Pass,7.0,88.0
+S8,22001008,Leon,8,2026,January Semester,I-8F (CUR),2.5,3.185,Pass,7.0,95.0
+S9,22001009,Alia,1,2023,September Semester,I-1F (CUR),3.33299994468689,3.333,Good Standing,12.0,12.0
+S9,22001009,Alia,2,2024,January Semester,I-2F (CUR),3.28800010681152,3.31,Good Standing,13.0,25.0
+S9,22001009,Alia,3,2024,May Semester,I-3F (CUR),3.44600009918213,3.359,Good Standing,14.0,39.0
+S9,22001009,Alia,4,2024,September Semester,I-4F (CUR),3.38299989700317,3.366,Good Standing,15.0,54.0
+S9,22001009,Alia,5,2025,January Semester,I-5F (CUR),3.33299994468689,3.361,Good Standing,9.0,63.0
+S9,22001009,Alia,6,2025,May Semester,I-6F (CUR),3.5,3.388,Dean List,15.0,78.0
+S9,22001009,Alia,7,2025,September Semester,I-7F (CUR),0.0,3.388,Pass,7.0,85.0
+S9,22001009,Alia,8,2026,January Semester,I-8F (CUR),4.0,3.438,Good Standing,7.0,92.0
+S10,22001010,Naufal,1,2023,September Semester,I-1F (CUR),2.375,2.375,Pass,12.0,12.0
+S10,22001010,Naufal,2,2024,January Semester,I-2F (CUR),1.80799996852875,2.08,Academic Probation,13.0,25.0
+S10,22001010,Naufal,3,2024,May Semester,I-3F (CUR),2.18199992179871,2.111,Pass,11.0,36.0
+S10,22001010,Naufal,4,2024,September Semester,I-4F (CUR),2.96399998664856,2.35,Pass,14.0,50.0
+S10,22001010,Naufal,5,2025,January Semester,I-5F (CUR),2.57100009918213,2.398,Pass,14.0,64.0
+S10,22001010,Naufal,6,2025,May Semester,I-6F (CUR),3.53600001335144,2.603,Dean List,14.0,78.0
+S10,22001010,Naufal,7,2025,September Semester,A-6F (CUR),2.82100009918213,2.994,Pass,14.0,92.0
+S10,22001010,Naufal,8,2026,January Semester,A-7F (CUR),0.0,2.994,Pass,7.0,99.0
+S11,22001011,Caleb,1,2023,September Semester,I-1F (CUR),3.27099990844727,3.271,Good Standing,12.0,12.0
+S11,22001011,Caleb,2,2024,January Semester,I-2F (CUR),3.11500000953674,3.19,Good Standing,13.0,25.0
+S11,22001011,Caleb,3,2024,May Semester,I-3F (CUR),3.23200011253357,3.205,Good Standing,14.0,39.0
+S11,22001011,Caleb,4,2024,September Semester,I-4F (CUR),3.33899998664856,3.241,Good Standing,14.0,53.0
+S11,22001011,Caleb,5,2025,January Semester,I-5F (CUR),2.96399998664856,3.183,Pass,14.0,67.0
+S11,22001011,Caleb,6,2025,May Semester,I-6F (CUR),3.35700011253357,3.213,Good Standing,14.0,81.0
+S11,22001011,Caleb,7,2025,September Semester,I-7F (CUR),0.0,3.213,Pass,7.0,88.0
+S11,22001011,Caleb,8,2026,January Semester,I-8F (CUR),4.0,3.276,Good Standing,7.0,95.0
+S12,22001012,Grace,1,2023,September Semester,I-1F (CUR),1.0,1.0,Academic Probation & Warning,12.0,12.0
+S12,22001012,Grace,2,2024,January Semester,I-2F (PRW),2.70000004768372,2.053,Pass,10.0,22.0
+S12,22001012,Grace,3,2024,May Semester,I-3F (CUR),1.76900005340576,2.296,Academic Probation,13.0,35.0
+S12,22001012,Grace,4,2024,September Semester,I-4F (PRB),2.31800007820129,2.303,Pass,11.0,46.0
+S12,22001012,Grace,5,2025,January Semester,I-5F (CUR),2.5,2.356,Pass,14.0,60.0
+S12,22001012,Grace,6,2025,May Semester,I-6F (CUR),1.53100001811981,2.333,Academic Probation,16.0,76.0
+S12,22001012,Grace,7,2025,September Semester,A-6F (PRB),0.455000013113022,2.413,Academic Dismissal,11.0,87.0
+S12,22001012,Grace,8,2026,January Semester,E-6F (CUR),0.0,2.413,Academic Dismissal,9.0,96.0
+S13,22001013,Avery,1,2023,September Semester,I-1F (CUR),3.20799994468689,3.208,Good Standing,12.0,12.0
+S13,22001013,Avery,2,2024,January Semester,I-2F (CUR),3.05800008773804,3.13,Good Standing,13.0,25.0
+S13,22001013,Avery,3,2024,May Semester,I-3F (CUR),3.10700011253357,3.122,Good Standing,14.0,39.0
+S13,22001013,Avery,4,2024,September Semester,I-4F (CUR),3.21399998664856,3.146,Good Standing,14.0,53.0
+S13,22001013,Avery,5,2025,January Semester,I-5F (CUR),3.16100001335144,3.149,Good Standing,14.0,67.0
+S13,22001013,Avery,6,2025,May Semester,I-6F (CUR),3.51799988746643,3.213,Dean List,14.0,81.0
+S13,22001013,Avery,7,2025,September Semester,I-7F (CUR),0.0,3.213,Pass,7.0,88.0
+S13,22001013,Avery,8,2026,January Semester,I-8F (CUR),4.0,3.276,Good Standing,7.0,95.0
+S14,22001014,Aaliyah,1,2023,September Semester,I-1F (CUR),3.56299996376038,3.563,Dean List,12.0,12.0
+S14,22001014,Aaliyah,2,2024,January Semester,I-2F (CUR),3.25,3.4,Good Standing,13.0,25.0
+S14,22001014,Aaliyah,3,2024,May Semester,I-3F (CUR),3.66100001335144,3.494,Dean List,14.0,39.0
+S14,22001014,Aaliyah,4,2024,September Semester,I-4F (CUR),3.39299988746643,3.467,Good Standing,14.0,53.0
+S14,22001014,Aaliyah,5,2025,January Semester,I-5F (CUR),3.19600009918213,3.41,Good Standing,14.0,67.0
+S14,22001014,Aaliyah,6,2025,May Semester,I-6F (CUR),3.51799988746643,3.429,Dean List,14.0,81.0
+S14,22001014,Aaliyah,7,2025,September Semester,I-7F (CUR),0.0,3.429,Pass,7.0,88.0
+S14,22001014,Aaliyah,8,2026,January Semester,I-8F (CUR),3.5,3.435,Good Standing,7.0,95.0
+S15,22001015,Alyssa,1,2023,September Semester,I-1F (CUR),3.29200005531311,3.292,Good Standing,12.0,12.0
+S15,22001015,Alyssa,2,2024,January Semester,I-2F (CUR),2.38499999046326,2.82,Pass,13.0,25.0
+S15,22001015,Alyssa,3,2024,May Semester,I-3F (CUR),2.88199996948242,3.064,Pass,17.0,42.0
+S15,22001015,Alyssa,4,2024,September Semester,I-4F (CUR),3.32100009918213,3.132,Good Standing,14.0,56.0
+S15,22001015,Alyssa,5,2025,January Semester,I-5F (CUR),2.21399998664856,2.94,Pass,14.0,70.0
+S15,22001015,Alyssa,6,2025,May Semester,I-6F (CUR),3.25,3.114,Good Standing,17.0,87.0
+S15,22001015,Alyssa,7,2025,September Semester,I-7F (CUR),0.0,3.114,Pass,7.0,94.0
+S15,22001015,Alyssa,8,2026,January Semester,I-8F (CUR),4.0,3.185,Good Standing,7.0,101.0
+S16,22001016,Daniel,1,2023,September Semester,I-1F (CUR),3.52099990844727,3.521,Dean List,12.0,12.0
+S16,22001016,Daniel,2,2024,January Semester,I-2F (CUR),2.88499999046326,3.19,Pass,13.0,25.0
+S16,22001016,Daniel,3,2024,May Semester,I-3F (CUR),3.0,3.122,Good Standing,14.0,39.0
+S16,22001016,Daniel,4,2024,September Semester,I-4F (CUR),3.17899990081787,3.137,Good Standing,14.0,53.0
+S16,22001016,Daniel,5,2025,January Semester,I-5F (CUR),3.01799988746643,3.112,Good Standing,14.0,67.0
+S16,22001016,Daniel,6,2025,May Semester,I-6F (CUR),3.46399998664856,3.173,Good Standing,14.0,81.0
+S16,22001016,Daniel,7,2025,September Semester,I-7F (CUR),0.0,3.173,Pass,7.0,88.0
+S16,22001016,Daniel,8,2026,January Semester,I-8F (CUR),4.0,3.239,Good Standing,7.0,95.0
+S17,22001017,Chloe,1,2023,September Semester,I-1F (CUR),3.18799996376038,3.188,Good Standing,12.0,12.0
+S17,22001017,Chloe,2,2024,January Semester,I-2F (CUR),2.88499999046326,3.03,Pass,13.0,25.0
+S17,22001017,Chloe,3,2024,May Semester,I-3F (CUR),3.17899990081787,3.083,Good Standing,14.0,39.0
+S17,22001017,Chloe,4,2024,September Semester,I-4F (CUR),2.96399998664856,3.052,Pass,14.0,53.0
+S17,22001017,Chloe,5,2025,January Semester,I-5F (CUR),2.46399998664856,2.929,Pass,14.0,67.0
+S17,22001017,Chloe,6,2025,May Semester,I-6F (CUR),3.51500010490417,3.16,Dean List,17.0,84.0
+S17,22001017,Chloe,7,2025,September Semester,I-7F (CUR),0.0,3.16,Pass,7.0,91.0
+S17,22001017,Chloe,8,2026,January Semester,I-8F (CUR),4.0,3.227,Good Standing,7.0,98.0
+S18,22001018,Isabella,1,2023,September Semester,I-1F (CUR),3.625,3.625,Dean List,12.0,12.0
+S18,22001018,Isabella,2,2024,January Semester,I-2F (CUR),3.46199989318848,3.54,Good Standing,13.0,25.0
+S18,22001018,Isabella,3,2024,May Semester,I-3F (CUR),3.28600001335144,3.449,Good Standing,14.0,39.0
+S18,22001018,Isabella,4,2024,September Semester,I-4F (CUR),3.10700011253357,3.358,Good Standing,14.0,53.0
+S18,22001018,Isabella,5,2025,January Semester,I-5F (CUR),3.0,3.284,Good Standing,14.0,67.0
+S18,22001018,Isabella,6,2025,May Semester,I-6F (CUR),3.57100009918213,3.333,Dean List,14.0,81.0
+S18,22001018,Isabella,7,2025,September Semester,I-7F (CUR),0.0,3.333,Pass,7.0,88.0
+S18,22001018,Isabella,8,2026,January Semester,I-8F (CUR),4.0,3.386,Good Standing,7.0,95.0
+S19,22001019,Elena,1,2023,September Semester,I-1F (CUR),3.25,3.25,Good Standing,12.0,12.0
+S19,22001019,Elena,2,2024,January Semester,I-2F (CUR),3.15400004386902,3.2,Good Standing,13.0,25.0
+S19,22001019,Elena,3,2024,May Semester,I-3F (CUR),3.39299988746643,3.269,Good Standing,14.0,39.0
+S19,22001019,Elena,4,2024,September Semester,I-4F (CUR),3.33899998664856,3.288,Good Standing,14.0,53.0
+S19,22001019,Elena,5,2025,January Semester,I-5F (CUR),2.89299988746643,3.205,Pass,14.0,67.0
+S19,22001019,Elena,6,2025,May Semester,I-6F (CUR),3.46399998664856,3.25,Good Standing,14.0,81.0
+S19,22001019,Elena,7,2025,September Semester,I-7F (CUR),0.0,3.25,Pass,7.0,88.0
+S19,22001019,Elena,8,2026,January Semester,I-8F (CUR),4.0,3.31,Good Standing,7.0,95.0
+S20,22001020,Yasmin,1,2023,September Semester,I-1F (CUR),3.72900009155273,3.729,Dean List,12.0,12.0
+S20,22001020,Yasmin,2,2024,January Semester,I-2F (CUR),3.61500000953674,3.67,Dean List,13.0,25.0
+S20,22001020,Yasmin,3,2024,May Semester,I-3F (CUR),3.83899998664856,3.731,Dean List,14.0,39.0
+S20,22001020,Yasmin,4,2024,September Semester,I-4F (CUR),3.55800008773804,3.688,Dean List,13.0,52.0
+S20,22001020,Yasmin,5,2025,January Semester,I-5F (CUR),3.68300008773804,3.687,Dean List,15.0,67.0
+S20,22001020,Yasmin,6,2025,May Semester,I-6F (CUR),3.625,3.676,Dean List,14.0,81.0
+S20,22001020,Yasmin,7,2025,September Semester,I-7F (CUR),0.0,3.676,Pass,7.0,88.0
+S20,22001020,Yasmin,8,2026,January Semester,I-8F (CUR),4.0,3.702,Good Standing,7.0,95.0
+S21,22001021,Meera,1,2023,September Semester,I-1F (CUR),0.5,0.5,Academic Dismissal,12.0,12.0
+S21,22001021,Meera,2,2024,January Semester,I-2F (DEF),,,,,12.0
+S21,22001021,Meera,3,2024,May Semester,A-2F (CUR),1.10000002384186,1.214,Academic Probation & Warning,10.0,22.0
+S21,22001021,Meera,4,2024,September Semester,A-3F (TRF),3.18799996376038,1.932,Academic Probation,8.0,30.0
+S21,22001021,Meera,5,2025,January Semester,A-4E (TRF),,,,,30.0
+S22,22001022,Aqil,1,2023,September Semester,I-1F (CUR),2.20799994468689,2.208,Pass,12.0,12.0
+S22,22001022,Aqil,2,2024,January Semester,I-2F (CUR),2.56299996376038,2.7,Pass,16.0,28.0
+S22,22001022,Aqil,3,2024,May Semester,I-3F (CUR),3.08800005912781,3.077,Good Standing,17.0,45.0
+S22,22001022,Aqil,4,2024,September Semester,I-4F (CUR),3.32100009918213,3.142,Good Standing,14.0,59.0
+S22,22001022,Aqil,5,2025,January Semester,I-5F (CUR),2.78600001335144,3.067,Pass,14.0,73.0
+S22,22001022,Aqil,6,2025,May Semester,I-6F (CUR),3.51799988746643,3.145,Dean List,14.0,87.0
+S22,22001022,Aqil,7,2025,September Semester,I-7F (CUR),0.0,3.145,Pass,7.0,94.0
+S22,22001022,Aqil,8,2026,January Semester,I-8F (CUR),4.0,3.213,Good Standing,7.0,101.0
+S23,22001023,Amira,1,2023,September Semester,I-1F (CUR),3.20799994468689,3.208,Good Standing,12.0,12.0
+S23,22001023,Amira,2,2024,January Semester,I-2F (CUR),3.36500000953674,3.29,Good Standing,13.0,25.0
+S23,22001023,Amira,3,2024,May Semester,I-3F (CUR),3.375,3.321,Good Standing,14.0,39.0
+S23,22001023,Amira,4,2024,September Semester,I-4F (CUR),3.42899990081787,3.349,Good Standing,14.0,53.0
+S23,22001023,Amira,5,2025,January Semester,I-5F (CUR),3.28600001335144,3.336,Good Standing,14.0,67.0
+S23,22001023,Amira,6,2025,May Semester,I-6F (CUR),3.35700011253357,3.34,Good Standing,14.0,81.0
+S23,22001023,Amira,7,2025,September Semester,I-7F (CUR),0.0,3.34,Pass,7.0,88.0
+S23,22001023,Amira,8,2026,January Semester,I-8F (CUR),3.5,3.352,Good Standing,7.0,95.0
+S24,22001024,Nathan,1,2023,September Semester,I-1F (CUR),3.64599990844727,3.646,Dean List,12.0,12.0
+S24,22001024,Nathan,2,2024,January Semester,I-2F (CUR),3.65400004386902,3.65,Dean List,13.0,25.0
+S24,22001024,Nathan,3,2024,May Semester,I-3F (CUR),3.73200011253357,3.679,Dean List,14.0,39.0
+S24,22001024,Nathan,4,2024,September Semester,I-4F (CUR),3.46399998664856,3.623,Good Standing,14.0,53.0
+S24,22001024,Nathan,5,2025,January Semester,I-5F (CUR),3.42899990081787,3.582,Good Standing,14.0,67.0
+S24,22001024,Nathan,6,2025,May Semester,I-6F (CUR),3.625,3.59,Dean List,14.0,81.0
+S24,22001024,Nathan,7,2025,September Semester,I-7F (CUR),0.0,3.59,Pass,7.0,88.0
+S24,22001024,Nathan,8,2026,January Semester,I-8F (CUR),4.0,3.622,Good Standing,7.0,95.0
+S25,22001025,Malik,1,2023,September Semester,I-1F (CUR),3.125,3.125,Good Standing,12.0,12.0
+S25,22001025,Malik,2,2024,January Semester,I-2F (CUR),2.88499999046326,3.0,Pass,13.0,25.0
+S25,22001025,Malik,3,2024,May Semester,I-3F (CUR),2.75,2.91,Pass,14.0,39.0
+S25,22001025,Malik,4,2024,September Semester,E-5F (CUR),2.95499992370605,2.92,Pass,11.0,50.0
+S25,22001025,Malik,5,2025,January Semester,E-6F (CUR),1.625,2.669,Academic Probation,12.0,62.0
+S25,22001025,Malik,6,2025,May Semester,I-6F (PRB),3.18199992179871,2.864,Good Standing,11.0,73.0
+S25,22001025,Malik,7,2025,September Semester,I-7F (CUR),0.0,2.864,Pass,7.0,80.0
+S25,22001025,Malik,8,2026,January Semester,I-8F (CUR),3.0,2.877,Good Standing,7.0,87.0
+S26,22001026,Ibrahim,1,2024,September Semester,I-1E (CUR),0.78600001335144,0.786,Academic Dismissal,14.0,14.0
+S26,22001026,Ibrahim,2,2025,January Semester,I-2E (CUR),0.0,0.688,Academic Dismissal,9.0,23.0
+S26,22001026,Ibrahim,3,2025,May Semester,I-3E (CUR),0.899999976158142,0.87,Academic Dismissal,10.0,33.0
+S27,22001027,Pranav,1,2024,September Semester,I-1E (CUR),2.42899990081787,2.429,Pass,14.0,14.0
+S27,22001027,Pranav,2,2025,January Semester,I-2E (CUR),2.23099994659424,2.333,Pass,13.0,27.0
+S27,22001027,Pranav,3,2025,May Semester,I-3E (WDR),,,,,27.0
+S28,22001028,Isaac,1,2024,September Semester,I-1E (CUR),0.929000020027161,0.929,Academic Dismissal,14.0,14.0
+S28,22001028,Isaac,2,2025,January Semester,I-2E (CUR),3.66700005531311,2.3,Good Standing,9.0,23.0
+S28,22001028,Isaac,3,2025,May Semester,I-3E (DEF),,,,,23.0
+S28,22001028,Isaac,4,2025,September Semester,A-3E (DEF),,,,,23.0
+S28,22001028,Isaac,5,2026,January Semester,E-3E (DREG),,,,,23.0
+S29,22001029,Tara,1,2020,May Semester,E-1E (CUR),1.53799998760223,1.538,Academic Probation,13.0,13.0
+S29,22001029,Tara,2,2020,September Semester,E-2E (CUR),2.04999995231628,1.761,Academic Probation,10.0,23.0
+S29,22001029,Tara,3,2021,January Semester,E-3E (CUR),2.63599991798401,2.044,Pass,11.0,34.0
+S29,22001029,Tara,4,2021,May Semester,E-4E (CUR),2.65899991989136,2.469,Pass,11.0,45.0
+S29,22001029,Tara,5,2021,September Semester,E-5E (CUR),2.33299994468689,2.432,Pass,15.0,60.0
+S29,22001029,Tara,6,2022,January Semester,I-5E (CUR),1.88900005817413,2.355,Academic Probation,9.0,69.0
+S29,22001029,Tara,7,2022,May Semester,A-5E (CUR),3.0,2.558,Good Standing,12.0,81.0
+S29,22001029,Tara,8,2022,September Semester,A-6E (CUR),0.0,2.558,Pass,7.0,88.0
+S29,22001029,Tara,9,2023,January Semester,A-7E (CUR),3.75,2.663,Good Standing,7.0,95.0
+S29,22001029,Tara,10,2023,May Semester,A-8E (CUR),2.89299988746643,2.697,Pass,14.0,109.0
+S29,22001029,Tara,11,2023,September Semester,A-9E (CUR),2.95499992370605,2.724,Pass,11.0,120.0
+S29,22001029,Tara,12,2024,January Semester,A-10E (CUR),3.0,2.748,Good Standing,10.0,130.0
+S29,22001029,Tara,13,2024,May Semester,A-11E (CUR),3.75,2.773,Good Standing,3.0,133.0
+S30,22001030,Weihao,1,2021,May Semester,E-1E (CUR),3.16100001335144,3.161,Good Standing,14.0,14.0
+S30,22001030,Weihao,2,2021,September Semester,E-2E (CUR),3.71199989318848,3.426,Dean List,13.0,27.0
+S30,22001030,Weihao,3,2022,January Semester,E-3E (CUR),2.94600009918213,3.262,Pass,14.0,41.0
+S30,22001030,Weihao,4,2022,May Semester,E-4E (CUR),2.91700005531311,3.184,Pass,12.0,53.0
+S30,22001030,Weihao,5,2022,September Semester,E-5E (CUR),3.09999990463257,3.165,Good Standing,15.0,68.0
+S30,22001030,Weihao,6,2023,January Semester,E-6E (CUR),0.0,3.165,Pass,7.0,75.0
+S30,22001030,Weihao,7,2023,May Semester,E-7E (CUR),3.75,3.22,Good Standing,7.0,82.0
+S30,22001030,Weihao,8,2023,September Semester,E-8E (CUR),3.48200011253357,3.261,Good Standing,14.0,96.0
+S30,22001030,Weihao,9,2024,January Semester,E-9E (CUR),3.14299988746643,3.245,Good Standing,14.0,110.0
+S30,22001030,Weihao,10,2024,May Semester,E-10E (CUR),3.65400004386902,3.291,Dean List,13.0,123.0
+S31,22001031,Rania,1,2021,May Semester,E-1E (CUR),3.07100009918213,3.071,Good Standing,14.0,14.0
+S31,22001031,Rania,2,2021,September Semester,E-2E (CUR),3.23099994659424,3.148,Good Standing,13.0,27.0
+S31,22001031,Rania,3,2022,January Semester,E-3E (CUR),2.32100009918213,2.866,Pass,14.0,41.0
+S31,22001031,Rania,4,2022,May Semester,E-4E (CUR),3.08299994468689,2.915,Good Standing,12.0,53.0
+S31,22001031,Rania,5,2022,September Semester,E-5E (CUR),3.38299989700317,3.018,Good Standing,15.0,68.0
+S31,22001031,Rania,6,2023,January Semester,E-6E (CUR),0.0,3.018,Pass,7.0,75.0
+S31,22001031,Rania,7,2023,May Semester,E-7E (CUR),4.0,3.11,Good Standing,7.0,82.0
+S31,22001031,Rania,8,2023,September Semester,E-8E (CUR),3.32100009918213,3.143,Good Standing,14.0,96.0
+S31,22001031,Rania,9,2024,January Semester,E-9E (CUR),3.10700011253357,3.138,Good Standing,14.0,110.0
+S31,22001031,Rania,10,2024,May Semester,E-10E (CUR),3.48099994659424,3.177,Good Standing,13.0,123.0
+S32,22001032,Fatima,1,2021,May Semester,E-1E (CUR),3.5,3.5,Dean List,14.0,14.0
+S32,22001032,Fatima,2,2021,September Semester,E-2E (CUR),3.65400004386902,3.574,Dean List,13.0,27.0
+S32,22001032,Fatima,3,2022,January Semester,E-3E (CUR),2.14299988746643,3.085,Pass,14.0,41.0
+S32,22001032,Fatima,4,2022,May Semester,E-4E (CUR),3.09999990463257,3.264,Good Standing,15.0,56.0
+S32,22001032,Fatima,5,2022,September Semester,E-5E (CUR),3.16700005531311,3.243,Good Standing,15.0,71.0
+S32,22001032,Fatima,6,2023,January Semester,E-6E (CUR),0.0,3.243,Pass,7.0,78.0
+S32,22001032,Fatima,7,2023,May Semester,E-7E (CUR),4.0,3.313,Good Standing,7.0,85.0
+S32,22001032,Fatima,8,2023,September Semester,E-8E (CUR),3.42899990081787,3.331,Good Standing,14.0,99.0
+S32,22001032,Fatima,9,2024,January Semester,E-9E (CUR),3.35700011253357,3.335,Good Standing,14.0,113.0
+S32,22001032,Fatima,10,2024,May Semester,E-10E (CUR),3.40400004386902,3.343,Good Standing,13.0,126.0
+S33,22001033,Danish,1,2021,May Semester,E-1E (CUR),3.23200011253357,3.232,Good Standing,14.0,14.0
+S33,22001033,Danish,2,2021,September Semester,E-2E (CUR),3.42300009727478,3.324,Good Standing,13.0,27.0
+S33,22001033,Danish,3,2022,January Semester,E-3E (CUR),2.71399998664856,3.116,Pass,14.0,41.0
+S33,22001033,Danish,4,2022,May Semester,E-4E (CUR),3.125,3.118,Good Standing,12.0,53.0
+S33,22001033,Danish,5,2022,September Semester,E-5E (CUR),3.40000009536743,3.18,Good Standing,15.0,68.0
+S33,22001033,Danish,6,2023,January Semester,E-6E (CUR),0.0,3.18,Pass,7.0,75.0
+S33,22001033,Danish,7,2023,May Semester,E-7E (CUR),4.0,3.257,Good Standing,7.0,82.0
+S33,22001033,Danish,8,2023,September Semester,E-8E (CUR),2.625,3.157,Pass,14.0,96.0
+S33,22001033,Danish,9,2024,January Semester,E-9E (CUR),3.05399990081787,3.143,Good Standing,14.0,110.0
+S33,22001033,Danish,10,2024,May Semester,E-10E (CUR),3.48399996757507,3.272,Good Standing,16.0,126.0
+S34,22001034,Rachel,1,2021,May Semester,E-1E (CUR),3.67899990081787,3.679,Dean List,14.0,14.0
+S34,22001034,Rachel,2,2021,September Semester,E-2E (CUR),3.73099994659424,3.704,Dean List,13.0,27.0
+S34,22001034,Rachel,3,2022,January Semester,E-3E (CUR),3.48200011253357,3.628,Good Standing,14.0,41.0
+S34,22001034,Rachel,4,2022,May Semester,E-4E (CUR),3.70799994468689,3.646,Dean List,12.0,53.0
+S34,22001034,Rachel,5,2022,September Semester,E-5E (CUR),3.66700005531311,3.651,Dean List,15.0,68.0
+S34,22001034,Rachel,6,2023,January Semester,E-6E (CUR),0.0,3.651,Pass,7.0,75.0
+S34,22001034,Rachel,7,2023,May Semester,E-7E (CUR),4.0,3.683,Good Standing,7.0,82.0
+S34,22001034,Rachel,8,2023,September Semester,E-8E (CUR),3.58899998664856,3.669,Dean List,14.0,96.0
+S34,22001034,Rachel,9,2024,January Semester,E-9E (CUR),3.73200011253357,3.677,Dean List,14.0,110.0
+S34,22001034,Rachel,10,2024,May Semester,E-10E (CUR),3.59599995613098,3.668,Dean List,13.0,123.0
+S35,22001035,Hana,1,2022,September Semester,I-1F (CUR),3.45799994468689,3.458,Good Standing,12.0,12.0
+S35,22001035,Hana,2,2023,January Semester,I-2F (SUS),,,,,12.0
+S35,22001035,Hana,3,2023,May Semester,A-2F (CUR),3.51799988746643,3.49,Dean List,14.0,26.0
+S35,22001035,Hana,4,2023,September Semester,A-3F (CUR),3.55399990081787,3.513,Dean List,14.0,40.0
+S35,22001035,Hana,5,2024,January Semester,I-5F (CUR),3.58899998664856,3.532,Dean List,14.0,54.0
+S35,22001035,Hana,6,2024,May Semester,A-5F (CUR),3.82800006866455,3.6,Dean List,16.0,70.0
+S35,22001035,Hana,7,2024,September Semester,A-6F (CUR),3.88599991798401,3.639,Dean List,11.0,81.0
+S35,22001035,Hana,8,2025,January Semester,A-7F (CUR),0.0,3.639,Pass,7.0,88.0
+S35,22001035,Hana,9,2025,May Semester,A-8F (CUR),4.0,3.668,Good Standing,7.0,95.0
+S35,22001035,Hana,10,2025,September Semester,A-9F (CUR),3.58899998664856,3.657,Dean List,14.0,109.0
+S35,22001035,Hana,11,2026,January Semester,A-10F (CUR),3.88499999046326,3.683,Dean List,13.0,122.0
+S36,22001036,Akash,1,2022,September Semester,I-1F (CUR),3.75,3.75,Dean List,12.0,12.0
+S36,22001036,Akash,2,2023,January Semester,I-2F (CUR),3.53800010681152,3.64,Dean List,13.0,25.0
+S36,22001036,Akash,3,2023,May Semester,I-3F (CUR),3.55399990081787,3.609,Dean List,14.0,39.0
+S36,22001036,Akash,4,2023,September Semester,I-4F (CUR),3.46399998664856,3.571,Good Standing,14.0,53.0
+S36,22001036,Akash,5,2024,January Semester,I-5F (CUR),3.91100001335144,3.642,Dean List,14.0,67.0
+S36,22001036,Akash,6,2024,May Semester,I-6F (CUR),3.78600001335144,3.667,Dean List,14.0,81.0
+S36,22001036,Akash,7,2024,September Semester,I-7F (CUR),0.0,3.667,Pass,7.0,88.0
+S36,22001036,Akash,8,2025,January Semester,I-8F (CUR),4.0,3.693,Good Standing,7.0,95.0
+S36,22001036,Akash,9,2025,May Semester,I-9F (CUR),3.94600009918213,3.728,Dean List,14.0,109.0
+S36,22001036,Akash,10,2025,September Semester,I-10F (CUR),3.59599995613098,3.713,Dean List,13.0,122.0
+S37,22001037,Kevin,1,2022,September Semester,I-1E (CUR),3.69600009918213,3.696,Dean List,14.0,14.0
+S37,22001037,Kevin,2,2023,January Semester,I-2E (CUR),3.46199989318848,3.583,Good Standing,13.0,27.0
+S37,22001037,Kevin,3,2023,May Semester,I-3E (CUR),3.80399990081787,3.659,Dean List,14.0,41.0
+S37,22001037,Kevin,4,2023,September Semester,I-4E (CUR),3.84599995613098,3.704,Dean List,13.0,54.0
+S37,22001037,Kevin,5,2024,January Semester,I-5E (CUR),3.75,3.713,Dean List,14.0,68.0
+S37,22001037,Kevin,6,2024,May Semester,I-6E (CUR),0.0,3.713,Pass,7.0,75.0
+S37,22001037,Kevin,7,2024,September Semester,I-7E (CUR),4.0,3.74,Good Standing,7.0,82.0
+S37,22001037,Kevin,8,2025,January Semester,I-8E (CUR),3.44600009918213,3.694,Good Standing,14.0,96.0
+S37,22001037,Kevin,9,2025,May Semester,I-9E (CUR),3.94600009918213,3.728,Dean List,14.0,110.0
+S37,22001037,Kevin,10,2025,September Semester,I-10E (CUR),3.76900005340576,3.733,Dean List,13.0,123.0
+S38,22001038,Harith,1,2022,September Semester,I-1F (CUR),3.125,3.125,Good Standing,12.0,12.0
+S38,22001038,Harith,2,2023,January Semester,I-2F (CUR),3.0,3.06,Good Standing,13.0,25.0
+S38,22001038,Harith,3,2023,May Semester,I-3F (CUR),3.55399990081787,3.237,Dean List,14.0,39.0
+S38,22001038,Harith,4,2023,September Semester,I-4F (CUR),3.30399990081787,3.255,Good Standing,14.0,53.0
+S38,22001038,Harith,5,2024,January Semester,I-5F (CUR),2.57100009918213,3.112,Pass,14.0,67.0
+S38,22001038,Harith,6,2024,May Semester,I-6F (CUR),3.6470000743866,3.34,Dean List,17.0,84.0
+S38,22001038,Harith,7,2024,September Semester,I-7F (CUR),0.0,3.34,Pass,7.0,91.0
+S38,22001038,Harith,8,2025,January Semester,I-8F (CUR),4.0,3.392,Good Standing,7.0,98.0
+S38,22001038,Harith,9,2025,May Semester,I-9F (CUR),3.625,3.424,Dean List,14.0,112.0
+S38,22001038,Harith,10,2025,September Semester,I-10F (CUR),3.53800010681152,3.437,Dean List,13.0,125.0
+S39,22001039,Hafiz,1,2022,September Semester,I-1E (CUR),3.51799988746643,3.518,Dean List,14.0,14.0
+S39,22001039,Hafiz,2,2023,January Semester,I-2E (CUR),3.71199989318848,3.611,Dean List,13.0,27.0
+S39,22001039,Hafiz,3,2023,May Semester,I-3E (CUR),3.42899990081787,3.549,Good Standing,14.0,41.0
+S39,22001039,Hafiz,4,2023,September Semester,I-4E (CUR),3.73099994659424,3.593,Dean List,13.0,54.0
+S39,22001039,Hafiz,5,2024,January Semester,I-5E (CUR),3.48200011253357,3.57,Good Standing,14.0,68.0
+S39,22001039,Hafiz,6,2024,May Semester,I-6E (CUR),0.0,3.57,Pass,7.0,75.0
+S39,22001039,Hafiz,7,2024,September Semester,I-7E (CUR),4.0,3.61,Good Standing,7.0,82.0
+S39,22001039,Hafiz,8,2025,January Semester,I-8E (CUR),3.66100001335144,3.618,Dean List,14.0,96.0
+S39,22001039,Hafiz,9,2025,May Semester,I-9E (CUR),3.51799988746643,3.604,Dean List,14.0,110.0
+S39,22001039,Hafiz,10,2025,September Semester,I-10E (CUR),3.42300009727478,3.584,Good Standing,13.0,123.0
+S40,22001040,Sonia,1,2022,September Semester,I-1E (CUR),3.21399998664856,3.214,Good Standing,14.0,14.0
+S40,22001040,Sonia,2,2023,January Semester,I-2E (CUR),3.36500000953674,3.287,Good Standing,13.0,27.0
+S40,22001040,Sonia,3,2023,May Semester,I-3E (CUR),3.14299988746643,3.238,Good Standing,14.0,41.0
+S40,22001040,Sonia,4,2023,September Semester,I-4E (CUR),3.11500000953674,3.208,Good Standing,13.0,54.0
+S40,22001040,Sonia,5,2024,January Semester,I-5E (CUR),3.21399998664856,3.21,Good Standing,14.0,68.0
+S40,22001040,Sonia,6,2024,May Semester,I-6E (CUR),0.0,3.21,Pass,7.0,75.0
+S40,22001040,Sonia,7,2024,September Semester,I-7E (CUR),3.75,3.26,Good Standing,7.0,82.0
+S40,22001040,Sonia,8,2025,January Semester,I-8E (CUR),3.53600001335144,3.303,Dean List,14.0,96.0
+S40,22001040,Sonia,9,2025,May Semester,I-9E (CUR),3.625,3.347,Dean List,14.0,110.0
+S40,22001040,Sonia,10,2025,September Semester,I-10E (CUR),3.82699990272522,3.401,Dean List,13.0,123.0
+S41,22001041,Faiz,1,2022,September Semester,I-1E (CUR),3.66100001335144,3.661,Dean List,14.0,14.0
+S41,22001041,Faiz,2,2023,January Semester,I-2E (CUR),3.48099994659424,3.574,Good Standing,13.0,27.0
+S41,22001041,Faiz,3,2023,May Semester,I-3E (CUR),3.44600009918213,3.53,Good Standing,14.0,41.0
+S41,22001041,Faiz,4,2023,September Semester,I-4E (CUR),3.73099994659424,3.579,Dean List,13.0,54.0
+S41,22001041,Faiz,5,2024,January Semester,I-5E (CUR),3.44600009918213,3.551,Good Standing,14.0,68.0
+S41,22001041,Faiz,6,2024,May Semester,I-6E (CUR),0.0,3.551,Pass,7.0,75.0
+S41,22001041,Faiz,7,2024,September Semester,I-7E (CUR),4.0,3.593,Good Standing,7.0,82.0
+S41,22001041,Faiz,8,2025,January Semester,I-8E (CUR),3.85700011253357,3.635,Dean List,14.0,96.0
+S41,22001041,Faiz,9,2025,May Semester,I-9E (CUR),3.46399998664856,3.612,Good Standing,14.0,110.0
+S41,22001041,Faiz,10,2025,September Semester,I-10E (CUR),3.42300009727478,3.591,Good Standing,13.0,123.0
+S42,22001042,Ryan,1,2022,September Semester,I-1E (CUR),3.21399998664856,3.214,Good Standing,14.0,14.0
+S42,22001042,Ryan,2,2023,January Semester,I-2E (CUR),3.17300009727478,3.194,Good Standing,13.0,27.0
+S42,22001042,Ryan,3,2023,May Semester,I-3E (CUR),3.10700011253357,3.165,Good Standing,14.0,41.0
+S42,22001042,Ryan,4,2023,September Semester,I-4E (CUR),3.27300000190735,3.188,Good Standing,11.0,52.0
+S42,22001042,Ryan,5,2024,January Semester,I-5E (CUR),3.25,3.202,Good Standing,16.0,68.0
+S42,22001042,Ryan,6,2024,May Semester,I-6E (CUR),0.0,3.202,Pass,7.0,75.0
+S42,22001042,Ryan,7,2024,September Semester,I-7E (CUR),3.75,3.253,Good Standing,7.0,82.0
+S42,22001042,Ryan,8,2025,January Semester,I-8E (CUR),3.58899998664856,3.306,Dean List,14.0,96.0
+S42,22001042,Ryan,9,2025,May Semester,I-9E (CUR),3.35700011253357,3.313,Good Standing,14.0,110.0
+S42,22001042,Ryan,10,2025,September Semester,I-10E (CUR),3.34599995613098,3.317,Good Standing,13.0,123.0
+S43,22001043,Emily,1,2022,September Semester,I-1E (CUR),3.35700011253357,3.357,Good Standing,14.0,14.0
+S43,22001043,Emily,2,2023,January Semester,I-2E (CUR),3.19199991226196,3.278,Good Standing,13.0,27.0
+S43,22001043,Emily,3,2023,May Semester,I-3E (CUR),3.21399998664856,3.256,Good Standing,14.0,41.0
+S43,22001043,Emily,4,2023,September Semester,I-4E (CUR),3.13499999046326,3.227,Good Standing,13.0,54.0
+S43,22001043,Emily,5,2024,January Semester,I-5E (CUR),3.16100001335144,3.213,Good Standing,14.0,68.0
+S43,22001043,Emily,6,2024,May Semester,I-6E (CUR),0.0,3.213,Pass,7.0,75.0
+S43,22001043,Emily,7,2024,September Semester,I-7E (CUR),4.0,3.287,Good Standing,7.0,82.0
+S43,22001043,Emily,8,2025,January Semester,I-8E (CUR),3.66100001335144,3.346,Dean List,14.0,96.0
+S43,22001043,Emily,9,2025,May Semester,I-9E (CUR),3.51799988746643,3.369,Dean List,14.0,110.0
+S43,22001043,Emily,10,2025,September Semester,I-10E (CUR),3.63499999046326,3.399,Dean List,13.0,123.0
+S44,22001044,Qistina,1,2022,September Semester,I-1E (CUR),3.39299988746643,3.393,Good Standing,14.0,14.0
+S44,22001044,Qistina,2,2023,January Semester,I-2E (CUR),3.42300009727478,3.407,Good Standing,13.0,27.0
+S44,22001044,Qistina,3,2023,May Semester,I-3E (CUR),3.375,3.396,Good Standing,14.0,41.0
+S44,22001044,Qistina,4,2023,September Semester,I-4E (CUR),3.61500000953674,3.449,Dean List,13.0,54.0
+S44,22001044,Qistina,5,2024,January Semester,I-5E (CUR),3.58899998664856,3.478,Dean List,14.0,68.0
+S44,22001044,Qistina,6,2024,May Semester,I-6E (CUR),0.0,3.478,Pass,7.0,75.0
+S44,22001044,Qistina,7,2024,September Semester,I-7E (CUR),3.5,3.48,Good Standing,7.0,82.0
+S44,22001044,Qistina,8,2025,January Semester,I-8E (CUR),3.21399998664856,3.438,Good Standing,14.0,96.0
+S44,22001044,Qistina,9,2025,May Semester,I-9E (CUR),3.73200011253357,3.478,Dean List,14.0,110.0
+S44,22001044,Qistina,10,2025,September Semester,I-10E (CUR),3.42300009727478,3.472,Good Standing,13.0,123.0
+S45,22001045,Arjun,1,2022,September Semester,I-1F (CUR),3.41700005531311,3.417,Good Standing,12.0,12.0
+S45,22001045,Arjun,2,2023,January Semester,I-2F (CUR),3.63499999046326,3.53,Dean List,13.0,25.0
+S45,22001045,Arjun,3,2023,May Semester,I-3F (CUR),3.53600001335144,3.532,Dean List,14.0,39.0
+S45,22001045,Arjun,4,2023,September Semester,I-4F (CUR),3.625,3.557,Dean List,14.0,53.0
+S45,22001045,Arjun,5,2024,January Semester,I-5F (CUR),3.58899998664856,3.563,Dean List,14.0,67.0
+S45,22001045,Arjun,6,2024,May Semester,I-6F (CUR),3.94600009918213,3.63,Dean List,14.0,81.0
+S45,22001045,Arjun,7,2024,September Semester,I-7F (CUR),0.0,3.63,Pass,7.0,88.0
+S45,22001045,Arjun,8,2025,January Semester,I-8F (CUR),4.0,3.659,Good Standing,7.0,95.0
+S45,22001045,Arjun,9,2025,May Semester,I-9F (CUR),3.83899998664856,3.684,Dean List,14.0,109.0
+S45,22001045,Arjun,10,2025,September Semester,I-10F (CUR),3.76900005340576,3.693,Dean List,13.0,122.0
+S46,22001046,Darren,1,2022,September Semester,I-1E (CUR),3.91100001335144,3.911,Dean List,14.0,14.0
+S46,22001046,Darren,2,2023,January Semester,I-2E (CUR),3.75,3.833,Dean List,13.0,27.0
+S46,22001046,Darren,3,2023,May Semester,I-3E (CUR),3.64299988746643,3.768,Dean List,14.0,41.0
+S46,22001046,Darren,4,2023,September Semester,I-4E (CUR),3.76900005340576,3.769,Dean List,13.0,54.0
+S46,22001046,Darren,5,2024,January Semester,I-5E (CUR),3.64299988746643,3.743,Dean List,14.0,68.0
+S46,22001046,Darren,6,2024,May Semester,I-6E (CUR),0.0,3.743,Pass,7.0,75.0
+S46,22001046,Darren,7,2024,September Semester,I-7E (CUR),4.0,3.767,Good Standing,7.0,82.0
+S46,22001046,Darren,8,2025,January Semester,I-8E (CUR),3.73200011253357,3.761,Dean List,14.0,96.0
+S46,22001046,Darren,9,2025,May Semester,I-9E (CUR),3.73200011253357,3.757,Dean List,14.0,110.0
+S46,22001046,Darren,10,2025,September Semester,I-10E (CUR),3.59599995613098,3.739,Dean List,13.0,123.0
+S47,22001047,Amir,1,2022,September Semester,I-1F (CUR),3.56299996376038,3.563,Dean List,12.0,12.0
+S47,22001047,Amir,2,2023,January Semester,I-2F (CUR),3.55800008773804,3.56,Dean List,13.0,25.0
+S47,22001047,Amir,3,2023,May Semester,I-3F (CUR),3.375,3.494,Good Standing,14.0,39.0
+S47,22001047,Amir,4,2023,September Semester,I-4F (CUR),3.375,3.462,Good Standing,14.0,53.0
+S47,22001047,Amir,5,2024,January Semester,I-5F (CUR),3.32100009918213,3.433,Good Standing,14.0,67.0
+S47,22001047,Amir,6,2024,May Semester,I-6F (CUR),3.625,3.466,Dean List,14.0,81.0
+S47,22001047,Amir,7,2024,September Semester,I-7F (CUR),0.0,3.466,Pass,7.0,88.0
+S47,22001047,Amir,8,2025,January Semester,I-8F (CUR),4.0,3.509,Good Standing,7.0,95.0
+S47,22001047,Amir,9,2025,May Semester,I-9F (CUR),3.85700011253357,3.556,Dean List,14.0,109.0
+S47,22001047,Amir,10,2025,September Semester,I-10F (CUR),3.40400004386902,3.539,Good Standing,13.0,122.0
+S48,22001048,Anis,1,2022,September Semester,I-1E (CUR),3.66100001335144,3.661,Dean List,14.0,14.0
+S48,22001048,Anis,2,2023,January Semester,I-2E (CUR),3.36500000953674,3.519,Good Standing,13.0,27.0
+S48,22001048,Anis,3,2023,May Semester,I-3E (CUR),3.21399998664856,3.415,Good Standing,14.0,41.0
+S48,22001048,Anis,4,2023,September Semester,I-4E (CUR),3.48399996757507,3.434,Good Standing,16.0,57.0
+S48,22001048,Anis,5,2024,January Semester,I-5E (CUR),2.81299996376038,3.358,Pass,8.0,65.0
+S48,22001048,Anis,6,2024,May Semester,I-6E (CUR),0.0,3.358,Pass,7.0,72.0
+S48,22001048,Anis,7,2024,September Semester,I-7E (CUR),4.0,3.42,Good Standing,7.0,79.0
+S48,22001048,Anis,8,2025,January Semester,I-8E (CUR),3.41700005531311,3.468,Good Standing,18.0,97.0
+S48,22001048,Anis,9,2025,May Semester,I-9E (CUR),3.625,3.493,Dean List,16.0,113.0
+S48,22001048,Anis,10,2025,September Semester,I-10E (CUR),3.69199991226196,3.515,Dean List,13.0,126.0
+S49,22001049,Mira,1,2022,September Semester,I-1E (CUR),3.69600009918213,3.696,Dean List,14.0,14.0
+S49,22001049,Mira,2,2023,January Semester,I-2E (CUR),3.69199991226196,3.694,Dean List,13.0,27.0
+S49,22001049,Mira,3,2023,May Semester,I-3E (CUR),3.48200011253357,3.622,Good Standing,14.0,41.0
+S49,22001049,Mira,4,2023,September Semester,I-4E (CUR),3.73099994659424,3.648,Dean List,13.0,54.0
+S49,22001049,Mira,5,2024,January Semester,I-5E (CUR),3.48200011253357,3.614,Good Standing,14.0,68.0
+S49,22001049,Mira,6,2024,May Semester,I-6E (CUR),0.0,3.614,Pass,7.0,75.0
+S49,22001049,Mira,7,2024,September Semester,I-7E (CUR),3.75,3.627,Good Standing,7.0,82.0
+S49,22001049,Mira,8,2025,January Semester,I-8E (CUR),3.75,3.646,Dean List,14.0,96.0
+S49,22001049,Mira,9,2025,May Semester,I-9E (CUR),3.48200011253357,3.624,Good Standing,14.0,110.0
+S49,22001049,Mira,10,2025,September Semester,I-10E (CUR),3.32699990272522,3.591,Good Standing,13.0,123.0
+S50,22001050,David,1,2022,September Semester,I-1E (CUR),3.30399990081787,3.304,Good Standing,14.0,14.0
+S50,22001050,David,2,2023,January Semester,I-2E (CUR),3.40400004386902,3.352,Good Standing,13.0,27.0
+S50,22001050,David,3,2023,May Semester,I-3E (CUR),3.35700011253357,3.354,Good Standing,14.0,41.0
+S50,22001050,David,4,2023,September Semester,I-4E (CUR),3.15400004386902,3.306,Good Standing,13.0,54.0
+S50,22001050,David,5,2024,January Semester,I-5E (CUR),2.96399998664856,3.235,Pass,14.0,68.0
+S50,22001050,David,6,2024,May Semester,I-6E (CUR),0.0,3.235,Pass,7.0,75.0
+S50,22001050,David,7,2024,September Semester,I-7E (CUR),3.75,3.283,Good Standing,7.0,82.0
+S50,22001050,David,8,2025,January Semester,I-8E (CUR),2.83899998664856,3.213,Pass,14.0,96.0
+S50,22001050,David,9,2025,May Semester,I-9E (CUR),2.71399998664856,3.146,Pass,14.0,110.0
+S50,22001050,David,10,2025,September Semester,I-10E (CUR),3.46199989318848,3.181,Good Standing,13.0,123.0
+S51,22001051,Yusuf,1,2022,September Semester,I-1E (CUR),3.57100009918213,3.571,Dean List,14.0,14.0
+S51,22001051,Yusuf,2,2023,January Semester,I-2E (CUR),3.75,3.657,Dean List,13.0,27.0
+S51,22001051,Yusuf,3,2023,May Semester,I-3E (CUR),3.39299988746643,3.567,Good Standing,14.0,41.0
+S51,22001051,Yusuf,4,2023,September Semester,I-4E (CUR),3.42300009727478,3.532,Good Standing,13.0,54.0
+S51,22001051,Yusuf,5,2024,January Semester,I-5E (CUR),3.66100001335144,3.559,Dean List,14.0,68.0
+S51,22001051,Yusuf,6,2024,May Semester,I-6E (CUR),0.0,3.559,Pass,7.0,75.0
+S51,22001051,Yusuf,7,2024,September Semester,I-7E (CUR),3.75,3.577,Good Standing,7.0,82.0
+S51,22001051,Yusuf,8,2025,January Semester,I-8E (CUR),3.69600009918213,3.596,Dean List,14.0,96.0
+S51,22001051,Yusuf,9,2025,May Semester,I-9E (CUR),3.73200011253357,3.614,Dean List,14.0,110.0
+S51,22001051,Yusuf,10,2025,September Semester,I-10E (CUR),3.59599995613098,3.612,Dean List,13.0,123.0
+S52,22001052,Marcus,1,2024,September Semester,I-1E (CUR),3.67899990081787,3.679,Dean List,14.0,14.0
+S52,22001052,Marcus,2,2025,January Semester,I-2E (CUR),3.73099994659424,3.704,Dean List,13.0,27.0
+S52,22001052,Marcus,3,2025,May Semester,I-3E (CUR),3.76799988746643,3.726,Dean List,14.0,41.0
+S52,22001052,Marcus,4,2025,September Semester,I-4E (CUR),3.82699990272522,3.75,Dean List,13.0,54.0
+S52,22001052,Marcus,5,2026,January Semester,I-5E (CUR),3.53600001335144,3.706,Dean List,14.0,68.0
+S52,22001052,Marcus,6,2026,May Semester,I-6E (CUR),0.0,3.706,Pass,7.0,75.0
+S53,22001053,Melanie,1,2024,September Semester,I-1E (CUR),3.55399990081787,3.554,Dean List,14.0,14.0
+S53,22001053,Melanie,2,2025,January Semester,I-2E (CUR),3.28800010681152,3.426,Good Standing,13.0,27.0
+S53,22001053,Melanie,3,2025,May Semester,I-3E (CUR),3.16100001335144,3.335,Good Standing,14.0,41.0
+S53,22001053,Melanie,4,2025,September Semester,I-4E (CUR),3.5,3.375,Dean List,13.0,54.0
+S53,22001053,Melanie,5,2026,January Semester,I-5E (CUR),3.05399990081787,3.309,Good Standing,14.0,68.0
+S53,22001053,Melanie,6,2026,May Semester,I-6E (CUR),0.0,3.309,Pass,7.0,75.0
+S54,22001054,Aiman,1,2024,September Semester,I-1E (CUR),3.69600009918213,3.696,Dean List,14.0,14.0
+S54,22001054,Aiman,2,2025,January Semester,I-2E (CUR),3.28800010681152,3.5,Good Standing,13.0,27.0
+S54,22001054,Aiman,3,2025,May Semester,I-3E (CUR),3.33899998664856,3.445,Good Standing,14.0,41.0
+S54,22001054,Aiman,4,2025,September Semester,I-4E (CUR),3.59599995613098,3.481,Dean List,13.0,54.0
+S54,22001054,Aiman,5,2026,January Semester,I-5E (CUR),3.16100001335144,3.415,Good Standing,14.0,68.0
+S54,22001054,Aiman,6,2026,May Semester,I-6E (CUR),0.0,3.415,Pass,7.0,75.0
+S55,22001055,Sofia,1,2024,September Semester,I-1E (CUR),0.71399998664856,0.714,Academic Dismissal,14.0,14.0
+S56,22001056,Haziq,1,2024,September Semester,I-1E (CUR),3.26799988746643,3.268,Good Standing,14.0,14.0
+S56,22001056,Haziq,2,2025,January Semester,I-2E (CUR),3.63499999046326,3.444,Dean List,13.0,27.0
+S56,22001056,Haziq,3,2025,May Semester,I-3E (CUR),3.32100009918213,3.402,Good Standing,14.0,41.0
+S56,22001056,Haziq,4,2025,September Semester,I-4E (CUR),3.76900005340576,3.491,Dean List,13.0,54.0
+S56,22001056,Haziq,5,2026,January Semester,I-5E (CUR),3.69600009918213,3.533,Dean List,14.0,68.0
+S56,22001056,Haziq,6,2026,May Semester,I-6E (CUR),0.0,3.533,Pass,7.0,75.0
+S57,22001057,Farah,1,2024,September Semester,I-1E (CUR),2.32100009918213,2.321,Pass,14.0,14.0
+S57,22001057,Farah,2,2025,January Semester,I-2E (CUR),2.46199989318848,2.389,Pass,13.0,27.0
+S57,22001057,Farah,3,2025,May Semester,I-3E (CUR),1.5,2.115,Academic Probation,14.0,41.0
+S57,22001057,Farah,4,2025,September Semester,I-4E (CUR),3.0,2.31,Good Standing,11.0,52.0
+S57,22001057,Farah,5,2026,January Semester,I-5E (CUR),2.15400004386902,2.278,Pass,13.0,65.0
+S57,22001057,Farah,6,2026,May Semester,A-5E (CUR),3.27300000190735,2.528,Good Standing,11.0,76.0
+S58,22001058,Jayden,1,2024,September Semester,I-1E (CUR),3.60700011253357,3.607,Dean List,14.0,14.0
+S58,22001058,Jayden,2,2025,January Semester,I-2E (CUR),3.73099994659424,3.667,Dean List,13.0,27.0
+S58,22001058,Jayden,3,2025,May Semester,I-3E (CUR),3.51799988746643,3.616,Dean List,14.0,41.0
+S58,22001058,Jayden,4,2025,September Semester,I-4E (CUR),3.46199989318848,3.579,Good Standing,13.0,54.0
+S58,22001058,Jayden,5,2026,January Semester,I-5E (CUR),3.375,3.537,Good Standing,14.0,68.0
+S58,22001058,Jayden,6,2026,May Semester,I-6E (CUR),0.0,3.537,Pass,7.0,75.0
+S59,22001059,Arif,1,2024,September Semester,I-1E (CUR),3.5,3.5,Dean List,14.0,14.0
+S59,22001059,Arif,2,2025,January Semester,I-2E (CUR),3.73099994659424,3.611,Dean List,13.0,27.0
+S59,22001059,Arif,3,2025,May Semester,I-3E (CUR),3.44600009918213,3.555,Good Standing,14.0,41.0
+S59,22001059,Arif,4,2025,September Semester,I-4E (CUR),3.48099994659424,3.537,Good Standing,13.0,54.0
+S59,22001059,Arif,5,2026,January Semester,I-5E (CUR),3.33899998664856,3.496,Good Standing,14.0,68.0
+S59,22001059,Arif,6,2026,May Semester,I-6E (CUR),0.0,3.496,Pass,7.0,75.0
+S60,22001060,Nisha,1,2024,September Semester,I-1E (CUR),2.25,2.25,Pass,14.0,14.0
+S60,22001060,Nisha,2,2025,January Semester,I-2E (CUR),3.07699990272522,2.979,Good Standing,13.0,27.0
+S60,22001060,Nisha,3,2025,May Semester,I-3E (CUR),2.21399998664856,2.697,Pass,14.0,41.0
+S60,22001060,Nisha,4,2025,September Semester,I-4E (CUR),2.31299996376038,2.583,Pass,16.0,57.0
+S60,22001060,Nisha,5,2026,January Semester,I-5E (CUR),3.05599999427795,2.992,Good Standing,18.0,75.0
+S60,22001060,Nisha,6,2026,May Semester,A-5E (CUR),2.82100009918213,2.962,Pass,14.0,89.0
+S61,22001061,Irfan,1,2024,September Semester,I-1E (CUR),3.73200011253357,3.732,Dean List,14.0,14.0
+S61,22001061,Irfan,2,2025,January Semester,I-2E (CUR),3.92300009727478,3.824,Dean List,13.0,27.0
+S61,22001061,Irfan,3,2025,May Semester,I-3E (CUR),3.76799988746643,3.805,Dean List,14.0,41.0
+S61,22001061,Irfan,4,2025,September Semester,I-4E (CUR),3.69199991226196,3.778,Dean List,13.0,54.0
+S61,22001061,Irfan,5,2026,January Semester,I-5E (CUR),3.76799988746643,3.776,Dean List,14.0,68.0
+S61,22001061,Irfan,6,2026,May Semester,I-6E (CUR),0.0,3.776,Pass,7.0,75.0
+S62,22001062,Asher,1,2024,September Semester,I-1E (CUR),3.75,3.75,Dean List,14.0,14.0
+S62,22001062,Asher,2,2025,January Semester,I-2E (CUR),3.65400004386902,3.704,Dean List,13.0,27.0
+S62,22001062,Asher,3,2025,May Semester,I-3E (CUR),3.53600001335144,3.646,Dean List,14.0,41.0
+S62,22001062,Asher,4,2025,September Semester,I-4E (CUR),3.44199991226196,3.597,Good Standing,13.0,54.0
+S62,22001062,Asher,5,2026,January Semester,I-5E (CUR),3.42899990081787,3.563,Good Standing,14.0,68.0
+S62,22001062,Asher,6,2026,May Semester,I-6E (CUR),0.0,3.563,Pass,7.0,75.0
+S63,22001063,Kavya,1,2024,September Semester,I-1E (CUR),3.67899990081787,3.679,Dean List,14.0,14.0
+S63,22001063,Kavya,2,2025,January Semester,I-2E (CUR),3.75,3.713,Dean List,13.0,27.0
+S63,22001063,Kavya,3,2025,May Semester,I-3E (CUR),3.625,3.683,Dean List,14.0,41.0
+S63,22001063,Kavya,4,2025,September Semester,I-4E (CUR),3.67300009727478,3.681,Dean List,13.0,54.0
+S63,22001063,Kavya,5,2026,January Semester,I-5E (CUR),3.375,3.618,Good Standing,14.0,68.0
+S63,22001063,Kavya,6,2026,May Semester,I-6E (CUR),0.0,3.618,Pass,7.0,75.0
+S64,22001064,Arissa,1,2024,September Semester,I-1E (CUR),3.03600001335144,3.036,Good Standing,14.0,14.0
+S64,22001064,Arissa,2,2025,January Semester,I-2E (CUR),3.48099994659424,3.25,Good Standing,13.0,27.0
+S64,22001064,Arissa,3,2025,May Semester,I-3E (CUR),2.96399998664856,3.152,Pass,14.0,41.0
+S64,22001064,Arissa,4,2025,September Semester,I-4E (CUR),3.32699990272522,3.194,Good Standing,13.0,54.0
+S64,22001064,Arissa,5,2026,January Semester,I-5E (CUR),2.96399998664856,3.147,Pass,14.0,68.0
+S64,22001064,Arissa,6,2026,May Semester,I-6E (CUR),0.0,3.147,Pass,7.0,75.0
+S65,22001065,Khalid,1,2024,September Semester,I-1E (CUR),3.33899998664856,3.339,Good Standing,14.0,14.0
+S65,22001065,Khalid,2,2025,January Semester,I-2E (CUR),3.42300009727478,3.38,Good Standing,13.0,27.0
+S65,22001065,Khalid,3,2025,May Semester,I-3E (CUR),3.25,3.335,Good Standing,14.0,41.0
+S65,22001065,Khalid,4,2025,September Semester,I-4E (CUR),3.42300009727478,3.356,Good Standing,13.0,54.0
+S65,22001065,Khalid,5,2026,January Semester,I-5E (CUR),3.32100009918213,3.349,Good Standing,14.0,68.0
+S65,22001065,Khalid,6,2026,May Semester,I-6E (CUR),0.0,3.349,Pass,7.0,75.0
+S66,22001066,Priya,1,2024,September Semester,I-1E (CUR),3.21399998664856,3.214,Good Standing,14.0,14.0
+S66,22001066,Priya,2,2025,January Semester,I-2E (CUR),2.67300009727478,2.954,Pass,13.0,27.0
+S66,22001066,Priya,3,2025,May Semester,I-3E (CUR),3.48200011253357,3.134,Good Standing,14.0,41.0
+S66,22001066,Priya,4,2025,September Semester,I-4E (CUR),2.59599995613098,3.005,Pass,13.0,54.0
+S66,22001066,Priya,5,2026,January Semester,I-5E (CUR),2.57399988174438,3.029,Pass,17.0,71.0
+S66,22001066,Priya,6,2026,May Semester,I-6E (CUR),0.0,3.029,Pass,7.0,78.0
+S68,22001068,Jasmine,1,2026,January Semester,A-1G (CUR),2.0,2.0,Pass,13.0,13.0
+S68,22001068,Jasmine,2,2026,May Semester,A-2G (CUR),2.72900009155273,2.35,Pass,12.0,25.0
+S69,22001069,Rohan,1,2025,January Semester,A-1F (DEF),,,,,
+S69,22001069,Rohan,2,2025,May Semester,E-1F (DEF),,,,,
+S69,22001069,Rohan,3,2025,September Semester,I-1F (CUR),2.5,2.5,Pass,6.0,6.0
+S69,22001069,Rohan,4,2026,January Semester,I-2F (CUR),1.83299994468689,2.1,Academic Probation,9.0,15.0
+S69,22001069,Rohan,5,2026,May Semester,I-3F (PRB),1.66700005531311,1.938,Academic Probation,9.0,24.0
+S70,22001070,Vikram,1,2024,May Semester,E-1F (CUR),2.04200005531311,2.042,Pass,12.0,12.0
+S70,22001070,Vikram,2,2024,September Semester,E-2F (CUR),2.03800010681152,2.04,Pass,13.0,25.0
+S70,22001070,Vikram,3,2025,January Semester,E-3F (CUR),2.32100009918213,2.141,Pass,14.0,39.0
+S70,22001070,Vikram,4,2025,May Semester,E-4F (CUR),2.96399998664856,2.358,Pass,14.0,53.0
+S70,22001070,Vikram,5,2025,September Semester,E-5F (CUR),2.41100001335144,2.369,Pass,14.0,67.0
+S70,22001070,Vikram,6,2026,January Semester,E-6F (CUR),3.25,2.522,Good Standing,14.0,81.0
+S70,22001070,Vikram,7,2026,May Semester,I-6F (CUR),2.0,2.818,Pass,12.0,93.0
+S71,22001071,Aisha,1,2025,January Semester,A-1F (CUR),3.81299996376038,3.813,Dean List,12.0,12.0
+S71,22001071,Aisha,2,2025,May Semester,A-2F (CUR),3.57699990272522,3.69,Dean List,13.0,25.0
+S71,22001071,Aisha,3,2025,September Semester,A-3F (CUR),3.89299988746643,3.763,Dean List,14.0,39.0
+S71,22001071,Aisha,4,2026,January Semester,A-4F (CUR),2.96399998664856,3.552,Pass,14.0,53.0
+S71,22001071,Aisha,5,2026,May Semester,A-5F (DEF),,,,,53.0
+S72,22001072,Naomi,1,2025,January Semester,A-1F (CUR),2.45000004768372,2.45,Pass,10.0,10.0
+S72,22001072,Naomi,2,2025,May Semester,A-2F (CUR),2.95000004768372,2.75,Pass,15.0,25.0
+S72,22001072,Naomi,3,2025,September Semester,A-3F (CUR),3.13499999046326,2.882,Good Standing,13.0,38.0
+S72,22001072,Naomi,4,2026,January Semester,A-4F (CUR),3.13599991798401,2.939,Good Standing,11.0,49.0
+S72,22001072,Naomi,5,2026,May Semester,A-5F (CUR),3.0,2.952,Good Standing,14.0,63.0
+S73,22001073,Jiaxin,1,2025,January Semester,A-1F (CUR),1.5,1.5,Academic Probation,12.0,12.0
+S73,22001073,Jiaxin,2,2025,May Semester,A-2F (PRB),2.75,2.068,Pass,10.0,22.0
+S73,22001073,Jiaxin,3,2025,September Semester,A-3F (CUR),2.46399998664856,2.222,Pass,14.0,36.0
+S73,22001073,Jiaxin,4,2026,January Semester,A-4F (CUR),3.10700011253357,2.47,Good Standing,14.0,50.0
+S73,22001073,Jiaxin,5,2026,May Semester,A-5F (CUR),1.82099997997284,2.328,Academic Probation,14.0,64.0
+S74,22001074,Laila,1,2024,September Semester,I-1E (CUR),3.26799988746643,3.268,Good Standing,14.0,14.0
+S74,22001074,Laila,2,2025,January Semester,I-2E (CUR),3.11500000953674,3.194,Good Standing,13.0,27.0
+S74,22001074,Laila,3,2025,May Semester,I-3E (CUR),3.05399990081787,3.146,Good Standing,14.0,41.0
+S74,22001074,Laila,4,2025,September Semester,I-4E (CUR),3.01900005340576,3.116,Good Standing,13.0,54.0
+S74,22001074,Laila,5,2026,January Semester,I-5E (CUR),2.46399998664856,2.982,Pass,14.0,68.0
+S74,22001074,Laila,6,2026,May Semester,I-6E (CUR),0.0,2.982,Pass,7.0,75.0
+S75,22001075,Dahlia,1,2024,September Semester,I-1E (CUR),3.46399998664856,3.464,Good Standing,14.0,14.0
+S75,22001075,Dahlia,2,2025,January Semester,I-2E (CUR),3.57699990272522,3.519,Dean List,13.0,27.0
+S75,22001075,Dahlia,3,2025,May Semester,I-3E (CUR),3.39299988746643,3.476,Good Standing,14.0,41.0
+S75,22001075,Dahlia,4,2025,September Semester,I-4E (CUR),3.57699990272522,3.5,Dean List,13.0,54.0
+S75,22001075,Dahlia,5,2026,January Semester,I-5E (CUR),3.21399998664856,3.441,Good Standing,14.0,68.0
+S75,22001075,Dahlia,6,2026,May Semester,I-6E (CUR),0.0,3.441,Pass,7.0,75.0
+S76,22001076,Zachary,1,2024,September Semester,I-1E (CUR),3.48200011253357,3.482,Good Standing,14.0,14.0
+S76,22001076,Zachary,2,2025,January Semester,I-2E (CUR),3.51900005340576,3.5,Dean List,13.0,27.0
+S76,22001076,Zachary,3,2025,May Semester,I-3E (CUR),2.96399998664856,3.317,Pass,14.0,41.0
+S76,22001076,Zachary,4,2025,September Semester,I-4E (CUR),3.25,3.301,Good Standing,13.0,54.0
+S76,22001076,Zachary,5,2026,January Semester,I-5E (CUR),3.375,3.316,Good Standing,14.0,68.0
+S76,22001076,Zachary,6,2026,May Semester,I-6E (CUR),0.0,3.316,Pass,7.0,75.0
+S77,22001077,Alvin,1,2024,September Semester,I-1E (CUR),3.19600009918213,3.196,Good Standing,14.0,14.0
+S77,22001077,Alvin,2,2025,January Semester,I-2E (CUR),3.51900005340576,3.352,Dean List,13.0,27.0
+S77,22001077,Alvin,3,2025,May Semester,I-3E (CUR),3.01799988746643,3.238,Good Standing,14.0,41.0
+S77,22001077,Alvin,4,2025,September Semester,I-4E (CUR),3.42300009727478,3.282,Good Standing,13.0,54.0
+S77,22001077,Alvin,5,2026,January Semester,I-5E (CUR),3.25,3.276,Good Standing,14.0,68.0
+S77,22001077,Alvin,6,2026,May Semester,I-6E (CUR),0.0,3.276,Pass,7.0,75.0
+S78,22001078,Suri,1,2025,January Semester,A-1F (CUR),2.875,2.875,Pass,12.0,12.0
+S78,22001078,Suri,2,2025,May Semester,A-2F (CUR),2.90400004386902,2.89,Pass,13.0,25.0
+S78,22001078,Suri,3,2025,September Semester,A-3F (CUR),2.83899998664856,2.872,Pass,14.0,39.0
+S78,22001078,Suri,4,2026,January Semester,A-4F (CUR),3.14299988746643,2.943,Good Standing,14.0,53.0
+S78,22001078,Suri,5,2026,May Semester,A-5F (CUR),2.78600001335144,2.91,Pass,14.0,67.0
+S79,22001079,Imani,1,2025,January Semester,A-1F (CUR),1.91700005531311,1.917,Academic Probation,12.0,12.0
+S79,22001079,Imani,2,2025,May Semester,A-2F (CUR),2.72699999809265,2.304,Pass,11.0,23.0
+S79,22001079,Imani,3,2025,September Semester,A-3F (CUR),2.5,2.382,Pass,15.0,38.0
+S79,22001079,Imani,4,2026,January Semester,A-4F (CUR),2.54500007629395,2.418,Pass,11.0,49.0
+S79,22001079,Imani,5,2026,May Semester,A-5F (CUR),2.34599995613098,2.403,Pass,13.0,62.0
+S80,22001080,Ivan,1,2025,January Semester,A-1F (CUR),3.41700005531311,3.417,Good Standing,12.0,12.0
+S80,22001080,Ivan,2,2025,May Semester,A-2F (CUR),3.51900005340576,3.47,Dean List,13.0,25.0
+S80,22001080,Ivan,3,2025,September Semester,A-3F (CUR),3.21399998664856,3.378,Good Standing,14.0,39.0
+S80,22001080,Ivan,4,2026,January Semester,A-4F (CUR),3.55399990081787,3.425,Dean List,14.0,53.0
+S80,22001080,Ivan,5,2026,May Semester,A-5F (CUR),3.64299988746643,3.47,Dean List,14.0,67.0
+S81,22001081,Sarah,1,2025,January Semester,A-1F (CUR),2.5,2.5,Pass,12.0,12.0
+S81,22001081,Sarah,2,2025,May Semester,A-2F (CUR),3.11500000953674,2.82,Good Standing,13.0,25.0
+S81,22001081,Sarah,3,2025,September Semester,A-3F (CUR),2.85700011253357,2.833,Pass,14.0,39.0
+S81,22001081,Sarah,4,2026,January Semester,A-4F (CUR),3.28600001335144,2.953,Good Standing,14.0,53.0
+S81,22001081,Sarah,5,2026,May Semester,A-5F (CUR),2.25,2.806,Pass,14.0,67.0
+S82,22001082,Noah,1,2025,January Semester,A-1F (DEF),,,,,
+S82,22001082,Noah,2,2025,May Semester,E-1F (DEF),,,,,
+S82,22001082,Noah,3,2025,September Semester,I-1F (CUR),2.45799994468689,2.458,Pass,12.0,12.0
+S82,22001082,Noah,4,2026,January Semester,I-2F (CUR),1.38499999046326,1.9,Academic Probation & Warning,13.0,25.0
+S82,22001082,Noah,5,2026,May Semester,I-3F (DEF),,,,,25.0
+S83,22001083,Dania,1,2025,January Semester,A-1F (CUR),3.625,3.625,Dean List,12.0,12.0
+S83,22001083,Dania,2,2025,May Semester,A-2F (CUR),3.65400004386902,3.64,Dean List,13.0,25.0
+S83,22001083,Dania,3,2025,September Semester,A-3F (CUR),3.69600009918213,3.66,Dean List,14.0,39.0
+S83,22001083,Dania,4,2026,January Semester,A-4F (CUR),3.70499992370605,3.67,Dean List,11.0,50.0
+S83,22001083,Dania,5,2026,May Semester,A-5F (CUR),3.93799996376038,3.722,Dean List,12.0,62.0
+S84,22001084,Vincent,1,2025,January Semester,A-1F (CUR),3.0,3.0,Good Standing,12.0,12.0
+S84,22001084,Vincent,2,2025,May Semester,A-2F (CUR),3.19199991226196,3.1,Good Standing,13.0,25.0
+S84,22001084,Vincent,3,2025,September Semester,A-3F (CUR),3.19600009918213,3.135,Good Standing,14.0,39.0
+S84,22001084,Vincent,4,2026,January Semester,A-4F (CUR),3.46399998664856,3.222,Good Standing,14.0,53.0
+S84,22001084,Vincent,5,2026,May Semester,A-5F (CUR),3.55399990081787,3.291,Dean List,14.0,67.0
+S85,22001085,Natalie,1,2025,January Semester,A-1F (CUR),2.67899990081787,2.679,Pass,14.0,14.0
+S85,22001085,Natalie,2,2025,May Semester,A-2F (CUR),3.25,2.954,Good Standing,13.0,27.0
+S85,22001085,Natalie,3,2025,September Semester,A-3F (CUR),3.25,3.178,Good Standing,14.0,41.0
+S85,22001085,Natalie,4,2026,January Semester,A-4F (CUR),3.17899990081787,3.178,Good Standing,14.0,55.0
+S85,22001085,Natalie,5,2026,May Semester,A-5F (CUR),2.43799996376038,3.039,Pass,12.0,67.0
+S86,22001086,Ben,1,2025,September Semester,I-1F (CUR),3.625,3.625,Dean List,12.0,12.0
+S86,22001086,Ben,2,2026,January Semester,I-2F (CUR),3.42300009727478,3.52,Good Standing,13.0,25.0
+S86,22001086,Ben,3,2026,May Semester,I-3F (CUR),3.42899990081787,3.487,Good Standing,14.0,39.0
+S87,22001087,Dylan,1,2025,September Semester,I-1F (CUR),3.16700005531311,3.167,Good Standing,12.0,12.0
+S87,22001087,Dylan,2,2026,January Semester,I-2F (CUR),3.23099994659424,3.2,Good Standing,13.0,25.0
+S87,22001087,Dylan,3,2026,May Semester,I-3F (CUR),3.19199991226196,3.197,Good Standing,13.0,38.0
+S88,22001088,Liyana,1,2025,September Semester,I-1F (CUR),3.41700005531311,3.417,Good Standing,12.0,12.0
+S88,22001088,Liyana,2,2026,January Semester,I-2F (CUR),3.75,3.59,Dean List,13.0,25.0
+S88,22001088,Liyana,3,2026,May Semester,I-3F (CUR),3.64299988746643,3.609,Dean List,14.0,39.0
+S89,22001089,Amanda,1,2025,September Semester,I-1F (CUR),3.45799994468689,3.458,Good Standing,12.0,12.0
+S89,22001089,Amanda,2,2026,January Semester,I-2F (CUR),3.69199991226196,3.58,Dean List,13.0,25.0
+S89,22001089,Amanda,3,2026,May Semester,I-3F (CUR),3.60700011253357,3.59,Dean List,14.0,39.0
+S90,22001090,Syafiq,1,2025,January Semester,A-1F (CUR),3.25,3.25,Good Standing,12.0,12.0
+S90,22001090,Syafiq,2,2025,May Semester,A-2F (CUR),3.86500000953674,3.57,Dean List,13.0,25.0
+S90,22001090,Syafiq,3,2025,September Semester,A-3F (CUR),3.58899998664856,3.577,Dean List,14.0,39.0
+S90,22001090,Syafiq,4,2026,January Semester,A-4F (CUR),3.80800008773804,3.635,Dean List,13.0,52.0
+S90,22001090,Syafiq,5,2026,May Semester,A-5F (CUR),3.55399990081787,3.617,Dean List,14.0,66.0
+S91,22001091,Adrian,1,2025,January Semester,A-1F (CUR),3.125,3.125,Good Standing,12.0,12.0
+S91,22001091,Adrian,2,2025,May Semester,A-2F (CUR),3.34599995613098,3.24,Good Standing,13.0,25.0
+S91,22001091,Adrian,3,2025,September Semester,A-3F (CUR),3.21399998664856,3.231,Good Standing,14.0,39.0
+S91,22001091,Adrian,4,2026,January Semester,A-4F (CUR),3.42899990081787,3.283,Good Standing,14.0,53.0
+S91,22001091,Adrian,5,2026,May Semester,A-5F (CUR),3.44600009918213,3.317,Good Standing,14.0,67.0
+S92,22001092,Leena,1,2025,January Semester,A-1F (CUR),3.70499992370605,3.705,Dean List,11.0,11.0
+S92,22001092,Leena,2,2025,May Semester,A-2F (CUR),3.375,3.533,Good Standing,12.0,23.0
+S92,22001092,Leena,3,2025,September Semester,A-3F (CUR),3.45000004768372,3.508,Good Standing,10.0,33.0
+S92,22001092,Leena,4,2026,January Semester,I-5F (CUR),3.125,3.406,Good Standing,12.0,45.0
+S92,22001092,Leena,5,2026,May Semester,I-6F (CUR),3.5,3.424,Dean List,11.0,56.0
+S93,22001093,Liam,1,2025,January Semester,A-1F (CUR),2.875,2.875,Pass,12.0,12.0
+S93,22001093,Liam,2,2025,May Semester,A-2F (CUR),2.90000009536743,2.889,Pass,15.0,27.0
+S93,22001093,Liam,3,2025,September Semester,A-3F (CUR),3.0,2.925,Good Standing,13.0,40.0
+S93,22001093,Liam,4,2026,January Semester,A-4F (CUR),2.91700005531311,2.923,Pass,12.0,52.0
+S93,22001093,Liam,5,2026,May Semester,A-5F (CUR),2.75,2.891,Pass,12.0,64.0
+S94,22001094,Daphne,1,2025,January Semester,A-1F (CUR),1.5,1.5,Academic Probation,12.0,12.0
+S94,22001094,Daphne,2,2025,May Semester,A-2F (PRB),,,,,12.0
+S95,22001095,Amelia,1,2025,January Semester,A-1F (CUR),3.68799996376038,3.688,Dean List,12.0,12.0
+S95,22001095,Amelia,2,2025,May Semester,A-2F (CUR),3.96199989318848,3.83,Dean List,13.0,25.0
+S95,22001095,Amelia,3,2025,September Semester,A-3F (CUR),3.66100001335144,3.769,Dean List,14.0,39.0
+S95,22001095,Amelia,4,2026,January Semester,A-4F (CUR),3.75,3.764,Dean List,13.0,52.0
+S95,22001095,Amelia,5,2026,May Semester,A-5F (CUR),3.76799988746643,3.765,Dean List,14.0,66.0
+S96,22001096,Emma,1,2025,September Semester,I-1F (CUR),3.125,3.125,Good Standing,12.0,12.0
+S96,22001096,Emma,2,2026,January Semester,I-2F (CUR),3.63499999046326,3.39,Dean List,13.0,25.0
+S96,22001096,Emma,3,2026,May Semester,I-3F (CUR),3.53299999237061,3.444,Dean List,15.0,40.0
+S97,22001097,Jonathan,1,2025,September Semester,I-1F (CUR),2.75,2.75,Pass,10.0,10.0
+S97,22001097,Jonathan,2,2026,January Semester,I-2F (CUR),3.31699991226196,3.09,Good Standing,15.0,25.0
+S97,22001097,Jonathan,3,2026,May Semester,I-3F (CUR),3.26900005340576,3.151,Good Standing,13.0,38.0

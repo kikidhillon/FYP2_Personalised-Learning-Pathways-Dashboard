@@ -1,0 +1,227 @@
+student_key,matric_number,student_name,year,period,occurrence,enrollment_credit_hours_total,module_code,module
+S26,22001026,Ibrahim,2025,May Semester,I-3E,10,LEB1042,Academic Writing
+S26,22001026,Ibrahim,2025,May Semester,I-3E,10,MPU3192,Falsafah dan Isu Semasa (FIS)
+S26,22001026,Ibrahim,2025,May Semester,I-3E,10,TEB1013,Structured Programming
+S26,22001026,Ibrahim,2025,May Semester,I-3E,10,TEB1103,Data and Information Management
+S29,22001029,Tara,2024,May Semester,A-11E,3,TEB2123,Advance Database
+S30,22001030,Weihao,2024,May Semester,E-10E,13,GEB3043,International Financial Management
+S30,22001030,Weihao,2024,May Semester,E-10E,13,GEB3233,Enterprise Risk Management
+S30,22001030,Weihao,2024,May Semester,E-10E,13,TEB3024,Final Year Project II
+S30,22001030,Weihao,2024,May Semester,E-10E,13,TEB3213,Computer Forensic
+S31,22001031,Rania,2024,May Semester,E-10E,13,GEB3093,Strategic Management
+S31,22001031,Rania,2024,May Semester,E-10E,13,GEB3213,Forecasting Methods for Management
+S31,22001031,Rania,2024,May Semester,E-10E,13,TEB3024,Final Year Project II
+S31,22001031,Rania,2024,May Semester,E-10E,13,TEB3213,Computer Forensic
+S32,22001032,Fatima,2024,May Semester,E-10E,13,GEB3043,International Financial Management
+S32,22001032,Fatima,2024,May Semester,E-10E,13,GEB3233,Enterprise Risk Management
+S32,22001032,Fatima,2024,May Semester,E-10E,13,TEB3024,Final Year Project II
+S32,22001032,Fatima,2024,May Semester,E-10E,13,TEB3123,Machine Learning
+S33,22001033,Danish,2024,May Semester,E-10E,16,GEB3093,Strategic Management
+S33,22001033,Danish,2024,May Semester,E-10E,16,GEB3213,Forecasting Methods for Management
+S33,22001033,Danish,2024,May Semester,E-10E,16,TEB2203,Internet of Things (loT)
+S33,22001033,Danish,2024,May Semester,E-10E,16,TEB3024,Final Year Project II
+S33,22001033,Danish,2024,May Semester,E-10E,16,TEB3213,Computer Forensic
+S34,22001034,Rachel,2024,May Semester,E-10E,13,GEB3043,International Financial Management
+S34,22001034,Rachel,2024,May Semester,E-10E,13,GEB3233,Enterprise Risk Management
+S34,22001034,Rachel,2024,May Semester,E-10E,13,TEB3024,Final Year Project II
+S34,22001034,Rachel,2024,May Semester,E-10E,13,TEB3123,Machine Learning
+S35,22001035,Hana,2026,January Semester,A-10F,13,GFB2043,Principles of Marketing
+S35,22001035,Hana,2026,January Semester,A-10F,13,GFB3203,Strategic Business Analytics
+S35,22001035,Hana,2026,January Semester,A-10F,13,TFB3113,Data Mining
+S35,22001035,Hana,2026,January Semester,A-10F,13,TFB4014,Final Year Project II
+S36,22001036,Akash,2025,September Semester,I-10F,13,GFB2043,Principles of Marketing
+S36,22001036,Akash,2025,September Semester,I-10F,13,GFB3113,Corporate Communication
+S36,22001036,Akash,2025,September Semester,I-10F,13,TFB3123,Machine Learning
+S36,22001036,Akash,2025,September Semester,I-10F,13,TFB4014,Final Year Project II
+S37,22001037,Kevin,2025,September Semester,I-10E,13,GEB3113,Corporate Communication
+S37,22001037,Kevin,2025,September Semester,I-10E,13,TEB3024,Final Year Project II
+S37,22001037,Kevin,2025,September Semester,I-10E,13,TEB3033,Distributed and Parallel Computing
+S37,22001037,Kevin,2025,September Semester,I-10E,13,TEB3213,Computer Forensic
+S38,22001038,Harith,2025,September Semester,I-10F,13,GFB3073,Human Resource Management
+S38,22001038,Harith,2025,September Semester,I-10F,13,GFB3113,Corporate Communication
+S38,22001038,Harith,2025,September Semester,I-10F,13,TFB3123,Machine Learning
+S38,22001038,Harith,2025,September Semester,I-10F,13,TFB4014,Final Year Project II
+S39,22001039,Hafiz,2025,September Semester,I-10E,13,GEB3043,International Financial Management
+S39,22001039,Hafiz,2025,September Semester,I-10E,13,TEB3024,Final Year Project II
+S39,22001039,Hafiz,2025,September Semester,I-10E,13,TEB3033,Distributed and Parallel Computing
+S39,22001039,Hafiz,2025,September Semester,I-10E,13,TEB3123,Machine Learning
+S40,22001040,Sonia,2025,September Semester,I-10E,13,GEB3093,Strategic Management
+S40,22001040,Sonia,2025,September Semester,I-10E,13,TEB3024,Final Year Project II
+S40,22001040,Sonia,2025,September Semester,I-10E,13,TEB3033,Distributed and Parallel Computing
+S40,22001040,Sonia,2025,September Semester,I-10E,13,TEB3123,Machine Learning
+S41,22001041,Faiz,2025,September Semester,I-10E,13,GEB3043,International Financial Management
+S41,22001041,Faiz,2025,September Semester,I-10E,13,TEB3024,Final Year Project II
+S41,22001041,Faiz,2025,September Semester,I-10E,13,TEB3033,Distributed and Parallel Computing
+S41,22001041,Faiz,2025,September Semester,I-10E,13,TEB3123,Machine Learning
+S42,22001042,Ryan,2025,September Semester,I-10E,13,GEB3043,International Financial Management
+S42,22001042,Ryan,2025,September Semester,I-10E,13,TEB3024,Final Year Project II
+S42,22001042,Ryan,2025,September Semester,I-10E,13,TEB3033,Distributed and Parallel Computing
+S42,22001042,Ryan,2025,September Semester,I-10E,13,TEB3433,Software Testing and Quality Assurance
+S43,22001043,Emily,2025,September Semester,I-10E,13,GEB3093,Strategic Management
+S43,22001043,Emily,2025,September Semester,I-10E,13,TEB3024,Final Year Project II
+S43,22001043,Emily,2025,September Semester,I-10E,13,TEB3033,Distributed and Parallel Computing
+S43,22001043,Emily,2025,September Semester,I-10E,13,TEB3433,Software Testing and Quality Assurance
+S44,22001044,Qistina,2025,September Semester,I-10E,13,GEB3093,Strategic Management
+S44,22001044,Qistina,2025,September Semester,I-10E,13,TEB3024,Final Year Project II
+S44,22001044,Qistina,2025,September Semester,I-10E,13,TEB3033,Distributed and Parallel Computing
+S44,22001044,Qistina,2025,September Semester,I-10E,13,TEB3123,Machine Learning
+S45,22001045,Arjun,2025,September Semester,I-10F,13,GFB2043,Principles of Marketing
+S45,22001045,Arjun,2025,September Semester,I-10F,13,GFB3113,Corporate Communication
+S45,22001045,Arjun,2025,September Semester,I-10F,13,TFB3123,Machine Learning
+S45,22001045,Arjun,2025,September Semester,I-10F,13,TFB4014,Final Year Project II
+S46,22001046,Darren,2025,September Semester,I-10E,13,GEB2043,Principles of Marketing
+S46,22001046,Darren,2025,September Semester,I-10E,13,TEB3024,Final Year Project II
+S46,22001046,Darren,2025,September Semester,I-10E,13,TEB3033,Distributed and Parallel Computing
+S46,22001046,Darren,2025,September Semester,I-10E,13,TEB3123,Machine Learning
+S47,22001047,Amir,2025,September Semester,I-10F,13,GFB3073,Human Resource Management
+S47,22001047,Amir,2025,September Semester,I-10F,13,GFB3113,Corporate Communication
+S47,22001047,Amir,2025,September Semester,I-10F,13,TFB3123,Machine Learning
+S47,22001047,Amir,2025,September Semester,I-10F,13,TFB4014,Final Year Project II
+S48,22001048,Anis,2025,September Semester,I-10E,13,GEB3043,International Financial Management
+S48,22001048,Anis,2025,September Semester,I-10E,13,TEB3024,Final Year Project II
+S48,22001048,Anis,2025,September Semester,I-10E,13,TEB3033,Distributed and Parallel Computing
+S48,22001048,Anis,2025,September Semester,I-10E,13,TEB3213,Computer Forensic
+S49,22001049,Mira,2025,September Semester,I-10E,13,GEB3113,Corporate Communication
+S49,22001049,Mira,2025,September Semester,I-10E,13,TEB3024,Final Year Project II
+S49,22001049,Mira,2025,September Semester,I-10E,13,TEB3033,Distributed and Parallel Computing
+S49,22001049,Mira,2025,September Semester,I-10E,13,TEB3123,Machine Learning
+S50,22001050,David,2025,September Semester,I-10E,13,GEB3043,International Financial Management
+S50,22001050,David,2025,September Semester,I-10E,13,TEB3024,Final Year Project II
+S50,22001050,David,2025,September Semester,I-10E,13,TEB3033,Distributed and Parallel Computing
+S50,22001050,David,2025,September Semester,I-10E,13,TEB3123,Machine Learning
+S51,22001051,Yusuf,2025,September Semester,I-10E,13,GEB3043,International Financial Management
+S51,22001051,Yusuf,2025,September Semester,I-10E,13,TEB3024,Final Year Project II
+S51,22001051,Yusuf,2025,September Semester,I-10E,13,TEB3033,Distributed and Parallel Computing
+S51,22001051,Yusuf,2025,September Semester,I-10E,13,TEB3123,Machine Learning
+S52,22001052,Marcus,2026,September Semester,I-7E,7,IEB3047,Industrial Project
+S54,22001054,Aiman,2026,September Semester,I-7E,7,IEB3047,Industrial Project
+S55,22001055,Sofia,2024,September Semester,I-1E,14,FEM1013,Engineering Mathematics I
+S55,22001055,Sofia,2024,September Semester,I-1E,14,MPU3152,Penghayatan Etika & Peradaban
+S55,22001055,Sofia,2024,September Semester,I-1E,14,PEB1012,Introduction to Oil & Gas Industry and Sustainable Development
+S55,22001055,Sofia,2024,September Semester,I-1E,14,TEB1013,Structured Programming
+S55,22001055,Sofia,2024,September Semester,I-1E,14,TEB1024,Computer Systems
+S56,22001056,Haziq,2026,September Semester,I-7E,7,IEB3047,Industrial Project
+S57,22001057,Farah,2026,September Semester,A-6E,7,IEB3037,Industrial Training
+S58,22001058,Jayden,2026,September Semester,I-7E,7,IEB3047,Industrial Project
+S59,22001059,Arif,2026,September Semester,I-7E,7,IEB3047,Industrial Project
+S60,22001060,Nisha,2026,September Semester,A-6E,7,IEB3037,Industrial Training
+S61,22001061,Irfan,2026,September Semester,I-7E,7,IEB3047,Industrial Project
+S62,22001062,Asher,2026,September Semester,I-7E,7,IEB3047,Industrial Project
+S63,22001063,Kavya,2026,September Semester,I-7E,7,IEB3047,Industrial Project
+S64,22001064,Arissa,2026,September Semester,I-7E,7,IEB3047,Industrial Project
+S65,22001065,Khalid,2026,September Semester,I-7E,7,IEB3047,Industrial Project
+S66,22001066,Priya,2026,September Semester,I-7E,7,IEB3047,Industrial Project
+S68,22001068,Jasmine,2026,September Semester,A-3G,17,TGB1033,Computer Architecture
+S70,22001070,Vikram,2026,September Semester,I-7F,7,IFB3037,Student Industrial Training
+S71,22001071,Aisha,2026,September Semester,E-5F,12,GFB3073,Human Resource Management
+S71,22001071,Aisha,2026,September Semester,E-5F,12,TFB2043,Information Assurance and Security
+S71,22001071,Aisha,2026,September Semester,E-5F,12,TFB2083,Statistics and Empirical Method
+S71,22001071,Aisha,2026,September Semester,E-5F,12,TFB2133,Computer Ethics and Cyber Law
+S72,22001072,Naomi,2026,September Semester,A-6F,12,GFB2043,Principles of Marketing
+S72,22001072,Naomi,2026,September Semester,A-6F,12,TFB2113,Technopreneurship Team Project
+S72,22001072,Naomi,2026,September Semester,A-6F,12,TFB2133,Computer Ethics and Cyber Law
+S72,22001072,Naomi,2026,September Semester,A-6F,12,TFB2143,Computer Forensic
+S73,22001073,Jiaxin,2026,September Semester,A-6F,11,GFB3093,Strategic Management
+S73,22001073,Jiaxin,2026,September Semester,A-6F,11,MPU3412,Resilient Innovation for Social Engagement (RISE)
+S73,22001073,Jiaxin,2026,September Semester,A-6F,11,TFB2113,Technopreneurship Team Project
+S73,22001073,Jiaxin,2026,September Semester,A-6F,11,TFB2133,Computer Ethics and Cyber Law
+S74,22001074,Laila,2026,September Semester,I-7E,7,IEB3047,Industrial Project
+S75,22001075,Dahlia,2026,September Semester,I-7E,7,IEB3047,Industrial Project
+S76,22001076,Zachary,2026,September Semester,I-7E,7,IEB3047,Industrial Project
+S77,22001077,Alvin,2026,September Semester,I-7E,7,IEB3047,Industrial Project
+S78,22001078,Suri,2026,September Semester,A-6F,14,GFB3043,International Financial Management
+S78,22001078,Suri,2026,September Semester,A-6F,14,MPU3412,Resilient Innovation for Social Engagement (RISE)
+S78,22001078,Suri,2026,September Semester,A-6F,14,TFB2113,Technopreneurship Team Project
+S78,22001078,Suri,2026,September Semester,A-6F,14,TFB2133,Computer Ethics and Cyber Law
+S78,22001078,Suri,2026,September Semester,A-6F,14,TFB2143,Computer Forensic
+S79,22001079,Imani,2026,September Semester,A-6F,14,GFB3073,Human Resource Management
+S79,22001079,Imani,2026,September Semester,A-6F,14,MPU3412,Resilient Innovation for Social Engagement (RISE)
+S79,22001079,Imani,2026,September Semester,A-6F,14,TFB2113,Technopreneurship Team Project
+S79,22001079,Imani,2026,September Semester,A-6F,14,TFB2133,Computer Ethics and Cyber Law
+S79,22001079,Imani,2026,September Semester,A-6F,14,TFB2143,Computer Forensic
+S80,22001080,Ivan,2026,September Semester,A-6F,14,GFB3093,Strategic Management
+S80,22001080,Ivan,2026,September Semester,A-6F,14,MPU3412,Resilient Innovation for Social Engagement (RISE)
+S80,22001080,Ivan,2026,September Semester,A-6F,14,TFB2113,Technopreneurship Team Project
+S80,22001080,Ivan,2026,September Semester,A-6F,14,TFB2133,Computer Ethics and Cyber Law
+S80,22001080,Ivan,2026,September Semester,A-6F,14,TFB2143,Computer Forensic
+S81,22001081,Sarah,2026,September Semester,A-6F,14,GFB3093,Strategic Management
+S81,22001081,Sarah,2026,September Semester,A-6F,14,MPU3412,Resilient Innovation for Social Engagement (RISE)
+S81,22001081,Sarah,2026,September Semester,A-6F,14,TFB2113,Technopreneurship Team Project
+S81,22001081,Sarah,2026,September Semester,A-6F,14,TFB2133,Computer Ethics and Cyber Law
+S81,22001081,Sarah,2026,September Semester,A-6F,14,TFB2143,Computer Forensic
+S82,22001082,Noah,2026,September Semester,A-3F,9,KFL1021U,Groom-Me
+S82,22001082,Noah,2026,September Semester,A-3F,9,LFB1042,Academic Writing
+S82,22001082,Noah,2026,September Semester,A-3F,9,TFB1033,Object Oriented Programming
+S82,22001082,Noah,2026,September Semester,A-3F,9,TFB1093,Data Communication and Network
+S83,22001083,Dania,2026,September Semester,A-6F,16,GFB3093,Strategic Management
+S83,22001083,Dania,2026,September Semester,A-6F,16,MPU3312,Integrity And Anti-Corruption
+S83,22001083,Dania,2026,September Semester,A-6F,16,MPU3412,Resilient Innovation for Social Engagement (RISE)
+S83,22001083,Dania,2026,September Semester,A-6F,16,TFB2113,Technopreneurship Team Project
+S83,22001083,Dania,2026,September Semester,A-6F,16,TFB2133,Computer Ethics and Cyber Law
+S83,22001083,Dania,2026,September Semester,A-6F,16,TFB2143,Computer Forensic
+S84,22001084,Vincent,2026,September Semester,A-6F,14,GFB3203,Strategic Business Analytics
+S84,22001084,Vincent,2026,September Semester,A-6F,14,MPU3412,Resilient Innovation for Social Engagement (RISE)
+S84,22001084,Vincent,2026,September Semester,A-6F,14,TFB2113,Technopreneurship Team Project
+S84,22001084,Vincent,2026,September Semester,A-6F,14,TFB2133,Computer Ethics and Cyber Law
+S84,22001084,Vincent,2026,September Semester,A-6F,14,TFB2143,Computer Forensic
+S85,22001085,Natalie,2026,September Semester,A-6F,12,TFB2083,Statistics and Empirical Method
+S85,22001085,Natalie,2026,September Semester,A-6F,12,TFB2113,Technopreneurship Team Project
+S85,22001085,Natalie,2026,September Semester,A-6F,12,TFB2133,Computer Ethics and Cyber Law
+S85,22001085,Natalie,2026,September Semester,A-6F,12,TFB2143,Computer Forensic
+S87,22001087,Dylan,2026,September Semester,I-4F,14,GFB2102,Entrepreneurship
+S87,22001087,Dylan,2026,September Semester,I-4F,14,HFB2033,Professional Communication Skills
+S87,22001087,Dylan,2026,September Semester,I-4F,14,KFC1011U,Creative Animation
+S87,22001087,Dylan,2026,September Semester,I-4F,14,MPU3272,Basic Japanese Communication
+S87,22001087,Dylan,2026,September Semester,I-4F,14,TFB2033,Human and Computer Interaction
+S87,22001087,Dylan,2026,September Semester,I-4F,14,TFB2043,Information Assurance and Security
+S88,22001088,Liyana,2026,September Semester,I-4F,14,GFB2102,Entrepreneurship
+S88,22001088,Liyana,2026,September Semester,I-4F,14,HFB2033,Professional Communication Skills
+S88,22001088,Liyana,2026,September Semester,I-4F,14,KFA1081U,Calligraphy
+S88,22001088,Liyana,2026,September Semester,I-4F,14,MPU3272,Basic Japanese Communication
+S88,22001088,Liyana,2026,September Semester,I-4F,14,TFB2033,Human and Computer Interaction
+S88,22001088,Liyana,2026,September Semester,I-4F,14,TFB2043,Information Assurance and Security
+S89,22001089,Amanda,2026,September Semester,I-4F,13,GFB2102,Entrepreneurship
+S89,22001089,Amanda,2026,September Semester,I-4F,13,HFB2033,Professional Communication Skills
+S89,22001089,Amanda,2026,September Semester,I-4F,13,MPU3272,Basic Japanese Communication
+S89,22001089,Amanda,2026,September Semester,I-4F,13,TFB2033,Human and Computer Interaction
+S89,22001089,Amanda,2026,September Semester,I-4F,13,TFB2043,Information Assurance and Security
+S90,22001090,Syafiq,2026,September Semester,A-6F,15,GFB2113,Fundamental of Investment
+S90,22001090,Syafiq,2026,September Semester,A-6F,15,KFS1091U,Sports First Aider
+S90,22001090,Syafiq,2026,September Semester,A-6F,15,MPU3412,Resilient Innovation for Social Engagement (RISE)
+S90,22001090,Syafiq,2026,September Semester,A-6F,15,TFB2113,Technopreneurship Team Project
+S90,22001090,Syafiq,2026,September Semester,A-6F,15,TFB2133,Computer Ethics and Cyber Law
+S90,22001090,Syafiq,2026,September Semester,A-6F,15,TFB2143,Computer Forensic
+S91,22001091,Adrian,2026,September Semester,A-6F,14,GFB3043,International Financial Management
+S91,22001091,Adrian,2026,September Semester,A-6F,14,MPU3412,Resilient Innovation for Social Engagement (RISE)
+S91,22001091,Adrian,2026,September Semester,A-6F,14,TFB2113,Technopreneurship Team Project
+S91,22001091,Adrian,2026,September Semester,A-6F,14,TFB2133,Computer Ethics and Cyber Law
+S91,22001091,Adrian,2026,September Semester,A-6F,14,TFB2143,Computer Forensic
+S92,22001092,Leena,2026,September Semester,A-6F,10,GFB3203,Strategic Business Analytics
+S92,22001092,Leena,2026,September Semester,A-6F,10,HFB2033,Professional Communication Skills
+S92,22001092,Leena,2026,September Semester,A-6F,10,KFS1091U,Sports First Aider
+S92,22001092,Leena,2026,September Semester,A-6F,10,TFB2113,Technopreneurship Team Project
+S93,22001093,Liam,2026,September Semester,A-6F,14,GFB2113,Fundamental of Investment
+S93,22001093,Liam,2026,September Semester,A-6F,14,MPU3412,Resilient Innovation for Social Engagement (RISE)
+S93,22001093,Liam,2026,September Semester,A-6F,14,TFB2113,Technopreneurship Team Project
+S93,22001093,Liam,2026,September Semester,A-6F,14,TFB2133,Computer Ethics and Cyber Law
+S93,22001093,Liam,2026,September Semester,A-6F,14,TFB2143,Computer Forensic
+S94,22001094,Daphne,2025,May Semester,A-2F,11,CFB1032,"Health, Safety and Environment"
+S94,22001094,Daphne,2025,May Semester,A-2F,11,TFB1033,Object Oriented Programming
+S94,22001094,Daphne,2025,May Semester,A-2F,11,TFB1053,Computer Systems
+S94,22001094,Daphne,2025,May Semester,A-2F,11,TFB1063,Web Application and Integrative Programming
+S95,22001095,Amelia,2026,September Semester,A-6F,15,GFB2113,Fundamental of Investment
+S95,22001095,Amelia,2026,September Semester,A-6F,15,KFS1091U,Sports First Aider
+S95,22001095,Amelia,2026,September Semester,A-6F,15,MPU3412,Resilient Innovation for Social Engagement (RISE)
+S95,22001095,Amelia,2026,September Semester,A-6F,15,TFB2113,Technopreneurship Team Project
+S95,22001095,Amelia,2026,September Semester,A-6F,15,TFB2133,Computer Ethics and Cyber Law
+S95,22001095,Amelia,2026,September Semester,A-6F,15,TFB2143,Computer Forensic
+S96,22001096,Emma,2026,September Semester,I-4F,12,GFB2102,Entrepreneurship
+S96,22001096,Emma,2026,September Semester,I-4F,12,HFB2033,Professional Communication Skills
+S96,22001096,Emma,2026,September Semester,I-4F,12,KFC1051U,Drone Piloting
+S96,22001096,Emma,2026,September Semester,I-4F,12,TFB2033,Human and Computer Interaction
+S96,22001096,Emma,2026,September Semester,I-4F,12,TFB2043,Information Assurance and Security
+S97,22001097,Jonathan,2026,September Semester,I-4F,13,GFB2102,Entrepreneurship
+S97,22001097,Jonathan,2026,September Semester,I-4F,13,HFB2033,Professional Communication Skills
+S97,22001097,Jonathan,2026,September Semester,I-4F,13,MPU3252,Basic French Communication
+S97,22001097,Jonathan,2026,September Semester,I-4F,13,TFB2033,Human and Computer Interaction
+S97,22001097,Jonathan,2026,September Semester,I-4F,13,TFB2043,Information Assurance and Security

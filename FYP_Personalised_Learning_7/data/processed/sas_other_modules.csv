@@ -1,0 +1,12 @@
+student_key,matric_number,student_name,year,period,module_code,award_count,module,credit_hour,taken,module_type,record_type
+S25,22001025,Malik,2024,S1,TFB2083,Y,Statistics and Empirical Method,3,3,Core Discipline,Exemption
+S25,22001025,Malik,2024,S1,GFB2013,Y,Business Accounting,3,3,Core Discipline,Exemption
+S25,22001025,Malik,2024,S1,GFB2053,Y,Principles of Finance,3,3,Core Discipline,Exemption
+S25,22001025,Malik,2024,S1,GFB2043,Y,Principles of Marketing,3,3,Core Discipline,Exemption
+S25,22001025,Malik,2024,S1,HFB2033,Y,Professional Communication Skills,3,3,University Requirement,Exemption
+S25,22001025,Malik,2024,S1,GFB2102,Y,Entrepreneurship,2,2,University Requirement,Exemption
+S92,22001092,Leena,2025,S1,TFB1013,Y,Structured Programming,3,3,Core Discipline,Exemption
+S92,22001092,Leena,2025,S1,TFB1023,Y,Database Systems,3,3,Core Discipline,Exemption
+S92,22001092,Leena,2025,S1,TFB1053,Y,Computer Systems,3,3,Core Discipline,Exemption
+S92,22001092,Leena,2025,S1,TFB1093,Y,Data Communication and Network,3,3,Core Discipline,Exemption
+S92,22001092,Leena,2025,S1,TFB1113,Y,Discrete Mathematics,3,3,Core Discipline,Exemption

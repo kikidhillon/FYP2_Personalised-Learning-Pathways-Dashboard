@@ -1,0 +1,150 @@
+semester,course_code_raw,course_name,credit_hours,course_group,prerequisite_text,refer_table,programme_code,default_semester,source_sheet,source_type,area,selection_rule,curriculum_row_id,is_selection_slot
+Semester 1,MPU3152 / MPU3142,Penghayatan Etika dan Peradaban (Local) / BM Komunikasi 2 (International),2,NR,,,IT,1,IT_Timeline,timeline,,,IT-TIMELINE-01,False
+Semester 1,PFB1012,Introduction to Oil & Gas Industry & Sustainable Development,2,UR,,,IT,1,IT_Timeline,timeline,,,IT-TIMELINE-02,False
+Semester 1,HFB2152,Ethics and Integrity,2,UR,,,IT,1,IT_Timeline,timeline,,,IT-TIMELINE-03,False
+Semester 1,TFB1013,Structured Programming,3,CC,,,IT,1,IT_Timeline,timeline,,,IT-TIMELINE-04,False
+Semester 1,TFB1023,Database Systems,3,CC,,,IT,1,IT_Timeline,timeline,,,IT-TIMELINE-05,False
+Semester 2,MPU3192,Falsafah dan Isu Semasa (Local & International),2,NR,,,IT,2,IT_Timeline,timeline,,,IT-TIMELINE-06,False
+Semester 2,CFB1032,"Health, Safety & Environment",2,CC,,,IT,2,IT_Timeline,timeline,,,IT-TIMELINE-07,False
+Semester 2,TFB1033,Object Oriented Programming,3,CD,,,IT,2,IT_Timeline,timeline,,,IT-TIMELINE-08,False
+Semester 2,TFB1053,Computer Systems,3,CD,,,IT,2,IT_Timeline,timeline,,,IT-TIMELINE-09,False
+Semester 2,TFB1063,Web Application and Integrative Programming,3,CD,,,IT,2,IT_Timeline,timeline,,,IT-TIMELINE-10,False
+Semester 3,LFB1042,Academic Writing,2,NR,,,IT,3,IT_Timeline,timeline,,,IT-TIMELINE-11,False
+Semester 3,HFB1023,Scientific Inquiry,2,UR,,,IT,3,IT_Timeline,timeline,,,IT-TIMELINE-12,False
+Semester 3,KXXXXX1,Co Curriculum I,1,UR,,CoQ,IT,3,IT_Timeline,timeline,,,IT-TIMELINE-13,True
+Semester 3,TFB1093,Data Communication and Network,3,CD,,,IT,3,IT_Timeline,timeline,,,IT-TIMELINE-14,False
+Semester 3,TFB1103,Software Engineering,3,CD,,,IT,3,IT_Timeline,timeline,,,IT-TIMELINE-15,False
+Semester 3,TFB1113,Discrete Mathematics,3,CD,,,IT,3,IT_Timeline,timeline,,,IT-TIMELINE-16,False
+Semester 4,MPU 2,One (1) MPU2 Course,2,NR,,MPU_2,IT,4,IT_Timeline,timeline,,,IT-TIMELINE-17,True
+Semester 4,KXXXXX1,Co Curriculum II,1,UR,,CoQ,IT,4,IT_Timeline,timeline,,,IT-TIMELINE-18,True
+Semester 4,HFB2033,Professional Communication Skills,3,UR,LEB1042,,IT,4,IT_Timeline,timeline,,,IT-TIMELINE-19,False
+Semester 4,GFB2102,Entrepreneurship,2,UR,,,IT,4,IT_Timeline,timeline,,,IT-TIMELINE-20,False
+Semester 4,TFB2033,Human and Computer Interaction,3,CD,,,IT,4,IT_Timeline,timeline,,,IT-TIMELINE-21,False
+Semester 4,TFB2043,Information Assurance and Security,3,CD,,,IT,4,IT_Timeline,timeline,,,IT-TIMELINE-22,False
+Semester 5,MPU3182 / MPU3183,Integrity and Anti-Corruption,2,NR,,,IT,5,IT_Timeline,timeline,,,IT-TIMELINE-23,False
+Semester 5,TFB2063,Data Science,3,CC,,,IT,5,IT_Timeline,timeline,,,IT-TIMELINE-24,False
+Semester 5,TFB2083,Statistics and Empirical Method,3,CC,,,IT,5,IT_Timeline,timeline,,,IT-TIMELINE-25,False
+Semester 5,TFB2093,Internet of Things,3,CD,,,IT,5,IT_Timeline,timeline,,,IT-TIMELINE-26,False
+Semester 5,XXXxxx3,Minor Elective I,3,EM,,IT_EM,IT,5,IT_Timeline,timeline,,,IT-TIMELINE-27,True
+Semester 6,MPU 4 / HFB1012,Community Engagement Project,2,NR,,,IT,6,IT_Timeline,timeline,,,IT-TIMELINE-28,False
+Semester 6,TFB2113,Technopreneurship Team Project,3,CC,,,IT,6,IT_Timeline,timeline,,,IT-TIMELINE-29,False
+Semester 6,TFB2133,Computer Ethics and Cyber Law,3,CD,,,IT,6,IT_Timeline,timeline,,,IT-TIMELINE-30,False
+Semester 6,TFB2143,Computer Forensic,3,CD,,,IT,6,IT_Timeline,timeline,,,IT-TIMELINE-31,False
+Semester 6,XXXxxx3,Minor Elective II,3,EM,,IT_EM,IT,6,IT_Timeline,timeline,,,IT-TIMELINE-32,True
+Semester 7,IFB3037,Student Industrial Training (SIT),7,CI,"• Obtained a minimum CGPA of 2.00/4.00 AND 
+• Earned a minimum of 65 credit hours AND 
+• Completed 5 semesters AND 
+• Encouraged to complete the following courses: 
+   o All basic Technology courses 
+   o Health, Safety & Environment (HSE) 
+   o MPU1 courses 
+   o Professional Communication Skills ",,IT,7,IT_Timeline,timeline,,,IT-TIMELINE-33,False
+Semester 8,IFB3047,Student Industrial Project (SIP),7,CI,Student Industrial Training (SIT),,IT,8,IT_Timeline,timeline,,,IT-TIMELINE-34,False
+Semester 9,TFB3012,Final Year Project I,2,P,,,IT,9,IT_Timeline,timeline,,,IT-TIMELINE-35,False
+Semester 9,XXXxxx3,Minor Elective III,3,EM,,IT_EM,IT,9,IT_Timeline,timeline,,,IT-TIMELINE-36,True
+Semester 9,TFB3033,IT Project Management,3,CD,,,IT,9,IT_Timeline,timeline,,,IT-TIMELINE-37,False
+Semester 9,TFB3XX3,Core Specialisation I,3,CSp,Varies by selected CSp course,IT_CSp,IT,9,IT_Timeline,timeline,,,IT-TIMELINE-38,True
+Semester 9,TFB3XX3,Core Specialisation II,3,CSp,Varies by selected CSp course,IT_CSp,IT,9,IT_Timeline,timeline,,,IT-TIMELINE-39,True
+Semester 10,TFB4014,Final Year Project II,4,P,Final Year Project I,,IT,10,IT_Timeline,timeline,,,IT-TIMELINE-40,False
+Semester 10,TFB3xx3,Core Specialisation III,3,CSp,Varies by selected CSp course,IT_CSp,IT,10,IT_Timeline,timeline,,,IT-TIMELINE-41,True
+Semester 10,XXXxxx3,Minor Elective IV,3,EM,,IT_EM,IT,10,IT_Timeline,timeline,,,IT-TIMELINE-42,True
+Semester 10,XXXxxx3,Minor Elective V,3,EM,,IT_EM,IT,10,IT_Timeline,timeline,,,IT-TIMELINE-43,True
+Semester 1,MPU3152 / MPU3142,Penghayatan Etika dan Peradaban (Local) / BM Komunikasi 2 (International),2,NR,,,CS,1,CS_Timeline,timeline,,,CS-TIMELINE-01,False
+Semester 1,PFB1012,Introduction to Oil & Gas Industry & Sustainable Development,2,UR,,,CS,1,CS_Timeline,timeline,,,CS-TIMELINE-02,False
+Semester 1,TEB1013,Structured Programming,3,CT,,,CS,1,CS_Timeline,timeline,,,CS-TIMELINE-03,False
+Semester 1,TEB1024,Computer Systems,4,CT,,,CS,1,CS_Timeline,timeline,,,CS-TIMELINE-04,False
+Semester 1,FEM1013,Engineering Mathematics I,3,CT,,,CS,1,CS_Timeline,timeline,,,CS-TIMELINE-05,False
+Semester 2,MPU3192,Falsafah dan Isu Semasa (Local & International),2,NR,,,CS,2,CS_Timeline,timeline,,,CS-TIMELINE-06,False
+Semester 2,CFB1032,"Health, Safety & Environment",2,CC,,,CS,2,CS_Timeline,timeline,,,CS-TIMELINE-07,False
+Semester 2,TEB1043,Object Oriented Programming,3,CT,Structured Programming,,CS,2,CS_Timeline,timeline,,,CS-TIMELINE-08,False
+Semester 2,TEB1053,Discrete Mathematics,3,CD,,,CS,2,CS_Timeline,timeline,,,CS-TIMELINE-09,False
+Semester 2,TEB1063,Data Communication and Network,3,CD,,,CS,2,CS_Timeline,timeline,,,CS-TIMELINE-10,False
+Semester 3,MPU 2,One (1) MPU2 Course,2,NR,,MPU_2,CS,3,CS_Timeline,timeline,,,CS-TIMELINE-11,True
+Semester 3,LFB1042,Academic Writing,2,UR,,,CS,3,CS_Timeline,timeline,,,CS-TIMELINE-12,False
+Semester 3,KXXXXX1,Co Curriculum I,1,UR,,CoQ,CS,3,CS_Timeline,timeline,,,CS-TIMELINE-13,True
+Semester 3,TEB1093,Statistics and Empirical Method,3,CT,,,CS,3,CS_Timeline,timeline,,,CS-TIMELINE-14,False
+Semester 3,TEB1103,Data & Information Management,3,CT,,,CS,3,CS_Timeline,timeline,,,CS-TIMELINE-15,False
+Semester 3,TEB1113,Algorithm and Data Structure,3,CD,,,CS,3,CS_Timeline,timeline,,,CS-TIMELINE-16,False
+Semester 4,MPU3182 / MPU3183,Integrity and Anti-corruption,2,NR,,,CS,4,CS_Timeline,timeline,,,CS-TIMELINE-17,False
+Semester 4,HFB1023,Scientific Inquiry,3,UR,,,CS,4,CS_Timeline,timeline,,,CS-TIMELINE-18,False
+Semester 4,KXXXXX1,Co Curriculum II,1,UR,,CoQ,CS,4,CS_Timeline,timeline,,,CS-TIMELINE-19,True
+Semester 4,TEB2014,Software Engineering & HCI,4,CT,,,CS,4,CS_Timeline,timeline,,,CS-TIMELINE-20,False
+Semester 4,TEB2023,Artificial Intelligence,3,CT,,,CS,4,CS_Timeline,timeline,,,CS-TIMELINE-21,False
+Semester 5,MPU 4 / HFB1012,Community Engagement Project,2,NR,,,CS,5,CS_Timeline,timeline,,,CS-TIMELINE-22,False
+Semester 5,HFB2033,Professional Communication Skills,3,UR,LEB1042,,CS,5,CS_Timeline,timeline,,,CS-TIMELINE-23,False
+Semester 5,TEB2043,Data Science,3,CT,,,CS,5,CS_Timeline,timeline,,,CS-TIMELINE-24,False
+Semester 5,TEB2053,Embedded Systems,3,CD,Structured Programming,,CS,5,CS_Timeline,timeline,,,CS-TIMELINE-25,False
+Semester 5,XXXxxx3,Minor Elective I,3,EM,,CS_EM,CS,5,CS_Timeline,timeline,,,CS-TIMELINE-26,True
+Semester 6,IFB3037,Student Industrial Training (SIT),7,CI,"• Obtained a minimum CGPA of 2.00/4.00 AND 
+• Earned a minimum of 65 credit hours AND 
+• Completed 5 semesters AND 
+• Encouraged to complete the following courses: 
+   o All basic Technology courses 
+   o Health, Safety & Environment (HSE) 
+   o MPU1 courses 
+   o Professional Communication Skills ",,CS,6,CS_Timeline,timeline,,,CS-TIMELINE-27,False
+Semester 7,IFB3047,Student Industrial Project (SIP),7,CI,Student Industrial Training (SIT),,CS,7,CS_Timeline,timeline,,,CS-TIMELINE-28,False
+Semester 8,GFB2102,Entrepreneurship,2,UR,,,CS,8,CS_Timeline,timeline,,,CS-TIMELINE-29,False
+Semester 8,TEB2083,Technopreneurship Team Project,3,CT,,,CS,8,CS_Timeline,timeline,,,CS-TIMELINE-30,False
+Semester 8,TEB2093,Computer Security,3,CT,Data Communication and Network,,CS,8,CS_Timeline,timeline,,,CS-TIMELINE-31,False
+Semester 8,TEB2103,Modelling and Simulation,3,CD,,,CS,8,CS_Timeline,timeline,,,CS-TIMELINE-32,False
+Semester 8,XXXxxx3,Minor Elective II,3,EM,,CS_EM,CS,8,CS_Timeline,timeline,,,CS-TIMELINE-33,True
+Semester 9,TEB3012,Final Year Project I,2,P,3rd year standing,,CS,9,CS_Timeline,timeline,,,CS-TIMELINE-34,False
+Semester 9,XXXxxx3,Minor Elective III,3,EM,,CS_EM,CS,9,CS_Timeline,timeline,,,CS-TIMELINE-35,True
+Semester 9,XXXxxx3,Minor Elective IV,3,EM,,CS_EM,CS,9,CS_Timeline,timeline,,,CS-TIMELINE-36,True
+Semester 9,TEB3XX3,Core Specialisation I,3,CSp,Varies by selected CSp course,CS_CSp,CS,9,CS_Timeline,timeline,,,CS-TIMELINE-37,True
+Semester 9,TEB3XX3,Core Specialisation II,3,CSp,Varies by selected CSp course,CS_CSp,CS,9,CS_Timeline,timeline,,,CS-TIMELINE-38,True
+Semester 10,TEB3024,Final Year Project II,4,P,Final Year Project I,,CS,10,CS_Timeline,timeline,,,CS-TIMELINE-39,False
+Semester 10,XXXxxx3,Minor Elective IV,3,EM,,CS_EM,CS,10,CS_Timeline,timeline,,,CS-TIMELINE-40,True
+Semester 10,TEB3xx3,Core Specialisation III,3,CSp,Varies by selected CSp course,,CS,10,CS_Timeline,timeline,,,CS-TIMELINE-41,True
+Semester 10,TEB3033,Distributed and Parallel Computing,3,CD,,CS_CSp,CS,10,CS_Timeline,timeline,,,CS-TIMELINE-42,False
+Semester 1,MPU3152 / MPU3142,Penghayatan Etika dan Peradaban (Local) / BM Komunikasi 2 (International),2,NR,,,IS,1,IS_Timeline,timeline,,,IS-TIMELINE-01,False
+Semester 1,PFB1012,Introduction to Oil & Gas Industry & Sustainable Development,2,UR,,,IS,1,IS_Timeline,timeline,,,IS-TIMELINE-02,False
+Semester 1,HFB2152,Ethics and Integrity,2,UR,,,IS,1,IS_Timeline,timeline,,,IS-TIMELINE-03,False
+Semester 1,TFB1013,Structured Programming,3,CC,,,IS,1,IS_Timeline,timeline,,,IS-TIMELINE-04,False
+Semester 1,TFB1023,Database Systems,3,CC,,,IS,1,IS_Timeline,timeline,,,IS-TIMELINE-05,False
+Semester 2,MPU3192,Falsafah dan Isu Semasa (Local & International),2,NR,,,IS,2,IS_Timeline,timeline,,,IS-TIMELINE-06,False
+Semester 2,CFB1032,"Health, Safety & Environment",2,CC,,,IS,2,IS_Timeline,timeline,,,IS-TIMELINE-07,False
+Semester 2,TFB1063,Web Application and Integrative Programming,3,CD,,,IS,2,IS_Timeline,timeline,,,IS-TIMELINE-08,False
+Semester 2,TFB1073,Information Technology Infrastructure,3,CD,,,IS,2,IS_Timeline,timeline,,,IS-TIMELINE-09,False
+Semester 2,TFB1083,Fundamental of IS,3,CD,,,IS,2,IS_Timeline,timeline,,,IS-TIMELINE-10,False
+Semester 3,LFB1042,Academic Writing,2,NR,,,IS,3,IS_Timeline,timeline,,,IS-TIMELINE-11,False
+Semester 3,HFB1023,Scientific Inquiry,2,UR,,,IS,3,IS_Timeline,timeline,,,IS-TIMELINE-12,False
+Semester 3,KXXXXX1,Co Curriculum I,1,UR,,CoQ,IS,3,IS_Timeline,timeline,,,IS-TIMELINE-13,True
+Semester 3,TFB1123,Enterprise Resource Planning,3,CD,,,IS,3,IS_Timeline,timeline,,,IS-TIMELINE-14,False
+Semester 3,TFB1133,System Analysis and Design,3,CD,,,IS,3,IS_Timeline,timeline,,,IS-TIMELINE-15,False
+Semester 3,TFB1143,Finance Information Systems,3,CD,,,IS,3,IS_Timeline,timeline,,,IS-TIMELINE-16,False
+Semester 4,MPU 2,One (1) MPU2 Course,2,NR,,MPU_2,IS,4,IS_Timeline,timeline,,,IS-TIMELINE-17,True
+Semester 4,KXXXXX1,Co Curriculum II,1,UR,,CoQ,IS,4,IS_Timeline,timeline,,,IS-TIMELINE-18,True
+Semester 4,HFB2033,Professional Communication Skills,3,UR,,,IS,4,IS_Timeline,timeline,,,IS-TIMELINE-19,False
+Semester 4,GFB2102,Entrepreneurship,2,UR,,,IS,4,IS_Timeline,timeline,,,IS-TIMELINE-20,False
+Semester 4,TFB2043,Information Assurance and Security,3,CD,,,IS,4,IS_Timeline,timeline,,,IS-TIMELINE-21,False
+Semester 4,TFB2053,Enterprise Architecture,3,CD,,,IS,4,IS_Timeline,timeline,,,IS-TIMELINE-22,False
+Semester 5,MPU3182 / MPU3183,Integrity and Anti-corruption,2,NR,,,IS,5,IS_Timeline,timeline,,,IS-TIMELINE-23,False
+Semester 5,TFB2063,Data Science,3,CC,,,IS,5,IS_Timeline,timeline,,,IS-TIMELINE-24,False
+Semester 5,TFB2083,Statistics and Empirical Method,3,CC,,,IS,5,IS_Timeline,timeline,,,IS-TIMELINE-25,False
+Semester 5,TFB2103,IT Audit,3,CD,,,IS,5,IS_Timeline,timeline,,,IS-TIMELINE-26,False
+Semester 5,XXXxxx3,Minor Elective I,3,EM,,IS_EM,IS,5,IS_Timeline,timeline,,,IS-TIMELINE-27,True
+Semester 6,MPU 4 / HFB1012,Community Engagement Project,2,NR,,,IS,6,IS_Timeline,timeline,,,IS-TIMELINE-28,False
+Semester 6,TFB2113,Technopreneurship Team Project,3,CC,,,IS,6,IS_Timeline,timeline,,,IS-TIMELINE-29,False
+Semester 6,TFB2153,Business Intelligence,3,CD,,,IS,6,IS_Timeline,timeline,,,IS-TIMELINE-30,False
+Semester 6,TFB2163,Digital Marketing,3,CD,,,IS,6,IS_Timeline,timeline,,,IS-TIMELINE-31,False
+Semester 6,XXXxxx3,Minor Elective II,3,EM,,IS_EM,IS,6,IS_Timeline,timeline,,,IS-TIMELINE-32,True
+Semester 7,IFB3037,Student Industrial Training (SIT),7,CI,"• Obtained a minimum CGPA of 2.00/4.00 AND 
+• Earned a minimum of 65 credit hours AND 
+• Completed 5 semesters AND 
+• Encouraged to complete the following courses: 
+   o All basic Technology courses 
+   o Health, Safety & Environment (HSE) 
+   o MPU1 courses 
+   o Professional Communication Skills ",,IS,7,IS_Timeline,timeline,,,IS-TIMELINE-33,False
+Semester 8,IFB3047,Student Industrial Project (SIP),7,CI,Student Industrial Training (SIT),,IS,8,IS_Timeline,timeline,,,IS-TIMELINE-34,False
+Semester 9,TFB3012,Final Year Project I,2,P,,,IS,9,IS_Timeline,timeline,,,IS-TIMELINE-35,False
+Semester 9,XXXxxx3,Minor Elective III,3,EM,,IS_EM,IS,9,IS_Timeline,timeline,,,IS-TIMELINE-36,True
+Semester 9,TFB3033,IT Project Management,3,CD,,,IS,9,IS_Timeline,timeline,,,IS-TIMELINE-37,False
+Semester 9,TFB3XX3,Core Specialisation I,3,CSp,Varies by selected CSp course ,IS_CSp,IS,9,IS_Timeline,timeline,,,IS-TIMELINE-38,True
+Semester 9,TFB3XX3,Core Specialisation II,3,CSp,Varies by selected CSp course ,IS_CSp,IS,9,IS_Timeline,timeline,,,IS-TIMELINE-39,True
+Semester 10,GEB4104,Final Year Project II,4,P,Final Year Project I,,IS,10,IS_Timeline,timeline,,,IS-TIMELINE-40,False
+Semester 10,TFB3XX3,Core Specialisation III,3,CSp,Varies by selected CSp course ,IS_CSp,IS,10,IS_Timeline,timeline,,,IS-TIMELINE-41,True
+Semester 10,XXXxxx3,Minor Elective IV,3,EM,,IS_EM,IS,10,IS_Timeline,timeline,,,IS-TIMELINE-42,True
+Semester 10,XXXxxx3,Minor Elective V,3,EM,,IS_EM,IS,10,IS_Timeline,timeline,,,IS-TIMELINE-43,True

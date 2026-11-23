@@ -1,0 +1,98 @@
+student_key,matric_number,student_name,programme,has_po_file,has_sas_file,latest_year,latest_period,latest_occurrence,latest_gpa,latest_cgpa,latest_standing,latest_at_risk_flag,accumulated_credit_hours,sas_semester_records,sas_module_records,current_enrollment_records,po_records,po_course_mappings,average_po_achievement_pct,programme_code
+S1,22005410,Kieron Dimaz Singh Dhillon,Bachelor of Information Technology (Hons),1,1,2026.0,January Semester,A-7F (CUR),0.0,2.613,Pass,0.0,97.0,8,36,0,9,74,66.76636587499999,IT
+S2,22001002,Irdina,Bachelor of Information Technology (Hons),1,1,2026.0,January Semester,A-7F (CUR),0.0,3.307,Pass,0.0,86.0,8,31,0,9,75,77.79704525,IT
+S3,22001003,Nadia,Bachelor of Information Technology (Hons),1,1,2026.0,January Semester,I-8F (CUR),4.0,3.06,Good Standing,0.0,98.0,8,35,0,9,76,72.88280575,IT
+S4,22001004,Hazel,Bachelor of Information Technology (Hons),1,1,2026.0,January Semester,I-8F (CUR),4.0,3.091,Good Standing,0.0,98.0,8,35,0,9,76,72.257375125,IT
+S5,22001005,Adam,Bachelor of Information Technology (Hons),1,1,2026.0,January Semester,I-8F (CUR),3.75,3.176,Good Standing,0.0,97.0,8,35,0,9,76,75.9380005,IT
+S6,22001006,Lucas,Bachelor of Information Technology (Hons),1,1,2026.0,January Semester,I-8F (CUR),4.0,3.545,Good Standing,0.0,95.0,8,34,0,9,76,80.7695785,IT
+S7,22001007,Rayyan,Bachelor of Information Technology (Hons),1,1,2026.0,January Semester,E-6F (CUR),1.92900002002716,2.611,Academic Probation,1.0,91.0,8,35,0,9,64,64.765062375,IT
+S8,22001008,Leon,Bachelor of Information Technology (Hons),1,1,2026.0,January Semester,I-8F (CUR),2.5,3.185,Pass,0.0,95.0,8,34,0,9,63,72.780556875,IT
+S9,22001009,Alia,Bachelor of Information Technology (Hons),1,1,2026.0,January Semester,I-8F (CUR),4.0,3.438,Good Standing,0.0,92.0,8,33,0,9,70,77.844560625,IT
+S10,22001010,Naufal,Bachelor of Information Technology (Hons),1,1,2026.0,January Semester,A-7F (CUR),0.0,2.994,Pass,0.0,99.0,8,37,0,9,73,70.352136,IT
+S11,22001011,Caleb,Bachelor of Information Technology (Hons),1,1,2026.0,January Semester,I-8F (CUR),4.0,3.276,Good Standing,0.0,95.0,8,34,0,9,76,75.51072549999999,IT
+S12,22001012,Grace,Bachelor of Information Technology (Hons),1,1,2026.0,January Semester,E-6F (CUR),0.0,2.413,Academic Dismissal,1.0,96.0,8,37,0,9,63,63.69653625,IT
+S13,22001013,Avery,Bachelor of Information Technology (Hons),1,1,2026.0,January Semester,I-8F (CUR),4.0,3.276,Good Standing,0.0,95.0,8,34,0,9,73,76.5214885,IT
+S14,22001014,Aaliyah,Bachelor of Information Technology (Hons),1,1,2026.0,January Semester,I-8F (CUR),3.5,3.435,Good Standing,0.0,95.0,8,34,0,9,76,76.937235125,IT
+S15,22001015,Alyssa,Bachelor of Information Technology (Hons),1,1,2026.0,January Semester,I-8F (CUR),4.0,3.185,Good Standing,0.0,101.0,8,36,0,9,76,73.95627775,IT
+S16,22001016,Daniel,Bachelor of Information Technology (Hons),1,1,2026.0,January Semester,I-8F (CUR),4.0,3.239,Good Standing,0.0,95.0,8,34,0,9,79,75.467225125,IT
+S17,22001017,Chloe,Bachelor of Information Technology (Hons),1,1,2026.0,January Semester,I-8F (CUR),4.0,3.227,Good Standing,0.0,98.0,8,35,0,9,76,74.26895075,IT
+S18,22001018,Isabella,Bachelor of Information Technology (Hons),1,1,2026.0,January Semester,I-8F (CUR),4.0,3.386,Good Standing,0.0,95.0,8,34,0,9,76,77.13635525,IT
+S19,22001019,Elena,Bachelor of Information Technology (Hons),1,1,2026.0,January Semester,I-8F (CUR),4.0,3.31,Good Standing,0.0,95.0,8,34,0,9,76,75.874923375,IT
+S20,22001020,Yasmin,Bachelor of Information Technology (Hons),1,1,2026.0,January Semester,I-8F (CUR),4.0,3.702,Good Standing,0.0,95.0,8,34,0,9,79,82.001459875,IT
+S21,22001021,Meera,Bachelor of Information Technology (Hons),1,1,2025.0,January Semester,A-4E (TRF),,,,,30.0,5,13,0,9,21,57.25007371428571,IT
+S22,22001022,Aqil,Bachelor of Information Technology (Hons),1,1,2026.0,January Semester,I-8F (CUR),4.0,3.213,Good Standing,0.0,101.0,8,36,0,9,79,75.01668075,IT
+S23,22001023,Amira,Bachelor of Information Technology (Hons),1,1,2026.0,January Semester,I-8F (CUR),3.5,3.352,Good Standing,0.0,95.0,8,34,0,9,79,76.50096375,IT
+S24,22001024,Nathan,Bachelor of Information Technology (Hons),1,1,2026.0,January Semester,I-8F (CUR),4.0,3.622,Good Standing,0.0,95.0,8,34,0,9,79,81.48242075,IT
+S25,22001025,Malik,Bachelor of Information Technology (Hons),1,1,2026.0,January Semester,I-8F (CUR),3.0,2.877,Good Standing,0.0,87.0,8,31,0,9,66,69.350346375,IT
+S26,22001026,Ibrahim,Bachelor of Computer Science (Hons),1,1,2025.0,May Semester,I-3E (CUR),0.899999976158142,0.87,Academic Dismissal,1.0,33.0,3,12,4,9,22,45.81801028571429,CS
+S27,22001027,Pranav,Bachelor of Computer Science (Hons),1,1,2025.0,May Semester,I-3E (WDR),,,,,27.0,3,10,0,9,24,67.6105512857143,CS
+S28,22001028,Isaac,Bachelor of Computer Science (Hons),1,1,2026.0,January Semester,E-3E (DREG),,,,,23.0,5,8,0,9,18,61.710904166666666,CS
+S29,22001029,Tara,Bachelor of Information Systems (Hons),1,1,2024.0,May Semester,A-11E (CUR),3.75,2.773,Good Standing,0.0,133.0,13,46,1,9,10,68.793254,IS
+S30,22001030,Weihao,Bachelor of Information Technology (Hons),1,1,2024.0,May Semester,E-10E (CUR),3.65400004386902,3.291,Dean List,0.0,123.0,10,42,4,9,23,71.07575471428571,IT
+S31,22001031,Rania,Bachelor of Information Technology (Hons),1,1,2024.0,May Semester,E-10E (CUR),3.48099994659424,3.177,Good Standing,0.0,123.0,10,42,4,9,23,73.143086875,IT
+S32,22001032,Fatima,Bachelor of Information Technology (Hons),1,1,2024.0,May Semester,E-10E (CUR),3.40400004386902,3.343,Good Standing,0.0,126.0,10,43,4,9,23,75.80658575,IT
+S33,22001033,Danish,Bachelor of Information Technology (Hons),1,1,2024.0,May Semester,E-10E (CUR),3.48399996757507,3.272,Good Standing,0.0,126.0,10,43,5,9,23,77.128510625,IT
+S34,22001034,Rachel,Bachelor of Information Technology (Hons),1,1,2024.0,May Semester,E-10E (CUR),3.59599995613098,3.668,Dean List,0.0,123.0,10,42,4,9,23,80.3462545,IT
+S35,22001035,Hana,Bachelor of Information Systems (Hons),1,1,2026.0,January Semester,A-10F (CUR),3.88499999046326,3.683,Dean List,0.0,122.0,11,43,4,9,112,81.063897625,IS
+S36,22001036,Akash,Bachelor of Information Systems (Hons),1,1,2025.0,September Semester,I-10F (CUR),3.59599995613098,3.713,Dean List,0.0,122.0,10,43,4,9,114,82.698052,IS
+S37,22001037,Kevin,Bachelor of Computer Science (Hons),1,1,2025.0,September Semester,I-10E (CUR),3.76900005340576,3.733,Dean List,0.0,123.0,10,42,4,9,71,82.809195125,CS
+S38,22001038,Harith,Bachelor of Information Systems (Hons),1,1,2025.0,September Semester,I-10F (CUR),3.53800010681152,3.437,Dean List,0.0,125.0,10,44,4,9,114,77.500273625,IS
+S39,22001039,Hafiz,Bachelor of Computer Science (Hons),1,1,2025.0,September Semester,I-10E (CUR),3.42300009727478,3.584,Good Standing,0.0,123.0,10,42,4,9,72,82.291099625,CS
+S40,22001040,Sonia,Bachelor of Computer Science (Hons),1,1,2025.0,September Semester,I-10E (CUR),3.82699990272522,3.401,Dean List,0.0,123.0,10,42,4,9,70,82.79635625,CS
+S41,22001041,Faiz,Bachelor of Computer Science (Hons),1,1,2025.0,September Semester,I-10E (CUR),3.42300009727478,3.591,Good Standing,0.0,123.0,10,42,4,9,73,82.2195145,CS
+S42,22001042,Ryan,Bachelor of Computer Science (Hons),1,1,2025.0,September Semester,I-10E (CUR),3.34599995613098,3.317,Good Standing,0.0,123.0,10,42,4,9,74,78.588686625,CS
+S43,22001043,Emily,Bachelor of Computer Science (Hons),1,1,2025.0,September Semester,I-10E (CUR),3.63499999046326,3.399,Dean List,0.0,123.0,10,42,4,9,69,79.46722875,CS
+S44,22001044,Qistina,Bachelor of Computer Science (Hons),1,1,2025.0,September Semester,I-10E (CUR),3.42300009727478,3.472,Good Standing,0.0,123.0,10,42,4,9,70,80.65794675000001,CS
+S45,22001045,Arjun,Bachelor of Information Systems (Hons),1,1,2025.0,September Semester,I-10F (CUR),3.76900005340576,3.693,Dean List,0.0,122.0,10,43,4,9,114,81.316072,IS
+S46,22001046,Darren,Bachelor of Computer Science (Hons),1,1,2025.0,September Semester,I-10E (CUR),3.59599995613098,3.739,Dean List,0.0,123.0,10,42,4,9,71,83.16517825,CS
+S47,22001047,Amir,Bachelor of Information Systems (Hons),1,1,2025.0,September Semester,I-10F (CUR),3.40400004386902,3.539,Good Standing,0.0,122.0,10,43,4,9,114,76.104630125,IS
+S48,22001048,Anis,Bachelor of Computer Science (Hons),1,1,2025.0,September Semester,I-10E (CUR),3.69199991226196,3.515,Dean List,0.0,126.0,10,43,4,9,70,81.67297125,CS
+S49,22001049,Mira,Bachelor of Computer Science (Hons),1,1,2025.0,September Semester,I-10E (CUR),3.32699990272522,3.591,Good Standing,0.0,123.0,10,42,4,9,74,79.578102125,CS
+S50,22001050,David,Bachelor of Computer Science (Hons),1,1,2025.0,September Semester,I-10E (CUR),3.46199989318848,3.181,Good Standing,0.0,123.0,10,42,4,9,75,75.636902375,CS
+S51,22001051,Yusuf,Bachelor of Computer Science (Hons),1,1,2025.0,September Semester,I-10E (CUR),3.59599995613098,3.612,Dean List,0.0,123.0,10,42,4,9,76,80.68485325,CS
+S52,22001052,Marcus,Bachelor of Computer Science (Hons),1,1,2026.0,May Semester,I-6E (CUR),0.0,3.706,Pass,0.0,75.0,6,27,1,9,66,81.442801,CS
+S53,22001053,Melanie,Bachelor of Computer Science (Hons),1,1,2026.0,May Semester,I-6E (CUR),0.0,3.309,Pass,0.0,75.0,6,27,0,9,66,76.56368925,CS
+S54,22001054,Aiman,Bachelor of Computer Science (Hons),1,1,2026.0,May Semester,I-6E (CUR),0.0,3.415,Pass,0.0,75.0,6,27,1,9,63,77.569792875,CS
+S55,22001055,Sofia,Bachelor of Computer Science (Hons),1,1,2024.0,September Semester,I-1E (CUR),0.71399998664856,0.714,Academic Dismissal,1.0,14.0,1,5,5,9,12,33.82830414285714,CS
+S56,22001056,Haziq,Bachelor of Computer Science (Hons),1,1,2026.0,May Semester,I-6E (CUR),0.0,3.533,Pass,0.0,75.0,6,27,1,9,66,79.399242625,CS
+S57,22001057,Farah,Bachelor of Computer Science (Hons),1,1,2026.0,May Semester,A-5E (CUR),3.27300000190735,2.528,Good Standing,0.0,76.0,6,28,1,9,64,64.61480444444445,CS
+S58,22001058,Jayden,Bachelor of Computer Science (Hons),1,1,2026.0,May Semester,I-6E (CUR),0.0,3.537,Pass,0.0,75.0,6,27,1,9,66,77.8810035,CS
+S59,22001059,Arif,Bachelor of Computer Science (Hons),1,1,2026.0,May Semester,I-6E (CUR),0.0,3.496,Pass,0.0,75.0,6,27,1,9,63,79.79805225,CS
+S60,22001060,Nisha,Bachelor of Computer Science (Hons),1,1,2026.0,May Semester,A-5E (CUR),2.82100009918213,2.962,Pass,0.0,89.0,6,33,1,9,75,72.35555222222223,CS
+S61,22001061,Irfan,Bachelor of Computer Science (Hons),1,1,2026.0,May Semester,I-6E (CUR),0.0,3.776,Pass,0.0,75.0,6,27,1,9,63,82.85042625,CS
+S62,22001062,Asher,Bachelor of Computer Science (Hons),1,1,2026.0,May Semester,I-6E (CUR),0.0,3.563,Pass,0.0,75.0,6,27,1,9,63,79.354902625,CS
+S63,22001063,Kavya,Bachelor of Computer Science (Hons),1,1,2026.0,May Semester,I-6E (CUR),0.0,3.618,Pass,0.0,75.0,6,27,1,9,66,80.853076125,CS
+S64,22001064,Arissa,Bachelor of Computer Science (Hons),1,1,2026.0,May Semester,I-6E (CUR),0.0,3.147,Pass,0.0,75.0,6,27,1,9,63,73.722195875,CS
+S65,22001065,Khalid,Bachelor of Computer Science (Hons),1,1,2026.0,May Semester,I-6E (CUR),0.0,3.349,Pass,0.0,75.0,6,27,1,9,63,77.91667425,CS
+S66,22001066,Priya,Bachelor of Computer Science (Hons),1,1,2026.0,May Semester,I-6E (CUR),0.0,3.029,Pass,0.0,78.0,6,28,1,9,63,74.357766875,CS
+S67,22001067,Hakim,Bachelor of Computer Science (Hons),1,0,,,,,,,,,0,0,0,9,63,71.11206975,CS
+S68,22001068,Jasmine,Bachelor of Information Technology (Hons),1,1,2026.0,May Semester,A-2G (CUR),2.72900009155273,2.35,Pass,0.0,25.0,2,10,1,9,16,67.96316957142857,IT
+S69,22001069,Rohan,Bachelor of Information Technology (Hons),1,1,2026.0,May Semester,I-3F (PRB),1.66700005531311,1.938,Academic Probation,1.0,24.0,5,8,0,9,23,61.810807000000004,IT
+S70,22001070,Vikram,Bachelor of Information Technology (Hons),1,1,2026.0,May Semester,I-6F (CUR),2.0,2.818,Pass,0.0,93.0,7,36,1,9,73,69.11748375,IT
+S71,22001071,Aisha,Bachelor of Information Technology (Hons),1,1,2026.0,May Semester,A-5F (DEF),,,,,53.0,5,22,4,9,49,82.83843175,IT
+S72,22001072,Naomi,Bachelor of Information Technology (Hons),1,1,2026.0,May Semester,A-5F (CUR),3.0,2.952,Good Standing,0.0,63.0,5,25,4,9,61,71.20189375,IT
+S73,22001073,Jiaxin,Bachelor of Information Technology (Hons),1,1,2026.0,May Semester,A-5F (CUR),1.82099997997284,2.328,Academic Probation,1.0,64.0,5,26,4,9,64,67.78163822222223,IT
+S74,22001074,Laila,Bachelor of Computer Science (Hons),1,1,2026.0,May Semester,I-6E (CUR),0.0,2.982,Pass,0.0,75.0,6,27,1,9,63,70.164842625,CS
+S75,22001075,Dahlia,Bachelor of Computer Science (Hons),1,1,2026.0,May Semester,I-6E (CUR),0.0,3.441,Pass,0.0,75.0,6,27,1,9,63,76.563625375,CS
+S76,22001076,Zachary,Bachelor of Computer Science (Hons),1,1,2026.0,May Semester,I-6E (CUR),0.0,3.316,Pass,0.0,75.0,6,27,1,9,66,75.8364455,CS
+S77,22001077,Alvin,Bachelor of Computer Science (Hons),1,1,2026.0,May Semester,I-6E (CUR),0.0,3.276,Pass,0.0,75.0,6,27,1,9,63,75.510683,CS
+S78,22001078,Suri,Bachelor of Information Technology (Hons),1,1,2026.0,May Semester,A-5F (CUR),2.78600001335144,2.91,Pass,0.0,67.0,5,27,5,9,64,76.31951666666666,IT
+S79,22001079,Imani,Bachelor of Information Technology (Hons),1,1,2026.0,May Semester,A-5F (CUR),2.34599995613098,2.403,Pass,0.0,62.0,5,24,5,9,56,65.944454875,IT
+S80,22001080,Ivan,Bachelor of Information Technology (Hons),1,1,2026.0,May Semester,A-5F (CUR),3.64299988746643,3.47,Dean List,0.0,67.0,5,27,5,9,64,80.0148538888889,IT
+S81,22001081,Sarah,Bachelor of Information Technology (Hons),1,1,2026.0,May Semester,A-5F (CUR),2.25,2.806,Pass,0.0,67.0,5,27,5,9,64,73.25054344444445,IT
+S82,22001082,Noah,Bachelor of Information Technology (Hons),1,1,2026.0,May Semester,I-3F (DEF),,,,,25.0,5,10,4,9,24,62.886658571428576,IT
+S83,22001083,Dania,Bachelor of Information Technology (Hons),1,1,2026.0,May Semester,A-5F (CUR),3.93799996376038,3.722,Dean List,0.0,62.0,5,24,6,9,48,84.2544025,IT
+S84,22001084,Vincent,Bachelor of Information Technology (Hons),1,1,2026.0,May Semester,A-5F (CUR),3.55399990081787,3.291,Dean List,0.0,67.0,5,27,5,9,64,74.97920922222222,IT
+S85,22001085,Natalie,Bachelor of Information Technology (Hons),1,1,2026.0,May Semester,A-5F (CUR),2.43799996376038,3.039,Pass,0.0,67.0,5,27,4,9,65,74.601964875,IT
+S86,22001086,Ben,Bachelor of Information Technology (Hons),1,1,2026.0,May Semester,I-3F (CUR),3.42899990081787,3.487,Good Standing,0.0,39.0,3,16,0,9,37,75.742468125,IT
+S87,22001087,Dylan,Bachelor of Information Technology (Hons),1,1,2026.0,May Semester,I-3F (CUR),3.19199991226196,3.197,Good Standing,0.0,38.0,3,15,6,9,36,73.934054625,IT
+S88,22001088,Liyana,Bachelor of Information Technology (Hons),1,1,2026.0,May Semester,I-3F (CUR),3.64299988746643,3.609,Dean List,0.0,39.0,3,16,6,9,37,78.554128375,IT
+S89,22001089,Amanda,Bachelor of Information Technology (Hons),1,1,2026.0,May Semester,I-3F (CUR),3.60700011253357,3.59,Dean List,0.0,39.0,3,16,5,9,37,78.6651,IT
+S90,22001090,Syafiq,Bachelor of Information Technology (Hons),1,1,2026.0,May Semester,A-5F (CUR),3.55399990081787,3.617,Dean List,0.0,66.0,5,26,6,9,63,82.54266766666666,IT
+S91,22001091,Adrian,Bachelor of Information Technology (Hons),1,1,2026.0,May Semester,A-5F (CUR),3.44600009918213,3.317,Good Standing,0.0,67.0,5,27,5,9,64,80.6146758888889,IT
+S92,22001092,Leena,Bachelor of Information Technology (Hons),1,1,2026.0,May Semester,I-6F (CUR),3.5,3.424,Dean List,0.0,56.0,5,23,4,9,52,77.061490125,IT
+S93,22001093,Liam,Bachelor of Information Technology (Hons),1,1,2026.0,May Semester,A-5F (CUR),2.75,2.891,Pass,0.0,64.0,5,25,5,9,58,69.793323375,IT
+S94,22001094,Daphne,Bachelor of Information Technology (Hons),1,1,2025.0,May Semester,A-2F (PRB),,,,,12.0,2,5,4,9,11,52.87001983333334,IT
+S95,22001095,Amelia,Bachelor of Information Technology (Hons),1,1,2026.0,May Semester,A-5F (CUR),3.76799988746643,3.765,Dean List,0.0,66.0,5,26,6,9,63,83.83426544444444,IT
+S96,22001096,Emma,Bachelor of Information Technology (Hons),1,1,2026.0,May Semester,I-3F (CUR),3.53299999237061,3.444,Dean List,0.0,40.0,3,16,5,9,36,76.89069725,IT
+S97,22001097,Jonathan,Bachelor of Information Technology (Hons),1,1,2026.0,May Semester,I-3F (CUR),3.26900005340576,3.151,Good Standing,0.0,38.0,3,15,5,9,36,73.72394750000001,IT

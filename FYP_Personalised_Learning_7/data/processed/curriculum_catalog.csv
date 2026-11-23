@@ -1,0 +1,532 @@
+semester,course_code_raw,course_name,credit_hours,course_group,prerequisite_text,refer_table,programme_code,default_semester,source_sheet,source_type,area,selection_rule,curriculum_row_id,is_selection_slot,course_code,is_placeholder,course_name_normalised
+Semester 1,MPU3152 / MPU3142,Penghayatan Etika dan Peradaban (Local) / BM Komunikasi 2 (International),2,NR,,,IT,1.0,IT_Timeline,timeline,,,IT-TIMELINE-01,False,MPU3152,False,penghayatanetikadanperadabanbmkomunikasi2
+Semester 1,MPU3152 / MPU3142,Penghayatan Etika dan Peradaban (Local) / BM Komunikasi 2 (International),2,NR,,,IT,1.0,IT_Timeline,timeline,,,IT-TIMELINE-01,False,MPU3142,False,penghayatanetikadanperadabanbmkomunikasi2
+Semester 1,PFB1012,Introduction to Oil & Gas Industry & Sustainable Development,2,UR,,,IT,1.0,IT_Timeline,timeline,,,IT-TIMELINE-02,False,PFB1012,False,introductiontooilandgasindustryandsustainabledevelopment
+Semester 1,HFB2152,Ethics and Integrity,2,UR,,,IT,1.0,IT_Timeline,timeline,,,IT-TIMELINE-03,False,HFB2152,False,ethicsandintegrity
+Semester 1,TFB1013,Structured Programming,3,CC,,,IT,1.0,IT_Timeline,timeline,,,IT-TIMELINE-04,False,TFB1013,False,structuredprogramming
+Semester 1,TFB1023,Database Systems,3,CC,,,IT,1.0,IT_Timeline,timeline,,,IT-TIMELINE-05,False,TFB1023,False,databasesystems
+Semester 2,MPU3192,Falsafah dan Isu Semasa (Local & International),2,NR,,,IT,2.0,IT_Timeline,timeline,,,IT-TIMELINE-06,False,MPU3192,False,falsafahdanisusemasa
+Semester 2,CFB1032,"Health, Safety & Environment",2,CC,,,IT,2.0,IT_Timeline,timeline,,,IT-TIMELINE-07,False,CFB1032,False,healthsafetyandenvironment
+Semester 2,TFB1033,Object Oriented Programming,3,CD,,,IT,2.0,IT_Timeline,timeline,,,IT-TIMELINE-08,False,TFB1033,False,objectorientedprogramming
+Semester 2,TFB1053,Computer Systems,3,CD,,,IT,2.0,IT_Timeline,timeline,,,IT-TIMELINE-09,False,TFB1053,False,computersystems
+Semester 2,TFB1063,Web Application and Integrative Programming,3,CD,,,IT,2.0,IT_Timeline,timeline,,,IT-TIMELINE-10,False,TFB1063,False,webapplicationandintegrativeprogramming
+Semester 3,LFB1042,Academic Writing,2,NR,,,IT,3.0,IT_Timeline,timeline,,,IT-TIMELINE-11,False,LFB1042,False,academicwriting
+Semester 3,HFB1023,Scientific Inquiry,2,UR,,,IT,3.0,IT_Timeline,timeline,,,IT-TIMELINE-12,False,HFB1023,False,scientificinquiry
+Semester 3,KXXXXX1,Co Curriculum I,1,UR,,CoQ,IT,3.0,IT_Timeline,timeline,,,IT-TIMELINE-13,True,KXXXXX1,True,cocurriculumi
+Semester 3,TFB1093,Data Communication and Network,3,CD,,,IT,3.0,IT_Timeline,timeline,,,IT-TIMELINE-14,False,TFB1093,False,datacommunicationandnetwork
+Semester 3,TFB1103,Software Engineering,3,CD,,,IT,3.0,IT_Timeline,timeline,,,IT-TIMELINE-15,False,TFB1103,False,softwareengineering
+Semester 3,TFB1113,Discrete Mathematics,3,CD,,,IT,3.0,IT_Timeline,timeline,,,IT-TIMELINE-16,False,TFB1113,False,discretemathematics
+Semester 4,MPU 2,One (1) MPU2 Course,2,NR,,MPU_2,IT,4.0,IT_Timeline,timeline,,,IT-TIMELINE-17,True,MPU2,True,onempu2course
+Semester 4,KXXXXX1,Co Curriculum II,1,UR,,CoQ,IT,4.0,IT_Timeline,timeline,,,IT-TIMELINE-18,True,KXXXXX1,True,cocurriculumii
+Semester 4,HFB2033,Professional Communication Skills,3,UR,LEB1042,,IT,4.0,IT_Timeline,timeline,,,IT-TIMELINE-19,False,HFB2033,False,professionalcommunicationskills
+Semester 4,GFB2102,Entrepreneurship,2,UR,,,IT,4.0,IT_Timeline,timeline,,,IT-TIMELINE-20,False,GFB2102,False,entrepreneurship
+Semester 4,TFB2033,Human and Computer Interaction,3,CD,,,IT,4.0,IT_Timeline,timeline,,,IT-TIMELINE-21,False,TFB2033,False,humanandcomputerinteraction
+Semester 4,TFB2043,Information Assurance and Security,3,CD,,,IT,4.0,IT_Timeline,timeline,,,IT-TIMELINE-22,False,TFB2043,False,informationassuranceandsecurity
+Semester 5,MPU3182 / MPU3183,Integrity and Anti-Corruption,2,NR,,,IT,5.0,IT_Timeline,timeline,,,IT-TIMELINE-23,False,MPU3182,False,integrityandanticorruption
+Semester 5,MPU3182 / MPU3183,Integrity and Anti-Corruption,2,NR,,,IT,5.0,IT_Timeline,timeline,,,IT-TIMELINE-23,False,MPU3183,False,integrityandanticorruption
+Semester 5,TFB2063,Data Science,3,CC,,,IT,5.0,IT_Timeline,timeline,,,IT-TIMELINE-24,False,TFB2063,False,datascience
+Semester 5,TFB2083,Statistics and Empirical Method,3,CC,,,IT,5.0,IT_Timeline,timeline,,,IT-TIMELINE-25,False,TFB2083,False,statisticsandempiricalmethod
+Semester 5,TFB2093,Internet of Things,3,CD,,,IT,5.0,IT_Timeline,timeline,,,IT-TIMELINE-26,False,TFB2093,False,internetofthings
+Semester 5,XXXxxx3,Minor Elective I,3,EM,,IT_EM,IT,5.0,IT_Timeline,timeline,,,IT-TIMELINE-27,True,XXXXXX3,True,minorelectivei
+Semester 6,MPU 4 / HFB1012,Community Engagement Project,2,NR,,,IT,6.0,IT_Timeline,timeline,,,IT-TIMELINE-28,False,MPU4,True,communityengagementproject
+Semester 6,MPU 4 / HFB1012,Community Engagement Project,2,NR,,,IT,6.0,IT_Timeline,timeline,,,IT-TIMELINE-28,False,HFB1012,False,communityengagementproject
+Semester 6,TFB2113,Technopreneurship Team Project,3,CC,,,IT,6.0,IT_Timeline,timeline,,,IT-TIMELINE-29,False,TFB2113,False,technopreneurshipteamproject
+Semester 6,TFB2133,Computer Ethics and Cyber Law,3,CD,,,IT,6.0,IT_Timeline,timeline,,,IT-TIMELINE-30,False,TFB2133,False,computerethicsandcyberlaw
+Semester 6,TFB2143,Computer Forensic,3,CD,,,IT,6.0,IT_Timeline,timeline,,,IT-TIMELINE-31,False,TFB2143,False,computerforensic
+Semester 6,XXXxxx3,Minor Elective II,3,EM,,IT_EM,IT,6.0,IT_Timeline,timeline,,,IT-TIMELINE-32,True,XXXXXX3,True,minorelectiveii
+Semester 7,IFB3037,Student Industrial Training (SIT),7,CI,"• Obtained a minimum CGPA of 2.00/4.00 AND 
+• Earned a minimum of 65 credit hours AND 
+• Completed 5 semesters AND 
+• Encouraged to complete the following courses: 
+   o All basic Technology courses 
+   o Health, Safety & Environment (HSE) 
+   o MPU1 courses 
+   o Professional Communication Skills ",,IT,7.0,IT_Timeline,timeline,,,IT-TIMELINE-33,False,IFB3037,False,studentindustrialtraining
+Semester 8,IFB3047,Student Industrial Project (SIP),7,CI,Student Industrial Training (SIT),,IT,8.0,IT_Timeline,timeline,,,IT-TIMELINE-34,False,IFB3047,False,studentindustrialproject
+Semester 9,TFB3012,Final Year Project I,2,P,,,IT,9.0,IT_Timeline,timeline,,,IT-TIMELINE-35,False,TFB3012,False,finalyearprojecti
+Semester 9,XXXxxx3,Minor Elective III,3,EM,,IT_EM,IT,9.0,IT_Timeline,timeline,,,IT-TIMELINE-36,True,XXXXXX3,True,minorelectiveiii
+Semester 9,TFB3033,IT Project Management,3,CD,,,IT,9.0,IT_Timeline,timeline,,,IT-TIMELINE-37,False,TFB3033,False,itprojectmanagement
+Semester 9,TFB3XX3,Core Specialisation I,3,CSp,Varies by selected CSp course,IT_CSp,IT,9.0,IT_Timeline,timeline,,,IT-TIMELINE-38,True,TFB3XX3,True,corespecialisationi
+Semester 9,TFB3XX3,Core Specialisation II,3,CSp,Varies by selected CSp course,IT_CSp,IT,9.0,IT_Timeline,timeline,,,IT-TIMELINE-39,True,TFB3XX3,True,corespecialisationii
+Semester 10,TFB4014,Final Year Project II,4,P,Final Year Project I,,IT,10.0,IT_Timeline,timeline,,,IT-TIMELINE-40,False,TFB4014,False,finalyearprojectii
+Semester 10,TFB3xx3,Core Specialisation III,3,CSp,Varies by selected CSp course,IT_CSp,IT,10.0,IT_Timeline,timeline,,,IT-TIMELINE-41,True,TFB3XX3,True,corespecialisationiii
+Semester 10,XXXxxx3,Minor Elective IV,3,EM,,IT_EM,IT,10.0,IT_Timeline,timeline,,,IT-TIMELINE-42,True,XXXXXX3,True,minorelectiveiv
+Semester 10,XXXxxx3,Minor Elective V,3,EM,,IT_EM,IT,10.0,IT_Timeline,timeline,,,IT-TIMELINE-43,True,XXXXXX3,True,minorelectivev
+Semester 1,MPU3152 / MPU3142,Penghayatan Etika dan Peradaban (Local) / BM Komunikasi 2 (International),2,NR,,,CS,1.0,CS_Timeline,timeline,,,CS-TIMELINE-01,False,MPU3152,False,penghayatanetikadanperadabanbmkomunikasi2
+Semester 1,MPU3152 / MPU3142,Penghayatan Etika dan Peradaban (Local) / BM Komunikasi 2 (International),2,NR,,,CS,1.0,CS_Timeline,timeline,,,CS-TIMELINE-01,False,MPU3142,False,penghayatanetikadanperadabanbmkomunikasi2
+Semester 1,PFB1012,Introduction to Oil & Gas Industry & Sustainable Development,2,UR,,,CS,1.0,CS_Timeline,timeline,,,CS-TIMELINE-02,False,PFB1012,False,introductiontooilandgasindustryandsustainabledevelopment
+Semester 1,TEB1013,Structured Programming,3,CT,,,CS,1.0,CS_Timeline,timeline,,,CS-TIMELINE-03,False,TEB1013,False,structuredprogramming
+Semester 1,TEB1024,Computer Systems,4,CT,,,CS,1.0,CS_Timeline,timeline,,,CS-TIMELINE-04,False,TEB1024,False,computersystems
+Semester 1,FEM1013,Engineering Mathematics I,3,CT,,,CS,1.0,CS_Timeline,timeline,,,CS-TIMELINE-05,False,FEM1013,False,engineeringmathematicsi
+Semester 2,MPU3192,Falsafah dan Isu Semasa (Local & International),2,NR,,,CS,2.0,CS_Timeline,timeline,,,CS-TIMELINE-06,False,MPU3192,False,falsafahdanisusemasa
+Semester 2,CFB1032,"Health, Safety & Environment",2,CC,,,CS,2.0,CS_Timeline,timeline,,,CS-TIMELINE-07,False,CFB1032,False,healthsafetyandenvironment
+Semester 2,TEB1043,Object Oriented Programming,3,CT,Structured Programming,,CS,2.0,CS_Timeline,timeline,,,CS-TIMELINE-08,False,TEB1043,False,objectorientedprogramming
+Semester 2,TEB1053,Discrete Mathematics,3,CD,,,CS,2.0,CS_Timeline,timeline,,,CS-TIMELINE-09,False,TEB1053,False,discretemathematics
+Semester 2,TEB1063,Data Communication and Network,3,CD,,,CS,2.0,CS_Timeline,timeline,,,CS-TIMELINE-10,False,TEB1063,False,datacommunicationandnetwork
+Semester 3,MPU 2,One (1) MPU2 Course,2,NR,,MPU_2,CS,3.0,CS_Timeline,timeline,,,CS-TIMELINE-11,True,MPU2,True,onempu2course
+Semester 3,LFB1042,Academic Writing,2,UR,,,CS,3.0,CS_Timeline,timeline,,,CS-TIMELINE-12,False,LFB1042,False,academicwriting
+Semester 3,KXXXXX1,Co Curriculum I,1,UR,,CoQ,CS,3.0,CS_Timeline,timeline,,,CS-TIMELINE-13,True,KXXXXX1,True,cocurriculumi
+Semester 3,TEB1093,Statistics and Empirical Method,3,CT,,,CS,3.0,CS_Timeline,timeline,,,CS-TIMELINE-14,False,TEB1093,False,statisticsandempiricalmethod
+Semester 3,TEB1103,Data & Information Management,3,CT,,,CS,3.0,CS_Timeline,timeline,,,CS-TIMELINE-15,False,TEB1103,False,dataandinformationmanagement
+Semester 3,TEB1113,Algorithm and Data Structure,3,CD,,,CS,3.0,CS_Timeline,timeline,,,CS-TIMELINE-16,False,TEB1113,False,algorithmanddatastructure
+Semester 4,MPU3182 / MPU3183,Integrity and Anti-corruption,2,NR,,,CS,4.0,CS_Timeline,timeline,,,CS-TIMELINE-17,False,MPU3182,False,integrityandanticorruption
+Semester 4,MPU3182 / MPU3183,Integrity and Anti-corruption,2,NR,,,CS,4.0,CS_Timeline,timeline,,,CS-TIMELINE-17,False,MPU3183,False,integrityandanticorruption
+Semester 4,HFB1023,Scientific Inquiry,3,UR,,,CS,4.0,CS_Timeline,timeline,,,CS-TIMELINE-18,False,HFB1023,False,scientificinquiry
+Semester 4,KXXXXX1,Co Curriculum II,1,UR,,CoQ,CS,4.0,CS_Timeline,timeline,,,CS-TIMELINE-19,True,KXXXXX1,True,cocurriculumii
+Semester 4,TEB2014,Software Engineering & HCI,4,CT,,,CS,4.0,CS_Timeline,timeline,,,CS-TIMELINE-20,False,TEB2014,False,softwareengineeringandhci
+Semester 4,TEB2023,Artificial Intelligence,3,CT,,,CS,4.0,CS_Timeline,timeline,,,CS-TIMELINE-21,False,TEB2023,False,artificialintelligence
+Semester 5,MPU 4 / HFB1012,Community Engagement Project,2,NR,,,CS,5.0,CS_Timeline,timeline,,,CS-TIMELINE-22,False,MPU4,True,communityengagementproject
+Semester 5,MPU 4 / HFB1012,Community Engagement Project,2,NR,,,CS,5.0,CS_Timeline,timeline,,,CS-TIMELINE-22,False,HFB1012,False,communityengagementproject
+Semester 5,HFB2033,Professional Communication Skills,3,UR,LEB1042,,CS,5.0,CS_Timeline,timeline,,,CS-TIMELINE-23,False,HFB2033,False,professionalcommunicationskills
+Semester 5,TEB2043,Data Science,3,CT,,,CS,5.0,CS_Timeline,timeline,,,CS-TIMELINE-24,False,TEB2043,False,datascience
+Semester 5,TEB2053,Embedded Systems,3,CD,Structured Programming,,CS,5.0,CS_Timeline,timeline,,,CS-TIMELINE-25,False,TEB2053,False,embeddedsystems
+Semester 5,XXXxxx3,Minor Elective I,3,EM,,CS_EM,CS,5.0,CS_Timeline,timeline,,,CS-TIMELINE-26,True,XXXXXX3,True,minorelectivei
+Semester 6,IFB3037,Student Industrial Training (SIT),7,CI,"• Obtained a minimum CGPA of 2.00/4.00 AND 
+• Earned a minimum of 65 credit hours AND 
+• Completed 5 semesters AND 
+• Encouraged to complete the following courses: 
+   o All basic Technology courses 
+   o Health, Safety & Environment (HSE) 
+   o MPU1 courses 
+   o Professional Communication Skills ",,CS,6.0,CS_Timeline,timeline,,,CS-TIMELINE-27,False,IFB3037,False,studentindustrialtraining
+Semester 7,IFB3047,Student Industrial Project (SIP),7,CI,Student Industrial Training (SIT),,CS,7.0,CS_Timeline,timeline,,,CS-TIMELINE-28,False,IFB3047,False,studentindustrialproject
+Semester 8,GFB2102,Entrepreneurship,2,UR,,,CS,8.0,CS_Timeline,timeline,,,CS-TIMELINE-29,False,GFB2102,False,entrepreneurship
+Semester 8,TEB2083,Technopreneurship Team Project,3,CT,,,CS,8.0,CS_Timeline,timeline,,,CS-TIMELINE-30,False,TEB2083,False,technopreneurshipteamproject
+Semester 8,TEB2093,Computer Security,3,CT,Data Communication and Network,,CS,8.0,CS_Timeline,timeline,,,CS-TIMELINE-31,False,TEB2093,False,computersecurity
+Semester 8,TEB2103,Modelling and Simulation,3,CD,,,CS,8.0,CS_Timeline,timeline,,,CS-TIMELINE-32,False,TEB2103,False,modellingandsimulation
+Semester 8,XXXxxx3,Minor Elective II,3,EM,,CS_EM,CS,8.0,CS_Timeline,timeline,,,CS-TIMELINE-33,True,XXXXXX3,True,minorelectiveii
+Semester 9,TEB3012,Final Year Project I,2,P,3rd year standing,,CS,9.0,CS_Timeline,timeline,,,CS-TIMELINE-34,False,TEB3012,False,finalyearprojecti
+Semester 9,XXXxxx3,Minor Elective III,3,EM,,CS_EM,CS,9.0,CS_Timeline,timeline,,,CS-TIMELINE-35,True,XXXXXX3,True,minorelectiveiii
+Semester 9,XXXxxx3,Minor Elective IV,3,EM,,CS_EM,CS,9.0,CS_Timeline,timeline,,,CS-TIMELINE-36,True,XXXXXX3,True,minorelectiveiv
+Semester 9,TEB3XX3,Core Specialisation I,3,CSp,Varies by selected CSp course,CS_CSp,CS,9.0,CS_Timeline,timeline,,,CS-TIMELINE-37,True,TEB3XX3,True,corespecialisationi
+Semester 9,TEB3XX3,Core Specialisation II,3,CSp,Varies by selected CSp course,CS_CSp,CS,9.0,CS_Timeline,timeline,,,CS-TIMELINE-38,True,TEB3XX3,True,corespecialisationii
+Semester 10,TEB3024,Final Year Project II,4,P,Final Year Project I,,CS,10.0,CS_Timeline,timeline,,,CS-TIMELINE-39,False,TEB3024,False,finalyearprojectii
+Semester 10,XXXxxx3,Minor Elective IV,3,EM,,CS_EM,CS,10.0,CS_Timeline,timeline,,,CS-TIMELINE-40,True,XXXXXX3,True,minorelectiveiv
+Semester 10,TEB3xx3,Core Specialisation III,3,CSp,Varies by selected CSp course,,CS,10.0,CS_Timeline,timeline,,,CS-TIMELINE-41,True,TEB3XX3,True,corespecialisationiii
+Semester 10,TEB3033,Distributed and Parallel Computing,3,CD,,CS_CSp,CS,10.0,CS_Timeline,timeline,,,CS-TIMELINE-42,False,TEB3033,False,distributedandparallelcomputing
+Semester 1,MPU3152 / MPU3142,Penghayatan Etika dan Peradaban (Local) / BM Komunikasi 2 (International),2,NR,,,IS,1.0,IS_Timeline,timeline,,,IS-TIMELINE-01,False,MPU3152,False,penghayatanetikadanperadabanbmkomunikasi2
+Semester 1,MPU3152 / MPU3142,Penghayatan Etika dan Peradaban (Local) / BM Komunikasi 2 (International),2,NR,,,IS,1.0,IS_Timeline,timeline,,,IS-TIMELINE-01,False,MPU3142,False,penghayatanetikadanperadabanbmkomunikasi2
+Semester 1,PFB1012,Introduction to Oil & Gas Industry & Sustainable Development,2,UR,,,IS,1.0,IS_Timeline,timeline,,,IS-TIMELINE-02,False,PFB1012,False,introductiontooilandgasindustryandsustainabledevelopment
+Semester 1,HFB2152,Ethics and Integrity,2,UR,,,IS,1.0,IS_Timeline,timeline,,,IS-TIMELINE-03,False,HFB2152,False,ethicsandintegrity
+Semester 1,TFB1013,Structured Programming,3,CC,,,IS,1.0,IS_Timeline,timeline,,,IS-TIMELINE-04,False,TFB1013,False,structuredprogramming
+Semester 1,TFB1023,Database Systems,3,CC,,,IS,1.0,IS_Timeline,timeline,,,IS-TIMELINE-05,False,TFB1023,False,databasesystems
+Semester 2,MPU3192,Falsafah dan Isu Semasa (Local & International),2,NR,,,IS,2.0,IS_Timeline,timeline,,,IS-TIMELINE-06,False,MPU3192,False,falsafahdanisusemasa
+Semester 2,CFB1032,"Health, Safety & Environment",2,CC,,,IS,2.0,IS_Timeline,timeline,,,IS-TIMELINE-07,False,CFB1032,False,healthsafetyandenvironment
+Semester 2,TFB1063,Web Application and Integrative Programming,3,CD,,,IS,2.0,IS_Timeline,timeline,,,IS-TIMELINE-08,False,TFB1063,False,webapplicationandintegrativeprogramming
+Semester 2,TFB1073,Information Technology Infrastructure,3,CD,,,IS,2.0,IS_Timeline,timeline,,,IS-TIMELINE-09,False,TFB1073,False,informationtechnologyinfrastructure
+Semester 2,TFB1083,Fundamental of IS,3,CD,,,IS,2.0,IS_Timeline,timeline,,,IS-TIMELINE-10,False,TFB1083,False,fundamentalofis
+Semester 3,LFB1042,Academic Writing,2,NR,,,IS,3.0,IS_Timeline,timeline,,,IS-TIMELINE-11,False,LFB1042,False,academicwriting
+Semester 3,HFB1023,Scientific Inquiry,2,UR,,,IS,3.0,IS_Timeline,timeline,,,IS-TIMELINE-12,False,HFB1023,False,scientificinquiry
+Semester 3,KXXXXX1,Co Curriculum I,1,UR,,CoQ,IS,3.0,IS_Timeline,timeline,,,IS-TIMELINE-13,True,KXXXXX1,True,cocurriculumi
+Semester 3,TFB1123,Enterprise Resource Planning,3,CD,,,IS,3.0,IS_Timeline,timeline,,,IS-TIMELINE-14,False,TFB1123,False,enterpriseresourceplanning
+Semester 3,TFB1133,System Analysis and Design,3,CD,,,IS,3.0,IS_Timeline,timeline,,,IS-TIMELINE-15,False,TFB1133,False,systemanalysisanddesign
+Semester 3,TFB1143,Finance Information Systems,3,CD,,,IS,3.0,IS_Timeline,timeline,,,IS-TIMELINE-16,False,TFB1143,False,financeinformationsystems
+Semester 4,MPU 2,One (1) MPU2 Course,2,NR,,MPU_2,IS,4.0,IS_Timeline,timeline,,,IS-TIMELINE-17,True,MPU2,True,onempu2course
+Semester 4,KXXXXX1,Co Curriculum II,1,UR,,CoQ,IS,4.0,IS_Timeline,timeline,,,IS-TIMELINE-18,True,KXXXXX1,True,cocurriculumii
+Semester 4,HFB2033,Professional Communication Skills,3,UR,,,IS,4.0,IS_Timeline,timeline,,,IS-TIMELINE-19,False,HFB2033,False,professionalcommunicationskills
+Semester 4,GFB2102,Entrepreneurship,2,UR,,,IS,4.0,IS_Timeline,timeline,,,IS-TIMELINE-20,False,GFB2102,False,entrepreneurship
+Semester 4,TFB2043,Information Assurance and Security,3,CD,,,IS,4.0,IS_Timeline,timeline,,,IS-TIMELINE-21,False,TFB2043,False,informationassuranceandsecurity
+Semester 4,TFB2053,Enterprise Architecture,3,CD,,,IS,4.0,IS_Timeline,timeline,,,IS-TIMELINE-22,False,TFB2053,False,enterprisearchitecture
+Semester 5,MPU3182 / MPU3183,Integrity and Anti-corruption,2,NR,,,IS,5.0,IS_Timeline,timeline,,,IS-TIMELINE-23,False,MPU3182,False,integrityandanticorruption
+Semester 5,MPU3182 / MPU3183,Integrity and Anti-corruption,2,NR,,,IS,5.0,IS_Timeline,timeline,,,IS-TIMELINE-23,False,MPU3183,False,integrityandanticorruption
+Semester 5,TFB2063,Data Science,3,CC,,,IS,5.0,IS_Timeline,timeline,,,IS-TIMELINE-24,False,TFB2063,False,datascience
+Semester 5,TFB2083,Statistics and Empirical Method,3,CC,,,IS,5.0,IS_Timeline,timeline,,,IS-TIMELINE-25,False,TFB2083,False,statisticsandempiricalmethod
+Semester 5,TFB2103,IT Audit,3,CD,,,IS,5.0,IS_Timeline,timeline,,,IS-TIMELINE-26,False,TFB2103,False,itaudit
+Semester 5,XXXxxx3,Minor Elective I,3,EM,,IS_EM,IS,5.0,IS_Timeline,timeline,,,IS-TIMELINE-27,True,XXXXXX3,True,minorelectivei
+Semester 6,MPU 4 / HFB1012,Community Engagement Project,2,NR,,,IS,6.0,IS_Timeline,timeline,,,IS-TIMELINE-28,False,MPU4,True,communityengagementproject
+Semester 6,MPU 4 / HFB1012,Community Engagement Project,2,NR,,,IS,6.0,IS_Timeline,timeline,,,IS-TIMELINE-28,False,HFB1012,False,communityengagementproject
+Semester 6,TFB2113,Technopreneurship Team Project,3,CC,,,IS,6.0,IS_Timeline,timeline,,,IS-TIMELINE-29,False,TFB2113,False,technopreneurshipteamproject
+Semester 6,TFB2153,Business Intelligence,3,CD,,,IS,6.0,IS_Timeline,timeline,,,IS-TIMELINE-30,False,TFB2153,False,businessintelligence
+Semester 6,TFB2163,Digital Marketing,3,CD,,,IS,6.0,IS_Timeline,timeline,,,IS-TIMELINE-31,False,TFB2163,False,digitalmarketing
+Semester 6,XXXxxx3,Minor Elective II,3,EM,,IS_EM,IS,6.0,IS_Timeline,timeline,,,IS-TIMELINE-32,True,XXXXXX3,True,minorelectiveii
+Semester 7,IFB3037,Student Industrial Training (SIT),7,CI,"• Obtained a minimum CGPA of 2.00/4.00 AND 
+• Earned a minimum of 65 credit hours AND 
+• Completed 5 semesters AND 
+• Encouraged to complete the following courses: 
+   o All basic Technology courses 
+   o Health, Safety & Environment (HSE) 
+   o MPU1 courses 
+   o Professional Communication Skills ",,IS,7.0,IS_Timeline,timeline,,,IS-TIMELINE-33,False,IFB3037,False,studentindustrialtraining
+Semester 8,IFB3047,Student Industrial Project (SIP),7,CI,Student Industrial Training (SIT),,IS,8.0,IS_Timeline,timeline,,,IS-TIMELINE-34,False,IFB3047,False,studentindustrialproject
+Semester 9,TFB3012,Final Year Project I,2,P,,,IS,9.0,IS_Timeline,timeline,,,IS-TIMELINE-35,False,TFB3012,False,finalyearprojecti
+Semester 9,XXXxxx3,Minor Elective III,3,EM,,IS_EM,IS,9.0,IS_Timeline,timeline,,,IS-TIMELINE-36,True,XXXXXX3,True,minorelectiveiii
+Semester 9,TFB3033,IT Project Management,3,CD,,,IS,9.0,IS_Timeline,timeline,,,IS-TIMELINE-37,False,TFB3033,False,itprojectmanagement
+Semester 9,TFB3XX3,Core Specialisation I,3,CSp,Varies by selected CSp course ,IS_CSp,IS,9.0,IS_Timeline,timeline,,,IS-TIMELINE-38,True,TFB3XX3,True,corespecialisationi
+Semester 9,TFB3XX3,Core Specialisation II,3,CSp,Varies by selected CSp course ,IS_CSp,IS,9.0,IS_Timeline,timeline,,,IS-TIMELINE-39,True,TFB3XX3,True,corespecialisationii
+Semester 10,GEB4104,Final Year Project II,4,P,Final Year Project I,,IS,10.0,IS_Timeline,timeline,,,IS-TIMELINE-40,False,GEB4104,False,finalyearprojectii
+Semester 10,TFB3XX3,Core Specialisation III,3,CSp,Varies by selected CSp course ,IS_CSp,IS,10.0,IS_Timeline,timeline,,,IS-TIMELINE-41,True,TFB3XX3,True,corespecialisationiii
+Semester 10,XXXxxx3,Minor Elective IV,3,EM,,IS_EM,IS,10.0,IS_Timeline,timeline,,,IS-TIMELINE-42,True,XXXXXX3,True,minorelectiveiv
+Semester 10,XXXxxx3,Minor Elective V,3,EM,,IS_EM,IS,10.0,IS_Timeline,timeline,,,IS-TIMELINE-43,True,XXXXXX3,True,minorelectivev
+,GFB1033,Management & Organisational Behaviour,3,EM,,,IT,,IT_EM,minor_elective,A. Corporate Management,Choose ONLY 5 courses from this set,IT-EM-01,False,GFB1033,False,managementandorganisationalbehaviour
+,GFB2043,Principles of Marketing,3,EM,,,IT,,IT_EM,minor_elective,A. Corporate Management,Choose ONLY 5 courses from this set,IT-EM-02,False,GFB2043,False,principlesofmarketing
+,GFB3113,Corporate Communication,3,EM,,,IT,,IT_EM,minor_elective,A. Corporate Management,Choose ONLY 5 courses from this set,IT-EM-03,False,GFB3113,False,corporatecommunication
+,GFB3093,Strategic Management,3,EM,,,IT,,IT_EM,minor_elective,A. Corporate Management,Choose ONLY 5 courses from this set,IT-EM-04,False,GFB3093,False,strategicmanagement
+,GFB3073,Human Resource Management (Final Year Only),3,EM,,,IT,,IT_EM,minor_elective,A. Corporate Management,Choose ONLY 5 courses from this set,IT-EM-05,False,GFB3073,False,humanresourcemanagement
+,GEB3213,Forecasting Methods for Management,3,EM,,,IT,,IT_EM,minor_elective,A. Corporate Management,Choose ONLY 5 courses from this set,IT-EM-06,False,GEB3213,False,forecastingmethodsformanagement
+,GEB3203,Strategic Business Analytics,3,EM,,,IT,,IT_EM,minor_elective,A. Corporate Management,Choose ONLY 5 courses from this set,IT-EM-07,False,GEB3203,False,strategicbusinessanalytics
+,GFB2053,Principle of Finance,3,EM,,,IT,,IT_EM,minor_elective,B. Financial Management,Choose ONLY 5 courses from this set,IT-EM-08,False,GFB2053,False,principleoffinance
+,GFB2013,Business Accounting,3,EM,,,IT,,IT_EM,minor_elective,B. Financial Management,Choose ONLY 5 courses from this set,IT-EM-09,False,GFB2013,False,businessaccounting
+,GFB2113,Fundamental of Investment,3,EM,,,IT,,IT_EM,minor_elective,B. Financial Management,Choose ONLY 5 courses from this set,IT-EM-10,False,GFB2113,False,fundamentalofinvestment
+,GFB3033,Corporate Finance,3,EM,,,IT,,IT_EM,minor_elective,B. Financial Management,Choose ONLY 5 courses from this set,IT-EM-11,False,GFB3033,False,corporatefinance
+,GFB3043,International Financial Management,3,EM,,,IT,,IT_EM,minor_elective,B. Financial Management,Choose ONLY 5 courses from this set,IT-EM-12,False,GFB3043,False,financialmanagement
+,GFB3083,International Business,3,EM,,,IT,,IT_EM,minor_elective,B. Financial Management,Choose ONLY 5 courses from this set,IT-EM-13,False,GFB3083,False,business
+,GFB2013,Principle of Finance,3,EM,,,IT,,IT_EM,minor_elective,C. Accounting and Finance,This set contains 5 courses,IT-EM-14,False,GFB2013,False,principleoffinance
+,GFB2153,Business Accounting,3,EM,,,IT,,IT_EM,minor_elective,C. Accounting and Finance,This set contains 5 courses,IT-EM-15,False,GFB2153,False,businessaccounting
+,GFB2283,Fundamental of Investment,3,EM,,,IT,,IT_EM,minor_elective,C. Accounting and Finance,This set contains 5 courses,IT-EM-16,False,GFB2283,False,fundamentalofinvestment
+,GFB2293,Corporate Finance,3,EM,,,IT,,IT_EM,minor_elective,C. Accounting and Finance,This set contains 5 courses,IT-EM-17,False,GFB2293,False,corporatefinance
+,GFB2303,International Financial Management,3,EM,,,IT,,IT_EM,minor_elective,C. Accounting and Finance,This set contains 5 courses,IT-EM-18,False,GFB2303,False,financialmanagement
+,TFB3113,Data Mining,3,CSp,,,IT,,IT_CSp,core_specialisation,A. Big Data Analytics,,IT-CSP-01,False,TFB3113,False,datamining
+,TFB3123,Machine Learning,3,CSp,,,IT,,IT_CSp,core_specialisation,A. Big Data Analytics,,IT-CSP-02,False,TFB3123,False,machinelearning
+,TFB3133,Data Visualisation,3,CSp,,,IT,,IT_CSp,core_specialisation,A. Big Data Analytics,,IT-CSP-03,False,TFB3133,False,datavisualisation
+,TFB3213,Digital Innovations,3,CSp,,,IT,,IT_CSp,core_specialisation,B. Digital Technology,,IT-CSP-04,False,TFB3213,False,digitalinnovations
+,TFB3223,Emerging Topics in Digital Technology,3,CSp,,,IT,,IT_CSp,core_specialisation,B. Digital Technology,,IT-CSP-05,False,TFB3223,False,emergingtopicsindigitaltechnology
+,TFB3233,Digital Economy,3,CSp,,,IT,,IT_CSp,core_specialisation,B. Digital Technology,,IT-CSP-06,False,TFB3233,False,digitaleconomy
+,TFB3313,Introduction to Fintech,3,CSp,,,IT,,IT_CSp,core_specialisation,C. FINTECH,,IT-CSP-07,False,TFB3313,False,introductiontofintech
+,TFB3323,Fintech Innovation,3,CSp,,,IT,,IT_CSp,core_specialisation,C. FINTECH,,IT-CSP-08,False,TFB3323,False,fintechinnovation
+,TFB3333,Fintech Ethics and Regulations,3,CSp,,,IT,,IT_CSp,core_specialisation,C. FINTECH,,IT-CSP-09,False,TFB3333,False,fintechethicsandregulations
+,TFB3413,Software Requirement Engineering,3,CSp,,,IT,,IT_CSp,core_specialisation,D. Software Quality,,IT-CSP-10,False,TFB3413,False,softwarerequirementengineering
+,TFB3423,Software Design and Architecture,3,CSp,,,IT,,IT_CSp,core_specialisation,D. Software Quality,,IT-CSP-11,False,TFB3423,False,softwaredesignandarchitecture
+,TFB3433,Software Testing & Quality Assurance,3,CSp,,,IT,,IT_CSp,core_specialisation,D. Software Quality,,IT-CSP-12,False,TFB3433,False,softwaretestingandqualityassurance
+,GEB1033,Management & Organisational Behaviour,3,EM,,,CS,,CS_EM,minor_elective,A. Corporate Management,Choose ONLY 5 courses from this set,CS-EM-01,False,GEB1033,False,managementandorganisationalbehaviour
+,GEB2043,Principles of Marketing,3,EM,,,CS,,CS_EM,minor_elective,A. Corporate Management,Choose ONLY 5 courses from this set,CS-EM-02,False,GEB2043,False,principlesofmarketing
+,GEB3113,Corporate Communication,3,EM,,,CS,,CS_EM,minor_elective,A. Corporate Management,Choose ONLY 5 courses from this set,CS-EM-03,False,GEB3113,False,corporatecommunication
+,GEB3093,Strategic Management,3,EM,,,CS,,CS_EM,minor_elective,A. Corporate Management,Choose ONLY 5 courses from this set,CS-EM-04,False,GEB3093,False,strategicmanagement
+,GEB3073,Human Resource Management (Final Year Only),3,EM,,,CS,,CS_EM,minor_elective,A. Corporate Management,Choose ONLY 5 courses from this set,CS-EM-05,False,GEB3073,False,humanresourcemanagement
+,GEB3213,Forecasting Methods for Management,3,EM,,,CS,,CS_EM,minor_elective,A. Corporate Management,Choose ONLY 5 courses from this set,CS-EM-06,False,GEB3213,False,forecastingmethodsformanagement
+,GEB3203,Strategic Business Analytics,3,EM,,,CS,,CS_EM,minor_elective,A. Corporate Management,Choose ONLY 5 courses from this set,CS-EM-07,False,GEB3203,False,strategicbusinessanalytics
+,GFB2053,Principle of Finance,3,EM,,,CS,,CS_EM,minor_elective,B. Financial Management,Choose ONLY 5 courses from this set,CS-EM-08,False,GFB2053,False,principleoffinance
+,GFB2013,Business Accounting,3,EM,,,CS,,CS_EM,minor_elective,B. Financial Management,Choose ONLY 5 courses from this set,CS-EM-09,False,GFB2013,False,businessaccounting
+,GFB2113,Fundamental of Investment,3,EM,,,CS,,CS_EM,minor_elective,B. Financial Management,Choose ONLY 5 courses from this set,CS-EM-10,False,GFB2113,False,fundamentalofinvestment
+,GFB3033,Corporate Finance,3,EM,,,CS,,CS_EM,minor_elective,B. Financial Management,Choose ONLY 5 courses from this set,CS-EM-11,False,GFB3033,False,corporatefinance
+,GFB3043,International Financial Management,3,EM,,,CS,,CS_EM,minor_elective,B. Financial Management,Choose ONLY 5 courses from this set,CS-EM-12,False,GFB3043,False,financialmanagement
+,GEB3083,International Business,3,EM,,,CS,,CS_EM,minor_elective,B. Financial Management,Choose ONLY 5 courses from this set,CS-EM-13,False,GEB3083,False,business
+,GEB3233,Enterprise Risk Management,3,EM,,,CS,,CS_EM,minor_elective,B. Financial Management,Choose ONLY 5 courses from this set,CS-EM-14,False,GEB3233,False,enterpriseriskmanagement
+,GFB2013,Principle of Finance,3,EM,,,CS,,CS_EM,minor_elective,C. Accounting and Finance,This set contains 5 courses,CS-EM-15,False,GFB2013,False,principleoffinance
+,GFB2153,Business Accounting,3,EM,,,CS,,CS_EM,minor_elective,C. Accounting and Finance,This set contains 5 courses,CS-EM-16,False,GFB2153,False,businessaccounting
+,GFB2283,Fundamental of Investment,3,EM,,,CS,,CS_EM,minor_elective,C. Accounting and Finance,This set contains 5 courses,CS-EM-17,False,GFB2283,False,fundamentalofinvestment
+,GFB2293,Corporate Finance,3,EM,,,CS,,CS_EM,minor_elective,C. Accounting and Finance,This set contains 5 courses,CS-EM-18,False,GFB2293,False,corporatefinance
+,GFB2303,International Financial Management,3,EM,,,CS,,CS_EM,minor_elective,C. Accounting and Finance,This set contains 5 courses,CS-EM-19,False,GFB2303,False,financialmanagement
+,TEB3113,Big Data Analytics,3,CSp,Object Oriented Programming,,CS,,CS_CSp,core_specialisation,A. Data Analytics,,CS-CSP-01,False,TEB3113,False,bigdataanalytics
+,TEB3123,Machine Learning,3,CSp,,,CS,,CS_CSp,core_specialisation,A. Data Analytics,,CS-CSP-02,False,TEB3123,False,machinelearning
+,TEB3133,Data Visualisation,3,CSp,,,CS,,CS_CSp,core_specialisation,A. Data Analytics,,CS-CSP-03,False,TEB3133,False,datavisualisation
+,TEB3213,Computer Forensic,3,CSp,,,CS,,CS_CSp,core_specialisation,B. Cyber Security,,CS-CSP-04,False,TEB3213,False,computerforensic
+,TEB3223,Information Assurance,3,CSp,,,CS,,CS_CSp,core_specialisation,B. Cyber Security,,CS-CSP-05,False,TEB3223,False,informationassurance
+,TEB3233,Computer Ethics and Cyber Law,3,CSp,,,CS,,CS_CSp,core_specialisation,B. Cyber Security,,CS-CSP-06,False,TEB3233,False,computerethicsandcyberlaw
+,TEB3313,Business Intelligence,3,CSp,,,CS,,CS_CSp,core_specialisation,C. Enterprise Systems,,CS-CSP-07,False,TEB3313,False,businessintelligence
+,TEB3323,Enterprise System Development,3,CSp,Data and Information Management,,CS,,CS_CSp,core_specialisation,C. Enterprise Systems,,CS-CSP-08,False,TEB3323,False,enterprisesystemdevelopment
+,TEB3333,IT Audit & Risk Management,3,CSp,,,CS,,CS_CSp,core_specialisation,C. Enterprise Systems,,CS-CSP-09,False,TEB3333,False,itauditandriskmanagement
+,TEB3413,Software Requirement Engineering,3,CSp,Software Engineering and HCI,,CS,,CS_CSp,core_specialisation,D. Software Quality,,CS-CSP-10,False,TEB3413,False,softwarerequirementengineering
+,TEB3423,Software Design and Architecture,3,CSp,,,CS,,CS_CSp,core_specialisation,D. Software Quality,,CS-CSP-11,False,TEB3423,False,softwaredesignandarchitecture
+,TEB3433,Software Testing & Quality Assurance,3,CSp,Software Engineering and HCI,,CS,,CS_CSp,core_specialisation,D. Software Quality,,CS-CSP-12,False,TEB3433,False,softwaretestingandqualityassurance
+,GFB1033,Management & Organisational Behaviour,3,EM,,,IS,,IS_EM,minor_elective,A. Corporate Management,Choose ONLY 5 courses from this set,IS-EM-01,False,GFB1033,False,managementandorganisationalbehaviour
+,GFB2043,Principles of Marketing,3,EM,,,IS,,IS_EM,minor_elective,A. Corporate Management,Choose ONLY 5 courses from this set,IS-EM-02,False,GFB2043,False,principlesofmarketing
+,GFB3113,Corporate Communication,3,EM,,,IS,,IS_EM,minor_elective,A. Corporate Management,Choose ONLY 5 courses from this set,IS-EM-03,False,GFB3113,False,corporatecommunication
+,GFB3093,Strategic Management,3,EM,,,IS,,IS_EM,minor_elective,A. Corporate Management,Choose ONLY 5 courses from this set,IS-EM-04,False,GFB3093,False,strategicmanagement
+,GFB3073,Human Resource Management (Final Year Only),3,EM,,,IS,,IS_EM,minor_elective,A. Corporate Management,Choose ONLY 5 courses from this set,IS-EM-05,False,GFB3073,False,humanresourcemanagement
+,GEB3213,Forecasting Methods for Management,3,EM,,,IS,,IS_EM,minor_elective,A. Corporate Management,Choose ONLY 5 courses from this set,IS-EM-06,False,GEB3213,False,forecastingmethodsformanagement
+,GEB3203,Strategic Business Analytics,3,EM,,,IS,,IS_EM,minor_elective,A. Corporate Management,Choose ONLY 5 courses from this set,IS-EM-07,False,GEB3203,False,strategicbusinessanalytics
+,GFB2053,Principle of Finance,3,EM,,,IS,,IS_EM,minor_elective,B. Financial Management,Choose ONLY 5 courses from this set,IS-EM-08,False,GFB2053,False,principleoffinance
+,GFB2013,Business Accounting,3,EM,,,IS,,IS_EM,minor_elective,B. Financial Management,Choose ONLY 5 courses from this set,IS-EM-09,False,GFB2013,False,businessaccounting
+,GFB2113,Fundamental of Investment,3,EM,,,IS,,IS_EM,minor_elective,B. Financial Management,Choose ONLY 5 courses from this set,IS-EM-10,False,GFB2113,False,fundamentalofinvestment
+,GFB3033,Corporate Finance,3,EM,,,IS,,IS_EM,minor_elective,B. Financial Management,Choose ONLY 5 courses from this set,IS-EM-11,False,GFB3033,False,corporatefinance
+,GFB3043,International Financial Management,3,EM,,,IS,,IS_EM,minor_elective,B. Financial Management,Choose ONLY 5 courses from this set,IS-EM-12,False,GFB3043,False,financialmanagement
+,GFB3083,International Business,3,EM,,,IS,,IS_EM,minor_elective,B. Financial Management,Choose ONLY 5 courses from this set,IS-EM-13,False,GFB3083,False,business
+,GFB2013,Principle of Finance,3,EM,,,IS,,IS_EM,minor_elective,C. Accounting and Finance,This set contains 5 courses,IS-EM-14,False,GFB2013,False,principleoffinance
+,GFB2153,Business Accounting,3,EM,,,IS,,IS_EM,minor_elective,C. Accounting and Finance,This set contains 5 courses,IS-EM-15,False,GFB2153,False,businessaccounting
+,GFB2283,Fundamental of Investment,3,EM,,,IS,,IS_EM,minor_elective,C. Accounting and Finance,This set contains 5 courses,IS-EM-16,False,GFB2283,False,fundamentalofinvestment
+,GFB2293,Corporate Finance,3,EM,,,IS,,IS_EM,minor_elective,C. Accounting and Finance,This set contains 5 courses,IS-EM-17,False,GFB2293,False,corporatefinance
+,GFB2303,International Financial Management,3,EM,,,IS,,IS_EM,minor_elective,C. Accounting and Finance,This set contains 5 courses,IS-EM-18,False,GFB2303,False,financialmanagement
+,TFB3113,Data Mining,3,CSp,,,IS,,IS_CSp,core_specialisation,A. Big Data Analytics,,IS-CSP-01,False,TFB3113,False,datamining
+,TFB3123,Machine Learning,3,CSp,,,IS,,IS_CSp,core_specialisation,A. Big Data Analytics,,IS-CSP-02,False,TFB3123,False,machinelearning
+,TFB3133,Data Visualisation,3,CSp,,,IS,,IS_CSp,core_specialisation,A. Big Data Analytics,,IS-CSP-03,False,TFB3133,False,datavisualisation
+,TFB3213,Digital Innovations,3,CSp,,,IS,,IS_CSp,core_specialisation,B. Digital Technology,,IS-CSP-04,False,TFB3213,False,digitalinnovations
+,TFB3223,Emerging Topics in Digital Technology,3,CSp,,,IS,,IS_CSp,core_specialisation,B. Digital Technology,,IS-CSP-05,False,TFB3223,False,emergingtopicsindigitaltechnology
+,TFB3233,Digital Economy,3,CSp,,,IS,,IS_CSp,core_specialisation,B. Digital Technology,,IS-CSP-06,False,TFB3233,False,digitaleconomy
+,TFB3313,Introduction to Fintech,3,CSp,,,IS,,IS_CSp,core_specialisation,C. FINTECH,,IS-CSP-07,False,TFB3313,False,introductiontofintech
+,TFB3323,Fintech Innovation,3,CSp,,,IS,,IS_CSp,core_specialisation,C. FINTECH,,IS-CSP-08,False,TFB3323,False,fintechinnovation
+,TFB3333,Fintech Ethics and Regulations,3,CSp,,,IS,,IS_CSp,core_specialisation,C. FINTECH,,IS-CSP-09,False,TFB3333,False,fintechethicsandregulations
+,TFB3413,Software Requirement Engineering,3,CSp,,,IS,,IS_CSp,core_specialisation,D. Software Quality,,IS-CSP-10,False,TFB3413,False,softwarerequirementengineering
+,TFB3423,Software Design and Architecture,3,CSp,,,IS,,IS_CSp,core_specialisation,D. Software Quality,,IS-CSP-11,False,TFB3423,False,softwaredesignandarchitecture
+,TFB3433,Software Testing & Quality Assurance,3,CSp,,,IS,,IS_CSp,core_specialisation,D. Software Quality,,IS-CSP-12,False,TFB3433,False,softwaretestingandqualityassurance
+,KFL1011F / KFL1011U,Event Management,1,CoQ,,CoQ,IT,,CoQ,co_curriculum,,,IT-COQ-01,False,KFL1011F,False,eventmanagement
+,KFL1011F / KFL1011U,Event Management,1,CoQ,,CoQ,IT,,CoQ,co_curriculum,,,IT-COQ-01,False,KFL1011U,False,eventmanagement
+,KFL1021F / KFL1021U,Groom-Me,1,CoQ,,CoQ,IT,,CoQ,co_curriculum,,,IT-COQ-02,False,KFL1021F,False,groomme
+,KFL1021F / KFL1021U,Groom-Me,1,CoQ,,CoQ,IT,,CoQ,co_curriculum,,,IT-COQ-02,False,KFL1021U,False,groomme
+,KFL1031F / KFL1031U,Safety & Risk Management,1,CoQ,,CoQ,IT,,CoQ,co_curriculum,,,IT-COQ-03,False,KFL1031F,False,safetyandriskmanagement
+,KFL1031F / KFL1031U,Safety & Risk Management,1,CoQ,,CoQ,IT,,CoQ,co_curriculum,,,IT-COQ-03,False,KFL1031U,False,safetyandriskmanagement
+,KFL1041F / KFL1041U,Wellbeing & Resilience,1,CoQ,,CoQ,IT,,CoQ,co_curriculum,,,IT-COQ-04,False,KFL1041F,False,wellbeingandresilience
+,KFL1041F / KFL1041U,Wellbeing & Resilience,1,CoQ,,CoQ,IT,,CoQ,co_curriculum,,,IT-COQ-04,False,KFL1041U,False,wellbeingandresilience
+,KFL1051F / KFL1051U,Global Citizen,1,CoQ,,CoQ,IT,,CoQ,co_curriculum,,,IT-COQ-05,False,KFL1051F,False,globalcitizen
+,KFL1051F / KFL1051U,Global Citizen,1,CoQ,,CoQ,IT,,CoQ,co_curriculum,,,IT-COQ-05,False,KFL1051U,False,globalcitizen
+,KFL1061F / KFL1061U,Territorial Army 101,1,CoQ,,CoQ,IT,,CoQ,co_curriculum,,,IT-COQ-06,False,KFL1061F,False,territorialarmy101
+,KFL1061F / KFL1061U,Territorial Army 101,1,CoQ,,CoQ,IT,,CoQ,co_curriculum,,,IT-COQ-06,False,KFL1061U,False,territorialarmy101
+,KFL1071F / KFL1071U,Speaking Out Loud,1,CoQ,,CoQ,IT,,CoQ,co_curriculum,,,IT-COQ-07,False,KFL1071F,False,speakingoutloud
+,KFL1071F / KFL1071U,Speaking Out Loud,1,CoQ,,CoQ,IT,,CoQ,co_curriculum,,,IT-COQ-07,False,KFL1071U,False,speakingoutloud
+,KFL1081F / KFL1081U,The Press,1,CoQ,,CoQ,IT,,CoQ,co_curriculum,,,IT-COQ-08,False,KFL1081F,False,thepress
+,KFL1081F / KFL1081U,The Press,1,CoQ,,CoQ,IT,,CoQ,co_curriculum,,,IT-COQ-08,False,KFL1081U,False,thepress
+,KFL1091F / KFL1091U,Content Creator,1,CoQ,,CoQ,IT,,CoQ,co_curriculum,,,IT-COQ-09,False,KFL1091F,False,contentcreator
+,KFL1091F / KFL1091U,Content Creator,1,CoQ,,CoQ,IT,,CoQ,co_curriculum,,,IT-COQ-09,False,KFL1091U,False,contentcreator
+,KFL1101F / KFL1101U,Effective Influencer,1,CoQ,,CoQ,IT,,CoQ,co_curriculum,,,IT-COQ-10,False,KFL1101F,False,effectiveinfluencer
+,KFL1101F / KFL1101U,Effective Influencer,1,CoQ,,CoQ,IT,,CoQ,co_curriculum,,,IT-COQ-10,False,KFL1101U,False,effectiveinfluencer
+,KFC1011F / KFC1011U,Creative Animation,1,CoQ,,CoQ,IT,,CoQ,co_curriculum,,,IT-COQ-11,False,KFC1011F,False,creativeanimation
+,KFC1011F / KFC1011U,Creative Animation,1,CoQ,,CoQ,IT,,CoQ,co_curriculum,,,IT-COQ-11,False,KFC1011U,False,creativeanimation
+,KFC1021F / KFC1021U,Snap a Shot!,1,CoQ,,CoQ,IT,,CoQ,co_curriculum,,,IT-COQ-12,False,KFC1021F,False,snapashot
+,KFC1021F / KFC1021U,Snap a Shot!,1,CoQ,,CoQ,IT,,CoQ,co_curriculum,,,IT-COQ-12,False,KFC1021U,False,snapashot
+,KFC1031F / KFC1031U,Interior Design,1,CoQ,,CoQ,IT,,CoQ,co_curriculum,,,IT-COQ-13,False,KFC1031F,False,interiordesign
+,KFC1031F / KFC1031U,Interior Design,1,CoQ,,CoQ,IT,,CoQ,co_curriculum,,,IT-COQ-13,False,KFC1031U,False,interiordesign
+,KFC1041F / KFC1041U,3D Prototyping,1,CoQ,,CoQ,IT,,CoQ,co_curriculum,,,IT-COQ-14,False,KFC1041F,False,3dprototyping
+,KFC1041F / KFC1041U,3D Prototyping,1,CoQ,,CoQ,IT,,CoQ,co_curriculum,,,IT-COQ-14,False,KFC1041U,False,3dprototyping
+,KFC1051F / KFC1051U,3D Prototyping,1,CoQ,,CoQ,IT,,CoQ,co_curriculum,,,IT-COQ-15,False,KFC1051F,False,3dprototyping
+,KFC1051F / KFC1051U,3D Prototyping,1,CoQ,,CoQ,IT,,CoQ,co_curriculum,,,IT-COQ-15,False,KFC1051U,False,3dprototyping
+,KFC1061F / KFC1061U,The Inventors,1,CoQ,,CoQ,IT,,CoQ,co_curriculum,,,IT-COQ-16,False,KFC1061F,False,theinventors
+,KFC1061F / KFC1061U,The Inventors,1,CoQ,,CoQ,IT,,CoQ,co_curriculum,,,IT-COQ-16,False,KFC1061U,False,theinventors
+,KFC1071F / KFC1071U,Digital-preneur,1,CoQ,,CoQ,IT,,CoQ,co_curriculum,,,IT-COQ-17,False,KFC1071F,False,digitalpreneur
+,KFC1071F / KFC1071U,Digital-preneur,1,CoQ,,CoQ,IT,,CoQ,co_curriculum,,,IT-COQ-17,False,KFC1071U,False,digitalpreneur
+,KFC1081F / KFC1081U,E-marketing,1,CoQ,,CoQ,IT,,CoQ,co_curriculum,,,IT-COQ-18,False,KFC1081F,False,emarketing
+,KFC1081F / KFC1081U,E-marketing,1,CoQ,,CoQ,IT,,CoQ,co_curriculum,,,IT-COQ-18,False,KFC1081U,False,emarketing
+,KFC1091F / KFC1091U,FinTech,1,CoQ,,CoQ,IT,,CoQ,co_curriculum,,,IT-COQ-19,False,KFC1091F,False,fintech
+,KFC1091F / KFC1091U,FinTech,1,CoQ,,CoQ,IT,,CoQ,co_curriculum,,,IT-COQ-19,False,KFC1091U,False,fintech
+,KFC1101F / KFC1101U,Investment,1,CoQ,,CoQ,IT,,CoQ,co_curriculum,,,IT-COQ-20,False,KFC1101F,False,investment
+,KFC1101F / KFC1101U,Investment,1,CoQ,,CoQ,IT,,CoQ,co_curriculum,,,IT-COQ-20,False,KFC1101U,False,investment
+,KFA1011F / KFA1011U,Culinary Arts,1,CoQ,,CoQ,IT,,CoQ,co_curriculum,,,IT-COQ-21,False,KFA1011F,False,culinaryarts
+,KFA1011F / KFA1011U,Culinary Arts,1,CoQ,,CoQ,IT,,CoQ,co_curriculum,,,IT-COQ-21,False,KFA1011U,False,culinaryarts
+,KFA1021F / KFA1021U,"Lights, Camera, Action!",1,CoQ,,CoQ,IT,,CoQ,co_curriculum,,,IT-COQ-22,False,KFA1021F,False,lightscameraaction
+,KFA1021F / KFA1021U,"Lights, Camera, Action!",1,CoQ,,CoQ,IT,,CoQ,co_curriculum,,,IT-COQ-22,False,KFA1021U,False,lightscameraaction
+,KFA1031F / KFA1031U,Traditional Music,1,CoQ,,CoQ,IT,,CoQ,co_curriculum,,,IT-COQ-23,False,KFA1031F,False,traditionalmusic
+,KFA1031F / KFA1031U,Traditional Music,1,CoQ,,CoQ,IT,,CoQ,co_curriculum,,,IT-COQ-23,False,KFA1031U,False,traditionalmusic
+,KFA1041F / KFA1041U,Let’s Dance,1,CoQ,,CoQ,IT,,CoQ,co_curriculum,,,IT-COQ-24,False,KFA1041F,False,letsdance
+,KFA1041F / KFA1041U,Let’s Dance,1,CoQ,,CoQ,IT,,CoQ,co_curriculum,,,IT-COQ-24,False,KFA1041U,False,letsdance
+,KFA1051F / KFA1051U,Malaysian Craft,1,CoQ,,CoQ,IT,,CoQ,co_curriculum,,,IT-COQ-25,False,KFA1051F,False,malaysiancraft
+,KFA1051F / KFA1051U,Malaysian Craft,1,CoQ,,CoQ,IT,,CoQ,co_curriculum,,,IT-COQ-25,False,KFA1051U,False,malaysiancraft
+,KFA1061F / KFA1061U,The Voice,1,CoQ,,CoQ,IT,,CoQ,co_curriculum,,,IT-COQ-26,False,KFA1061F,False,thevoice
+,KFA1061F / KFA1061U,The Voice,1,CoQ,,CoQ,IT,,CoQ,co_curriculum,,,IT-COQ-26,False,KFA1061U,False,thevoice
+,KFA1071F / KFA1071U,Doodle Arts,1,CoQ,,CoQ,IT,,CoQ,co_curriculum,,,IT-COQ-27,False,KFA1071F,False,doodlearts
+,KFA1071F / KFA1071U,Doodle Arts,1,CoQ,,CoQ,IT,,CoQ,co_curriculum,,,IT-COQ-27,False,KFA1071U,False,doodlearts
+,KFA1081F / KFA1081U,Calligraphy,1,CoQ,,CoQ,IT,,CoQ,co_curriculum,,,IT-COQ-28,False,KFA1081F,False,calligraphy
+,KFA1081F / KFA1081U,Calligraphy,1,CoQ,,CoQ,IT,,CoQ,co_curriculum,,,IT-COQ-28,False,KFA1081U,False,calligraphy
+,KFA1091F / KFA1091U,String Ensemble,1,CoQ,,CoQ,IT,,CoQ,co_curriculum,,,IT-COQ-29,False,KFA1091F,False,stringensemble
+,KFA1091F / KFA1091U,String Ensemble,1,CoQ,,CoQ,IT,,CoQ,co_curriculum,,,IT-COQ-29,False,KFA1091U,False,stringensemble
+,KFA1101F / KFA1101U,Creative Writing,1,CoQ,,CoQ,IT,,CoQ,co_curriculum,,,IT-COQ-30,False,KFA1101F,False,creativewriting
+,KFA1101F / KFA1101U,Creative Writing,1,CoQ,,CoQ,IT,,CoQ,co_curriculum,,,IT-COQ-30,False,KFA1101U,False,creativewriting
+,KFS1011F / KFS1011U,Outdoor Recreation,1,CoQ,,CoQ,IT,,CoQ,co_curriculum,,,IT-COQ-31,False,KFS1011F,False,outdoorrecreation
+,KFS1011F / KFS1011U,Outdoor Recreation,1,CoQ,,CoQ,IT,,CoQ,co_curriculum,,,IT-COQ-31,False,KFS1011U,False,outdoorrecreation
+,KFS1021F / KFS1021U,Fencing,1,CoQ,,CoQ,IT,,CoQ,co_curriculum,,,IT-COQ-32,False,KFS1021F,False,fencing
+,KFS1021F / KFS1021U,Fencing,1,CoQ,,CoQ,IT,,CoQ,co_curriculum,,,IT-COQ-32,False,KFS1021U,False,fencing
+,KFS1031F / KFS1031U,Aerobic Dance,1,CoQ,,CoQ,IT,,CoQ,co_curriculum,,,IT-COQ-33,False,KFS1031F,False,aerobicdance
+,KFS1031F / KFS1031U,Aerobic Dance,1,CoQ,,CoQ,IT,,CoQ,co_curriculum,,,IT-COQ-33,False,KFS1031U,False,aerobicdance
+,KFS1041F / KFS1041U,Shooting,1,CoQ,,CoQ,IT,,CoQ,co_curriculum,,,IT-COQ-34,False,KFS1041F,False,shooting
+,KFS1041F / KFS1041U,Shooting,1,CoQ,,CoQ,IT,,CoQ,co_curriculum,,,IT-COQ-34,False,KFS1041U,False,shooting
+,KFS1051F / KFS1051U,Golf,1,CoQ,,CoQ,IT,,CoQ,co_curriculum,,,IT-COQ-35,False,KFS1051F,False,golf
+,KFS1051F / KFS1051U,Golf,1,CoQ,,CoQ,IT,,CoQ,co_curriculum,,,IT-COQ-35,False,KFS1051U,False,golf
+,KFS1061F / KFS1061U,Mixed Martial Arts,1,CoQ,,CoQ,IT,,CoQ,co_curriculum,,,IT-COQ-36,False,KFS1061F,False,mixedmartialarts
+,KFS1061F / KFS1061U,Mixed Martial Arts,1,CoQ,,CoQ,IT,,CoQ,co_curriculum,,,IT-COQ-36,False,KFS1061U,False,mixedmartialarts
+,KFS1071F / KFS1071U,Wall Climbing,1,CoQ,,CoQ,IT,,CoQ,co_curriculum,,,IT-COQ-37,False,KFS1071F,False,wallclimbing
+,KFS1071F / KFS1071U,Wall Climbing,1,CoQ,,CoQ,IT,,CoQ,co_curriculum,,,IT-COQ-37,False,KFS1071U,False,wallclimbing
+,KFS1081F / KFS1081U,Scuba Diving,1,CoQ,,CoQ,IT,,CoQ,co_curriculum,,,IT-COQ-38,False,KFS1081F,False,scubadiving
+,KFS1081F / KFS1081U,Scuba Diving,1,CoQ,,CoQ,IT,,CoQ,co_curriculum,,,IT-COQ-38,False,KFS1081U,False,scubadiving
+,KFS1091F / KFS1091U,Sports First Aider,1,CoQ,,CoQ,IT,,CoQ,co_curriculum,,,IT-COQ-39,False,KFS1091F,False,sportsfirstaider
+,KFS1091F / KFS1091U,Sports First Aider,1,CoQ,,CoQ,IT,,CoQ,co_curriculum,,,IT-COQ-39,False,KFS1091U,False,sportsfirstaider
+,KFS1101F / KFS1101U,Sports Management,1,CoQ,,CoQ,IT,,CoQ,co_curriculum,,,IT-COQ-40,False,KFS1101F,False,sportsmanagement
+,KFS1101F / KFS1101U,Sports Management,1,CoQ,,CoQ,IT,,CoQ,co_curriculum,,,IT-COQ-40,False,KFS1101U,False,sportsmanagement
+,LFB2012,Basic Arabic Communication,2,MPU2,,MPU_2,IT,,MPU2,mpu2,,,IT-MPU2-01,False,LFB2012,False,basicarabiccommunication
+,LFB2022,Basic Mandarin Communication,2,MPU2,,MPU_2,IT,,MPU2,mpu2,,,IT-MPU2-02,False,LFB2022,False,basicmandarincommunication
+,LFB2032,Bahasa Kebangsaan A,2,MPU2,for Malaysian Citizen only,MPU_2,IT,,MPU2,mpu2,,,IT-MPU2-03,False,LFB2032,False,bahasakebangsaana
+,LFB2062,Basic French Communication,2,MPU2,,MPU_2,IT,,MPU2,mpu2,,,IT-MPU2-04,False,LFB2062,False,basicfrenchcommunication
+,LFB2052,Basic Korean Communication,2,MPU2,,MPU_2,IT,,MPU2,mpu2,,,IT-MPU2-05,False,LFB2052,False,basickoreancommunication
+,LFB2042,Technical Writing,2,MPU2,,MPU_2,IT,,MPU2,mpu2,,,IT-MPU2-06,False,LFB2042,False,technicalwriting
+,GFB2092,Business Ventures,2,MPU2,,MPU_2,IT,,MPU2,mpu2,,,IT-MPU2-07,False,GFB2092,False,businessventures
+,HFB2042,Islamic Critical Thinking,2,MPU2,,MPU_2,IT,,MPU2,mpu2,,,IT-MPU2-08,False,HFB2042,False,islamiccriticalthinking
+,HFB2052,Islamic and Contemporary Leadership,2,MPU2,,MPU_2,IT,,MPU2,mpu2,,,IT-MPU2-09,False,HFB2052,False,islamicandcontemporaryleadership
+,HFB2062,Stress Management Skills,2,MPU2,,MPU_2,IT,,MPU2,mpu2,,,IT-MPU2-10,False,HFB2062,False,stressmanagementskills
+,HFB2082,Problem Solving and Decision Making,2,MPU2,,MPU_2,IT,,MPU2,mpu2,,,IT-MPU2-11,False,HFB2082,False,problemsolvinganddecisionmaking
+,LFB2072,Basic Spanish Communication,2,MPU2,,MPU_2,IT,,MPU2,mpu2,,,IT-MPU2-12,False,LFB2072,False,basicspanishcommunication
+,LFB2082,Basic Japanese Communication,2,MPU2,,MPU_2,IT,,MPU2,mpu2,,,IT-MPU2-13,False,LFB2082,False,basicjapanesecommunication
+,HFB2072,Innovation and Creativity Skills,2,MPU2,,MPU_2,IT,,MPU2,mpu2,,,IT-MPU2-14,False,HFB2072,False,innovationandcreativityskills
+,KFL1011F / KFL1011U,Event Management,1,CoQ,,CoQ,CS,,CoQ,co_curriculum,,,CS-COQ-01,False,KFL1011F,False,eventmanagement
+,KFL1011F / KFL1011U,Event Management,1,CoQ,,CoQ,CS,,CoQ,co_curriculum,,,CS-COQ-01,False,KFL1011U,False,eventmanagement
+,KFL1021F / KFL1021U,Groom-Me,1,CoQ,,CoQ,CS,,CoQ,co_curriculum,,,CS-COQ-02,False,KFL1021F,False,groomme
+,KFL1021F / KFL1021U,Groom-Me,1,CoQ,,CoQ,CS,,CoQ,co_curriculum,,,CS-COQ-02,False,KFL1021U,False,groomme
+,KFL1031F / KFL1031U,Safety & Risk Management,1,CoQ,,CoQ,CS,,CoQ,co_curriculum,,,CS-COQ-03,False,KFL1031F,False,safetyandriskmanagement
+,KFL1031F / KFL1031U,Safety & Risk Management,1,CoQ,,CoQ,CS,,CoQ,co_curriculum,,,CS-COQ-03,False,KFL1031U,False,safetyandriskmanagement
+,KFL1041F / KFL1041U,Wellbeing & Resilience,1,CoQ,,CoQ,CS,,CoQ,co_curriculum,,,CS-COQ-04,False,KFL1041F,False,wellbeingandresilience
+,KFL1041F / KFL1041U,Wellbeing & Resilience,1,CoQ,,CoQ,CS,,CoQ,co_curriculum,,,CS-COQ-04,False,KFL1041U,False,wellbeingandresilience
+,KFL1051F / KFL1051U,Global Citizen,1,CoQ,,CoQ,CS,,CoQ,co_curriculum,,,CS-COQ-05,False,KFL1051F,False,globalcitizen
+,KFL1051F / KFL1051U,Global Citizen,1,CoQ,,CoQ,CS,,CoQ,co_curriculum,,,CS-COQ-05,False,KFL1051U,False,globalcitizen
+,KFL1061F / KFL1061U,Territorial Army 101,1,CoQ,,CoQ,CS,,CoQ,co_curriculum,,,CS-COQ-06,False,KFL1061F,False,territorialarmy101
+,KFL1061F / KFL1061U,Territorial Army 101,1,CoQ,,CoQ,CS,,CoQ,co_curriculum,,,CS-COQ-06,False,KFL1061U,False,territorialarmy101
+,KFL1071F / KFL1071U,Speaking Out Loud,1,CoQ,,CoQ,CS,,CoQ,co_curriculum,,,CS-COQ-07,False,KFL1071F,False,speakingoutloud
+,KFL1071F / KFL1071U,Speaking Out Loud,1,CoQ,,CoQ,CS,,CoQ,co_curriculum,,,CS-COQ-07,False,KFL1071U,False,speakingoutloud
+,KFL1081F / KFL1081U,The Press,1,CoQ,,CoQ,CS,,CoQ,co_curriculum,,,CS-COQ-08,False,KFL1081F,False,thepress
+,KFL1081F / KFL1081U,The Press,1,CoQ,,CoQ,CS,,CoQ,co_curriculum,,,CS-COQ-08,False,KFL1081U,False,thepress
+,KFL1091F / KFL1091U,Content Creator,1,CoQ,,CoQ,CS,,CoQ,co_curriculum,,,CS-COQ-09,False,KFL1091F,False,contentcreator
+,KFL1091F / KFL1091U,Content Creator,1,CoQ,,CoQ,CS,,CoQ,co_curriculum,,,CS-COQ-09,False,KFL1091U,False,contentcreator
+,KFL1101F / KFL1101U,Effective Influencer,1,CoQ,,CoQ,CS,,CoQ,co_curriculum,,,CS-COQ-10,False,KFL1101F,False,effectiveinfluencer
+,KFL1101F / KFL1101U,Effective Influencer,1,CoQ,,CoQ,CS,,CoQ,co_curriculum,,,CS-COQ-10,False,KFL1101U,False,effectiveinfluencer
+,KFC1011F / KFC1011U,Creative Animation,1,CoQ,,CoQ,CS,,CoQ,co_curriculum,,,CS-COQ-11,False,KFC1011F,False,creativeanimation
+,KFC1011F / KFC1011U,Creative Animation,1,CoQ,,CoQ,CS,,CoQ,co_curriculum,,,CS-COQ-11,False,KFC1011U,False,creativeanimation
+,KFC1021F / KFC1021U,Snap a Shot!,1,CoQ,,CoQ,CS,,CoQ,co_curriculum,,,CS-COQ-12,False,KFC1021F,False,snapashot
+,KFC1021F / KFC1021U,Snap a Shot!,1,CoQ,,CoQ,CS,,CoQ,co_curriculum,,,CS-COQ-12,False,KFC1021U,False,snapashot
+,KFC1031F / KFC1031U,Interior Design,1,CoQ,,CoQ,CS,,CoQ,co_curriculum,,,CS-COQ-13,False,KFC1031F,False,interiordesign
+,KFC1031F / KFC1031U,Interior Design,1,CoQ,,CoQ,CS,,CoQ,co_curriculum,,,CS-COQ-13,False,KFC1031U,False,interiordesign
+,KFC1041F / KFC1041U,3D Prototyping,1,CoQ,,CoQ,CS,,CoQ,co_curriculum,,,CS-COQ-14,False,KFC1041F,False,3dprototyping
+,KFC1041F / KFC1041U,3D Prototyping,1,CoQ,,CoQ,CS,,CoQ,co_curriculum,,,CS-COQ-14,False,KFC1041U,False,3dprototyping
+,KFC1051F / KFC1051U,3D Prototyping,1,CoQ,,CoQ,CS,,CoQ,co_curriculum,,,CS-COQ-15,False,KFC1051F,False,3dprototyping
+,KFC1051F / KFC1051U,3D Prototyping,1,CoQ,,CoQ,CS,,CoQ,co_curriculum,,,CS-COQ-15,False,KFC1051U,False,3dprototyping
+,KFC1061F / KFC1061U,The Inventors,1,CoQ,,CoQ,CS,,CoQ,co_curriculum,,,CS-COQ-16,False,KFC1061F,False,theinventors
+,KFC1061F / KFC1061U,The Inventors,1,CoQ,,CoQ,CS,,CoQ,co_curriculum,,,CS-COQ-16,False,KFC1061U,False,theinventors
+,KFC1071F / KFC1071U,Digital-preneur,1,CoQ,,CoQ,CS,,CoQ,co_curriculum,,,CS-COQ-17,False,KFC1071F,False,digitalpreneur
+,KFC1071F / KFC1071U,Digital-preneur,1,CoQ,,CoQ,CS,,CoQ,co_curriculum,,,CS-COQ-17,False,KFC1071U,False,digitalpreneur
+,KFC1081F / KFC1081U,E-marketing,1,CoQ,,CoQ,CS,,CoQ,co_curriculum,,,CS-COQ-18,False,KFC1081F,False,emarketing
+,KFC1081F / KFC1081U,E-marketing,1,CoQ,,CoQ,CS,,CoQ,co_curriculum,,,CS-COQ-18,False,KFC1081U,False,emarketing
+,KFC1091F / KFC1091U,FinTech,1,CoQ,,CoQ,CS,,CoQ,co_curriculum,,,CS-COQ-19,False,KFC1091F,False,fintech
+,KFC1091F / KFC1091U,FinTech,1,CoQ,,CoQ,CS,,CoQ,co_curriculum,,,CS-COQ-19,False,KFC1091U,False,fintech
+,KFC1101F / KFC1101U,Investment,1,CoQ,,CoQ,CS,,CoQ,co_curriculum,,,CS-COQ-20,False,KFC1101F,False,investment
+,KFC1101F / KFC1101U,Investment,1,CoQ,,CoQ,CS,,CoQ,co_curriculum,,,CS-COQ-20,False,KFC1101U,False,investment
+,KFA1011F / KFA1011U,Culinary Arts,1,CoQ,,CoQ,CS,,CoQ,co_curriculum,,,CS-COQ-21,False,KFA1011F,False,culinaryarts
+,KFA1011F / KFA1011U,Culinary Arts,1,CoQ,,CoQ,CS,,CoQ,co_curriculum,,,CS-COQ-21,False,KFA1011U,False,culinaryarts
+,KFA1021F / KFA1021U,"Lights, Camera, Action!",1,CoQ,,CoQ,CS,,CoQ,co_curriculum,,,CS-COQ-22,False,KFA1021F,False,lightscameraaction
+,KFA1021F / KFA1021U,"Lights, Camera, Action!",1,CoQ,,CoQ,CS,,CoQ,co_curriculum,,,CS-COQ-22,False,KFA1021U,False,lightscameraaction
+,KFA1031F / KFA1031U,Traditional Music,1,CoQ,,CoQ,CS,,CoQ,co_curriculum,,,CS-COQ-23,False,KFA1031F,False,traditionalmusic
+,KFA1031F / KFA1031U,Traditional Music,1,CoQ,,CoQ,CS,,CoQ,co_curriculum,,,CS-COQ-23,False,KFA1031U,False,traditionalmusic
+,KFA1041F / KFA1041U,Let’s Dance,1,CoQ,,CoQ,CS,,CoQ,co_curriculum,,,CS-COQ-24,False,KFA1041F,False,letsdance
+,KFA1041F / KFA1041U,Let’s Dance,1,CoQ,,CoQ,CS,,CoQ,co_curriculum,,,CS-COQ-24,False,KFA1041U,False,letsdance
+,KFA1051F / KFA1051U,Malaysian Craft,1,CoQ,,CoQ,CS,,CoQ,co_curriculum,,,CS-COQ-25,False,KFA1051F,False,malaysiancraft
+,KFA1051F / KFA1051U,Malaysian Craft,1,CoQ,,CoQ,CS,,CoQ,co_curriculum,,,CS-COQ-25,False,KFA1051U,False,malaysiancraft
+,KFA1061F / KFA1061U,The Voice,1,CoQ,,CoQ,CS,,CoQ,co_curriculum,,,CS-COQ-26,False,KFA1061F,False,thevoice
+,KFA1061F / KFA1061U,The Voice,1,CoQ,,CoQ,CS,,CoQ,co_curriculum,,,CS-COQ-26,False,KFA1061U,False,thevoice
+,KFA1071F / KFA1071U,Doodle Arts,1,CoQ,,CoQ,CS,,CoQ,co_curriculum,,,CS-COQ-27,False,KFA1071F,False,doodlearts
+,KFA1071F / KFA1071U,Doodle Arts,1,CoQ,,CoQ,CS,,CoQ,co_curriculum,,,CS-COQ-27,False,KFA1071U,False,doodlearts
+,KFA1081F / KFA1081U,Calligraphy,1,CoQ,,CoQ,CS,,CoQ,co_curriculum,,,CS-COQ-28,False,KFA1081F,False,calligraphy
+,KFA1081F / KFA1081U,Calligraphy,1,CoQ,,CoQ,CS,,CoQ,co_curriculum,,,CS-COQ-28,False,KFA1081U,False,calligraphy
+,KFA1091F / KFA1091U,String Ensemble,1,CoQ,,CoQ,CS,,CoQ,co_curriculum,,,CS-COQ-29,False,KFA1091F,False,stringensemble
+,KFA1091F / KFA1091U,String Ensemble,1,CoQ,,CoQ,CS,,CoQ,co_curriculum,,,CS-COQ-29,False,KFA1091U,False,stringensemble
+,KFA1101F / KFA1101U,Creative Writing,1,CoQ,,CoQ,CS,,CoQ,co_curriculum,,,CS-COQ-30,False,KFA1101F,False,creativewriting
+,KFA1101F / KFA1101U,Creative Writing,1,CoQ,,CoQ,CS,,CoQ,co_curriculum,,,CS-COQ-30,False,KFA1101U,False,creativewriting
+,KFS1011F / KFS1011U,Outdoor Recreation,1,CoQ,,CoQ,CS,,CoQ,co_curriculum,,,CS-COQ-31,False,KFS1011F,False,outdoorrecreation
+,KFS1011F / KFS1011U,Outdoor Recreation,1,CoQ,,CoQ,CS,,CoQ,co_curriculum,,,CS-COQ-31,False,KFS1011U,False,outdoorrecreation
+,KFS1021F / KFS1021U,Fencing,1,CoQ,,CoQ,CS,,CoQ,co_curriculum,,,CS-COQ-32,False,KFS1021F,False,fencing
+,KFS1021F / KFS1021U,Fencing,1,CoQ,,CoQ,CS,,CoQ,co_curriculum,,,CS-COQ-32,False,KFS1021U,False,fencing
+,KFS1031F / KFS1031U,Aerobic Dance,1,CoQ,,CoQ,CS,,CoQ,co_curriculum,,,CS-COQ-33,False,KFS1031F,False,aerobicdance
+,KFS1031F / KFS1031U,Aerobic Dance,1,CoQ,,CoQ,CS,,CoQ,co_curriculum,,,CS-COQ-33,False,KFS1031U,False,aerobicdance
+,KFS1041F / KFS1041U,Shooting,1,CoQ,,CoQ,CS,,CoQ,co_curriculum,,,CS-COQ-34,False,KFS1041F,False,shooting
+,KFS1041F / KFS1041U,Shooting,1,CoQ,,CoQ,CS,,CoQ,co_curriculum,,,CS-COQ-34,False,KFS1041U,False,shooting
+,KFS1051F / KFS1051U,Golf,1,CoQ,,CoQ,CS,,CoQ,co_curriculum,,,CS-COQ-35,False,KFS1051F,False,golf
+,KFS1051F / KFS1051U,Golf,1,CoQ,,CoQ,CS,,CoQ,co_curriculum,,,CS-COQ-35,False,KFS1051U,False,golf
+,KFS1061F / KFS1061U,Mixed Martial Arts,1,CoQ,,CoQ,CS,,CoQ,co_curriculum,,,CS-COQ-36,False,KFS1061F,False,mixedmartialarts
+,KFS1061F / KFS1061U,Mixed Martial Arts,1,CoQ,,CoQ,CS,,CoQ,co_curriculum,,,CS-COQ-36,False,KFS1061U,False,mixedmartialarts
+,KFS1071F / KFS1071U,Wall Climbing,1,CoQ,,CoQ,CS,,CoQ,co_curriculum,,,CS-COQ-37,False,KFS1071F,False,wallclimbing
+,KFS1071F / KFS1071U,Wall Climbing,1,CoQ,,CoQ,CS,,CoQ,co_curriculum,,,CS-COQ-37,False,KFS1071U,False,wallclimbing
+,KFS1081F / KFS1081U,Scuba Diving,1,CoQ,,CoQ,CS,,CoQ,co_curriculum,,,CS-COQ-38,False,KFS1081F,False,scubadiving
+,KFS1081F / KFS1081U,Scuba Diving,1,CoQ,,CoQ,CS,,CoQ,co_curriculum,,,CS-COQ-38,False,KFS1081U,False,scubadiving
+,KFS1091F / KFS1091U,Sports First Aider,1,CoQ,,CoQ,CS,,CoQ,co_curriculum,,,CS-COQ-39,False,KFS1091F,False,sportsfirstaider
+,KFS1091F / KFS1091U,Sports First Aider,1,CoQ,,CoQ,CS,,CoQ,co_curriculum,,,CS-COQ-39,False,KFS1091U,False,sportsfirstaider
+,KFS1101F / KFS1101U,Sports Management,1,CoQ,,CoQ,CS,,CoQ,co_curriculum,,,CS-COQ-40,False,KFS1101F,False,sportsmanagement
+,KFS1101F / KFS1101U,Sports Management,1,CoQ,,CoQ,CS,,CoQ,co_curriculum,,,CS-COQ-40,False,KFS1101U,False,sportsmanagement
+,LFB2012,Basic Arabic Communication,2,MPU2,,MPU_2,CS,,MPU2,mpu2,,,CS-MPU2-01,False,LFB2012,False,basicarabiccommunication
+,LFB2022,Basic Mandarin Communication,2,MPU2,,MPU_2,CS,,MPU2,mpu2,,,CS-MPU2-02,False,LFB2022,False,basicmandarincommunication
+,LFB2032,Bahasa Kebangsaan A,2,MPU2,for Malaysian Citizen only,MPU_2,CS,,MPU2,mpu2,,,CS-MPU2-03,False,LFB2032,False,bahasakebangsaana
+,LFB2062,Basic French Communication,2,MPU2,,MPU_2,CS,,MPU2,mpu2,,,CS-MPU2-04,False,LFB2062,False,basicfrenchcommunication
+,LFB2052,Basic Korean Communication,2,MPU2,,MPU_2,CS,,MPU2,mpu2,,,CS-MPU2-05,False,LFB2052,False,basickoreancommunication
+,LFB2042,Technical Writing,2,MPU2,,MPU_2,CS,,MPU2,mpu2,,,CS-MPU2-06,False,LFB2042,False,technicalwriting
+,GFB2092,Business Ventures,2,MPU2,,MPU_2,CS,,MPU2,mpu2,,,CS-MPU2-07,False,GFB2092,False,businessventures
+,HFB2042,Islamic Critical Thinking,2,MPU2,,MPU_2,CS,,MPU2,mpu2,,,CS-MPU2-08,False,HFB2042,False,islamiccriticalthinking
+,HFB2052,Islamic and Contemporary Leadership,2,MPU2,,MPU_2,CS,,MPU2,mpu2,,,CS-MPU2-09,False,HFB2052,False,islamicandcontemporaryleadership
+,HFB2062,Stress Management Skills,2,MPU2,,MPU_2,CS,,MPU2,mpu2,,,CS-MPU2-10,False,HFB2062,False,stressmanagementskills
+,HFB2082,Problem Solving and Decision Making,2,MPU2,,MPU_2,CS,,MPU2,mpu2,,,CS-MPU2-11,False,HFB2082,False,problemsolvinganddecisionmaking
+,LFB2072,Basic Spanish Communication,2,MPU2,,MPU_2,CS,,MPU2,mpu2,,,CS-MPU2-12,False,LFB2072,False,basicspanishcommunication
+,LFB2082,Basic Japanese Communication,2,MPU2,,MPU_2,CS,,MPU2,mpu2,,,CS-MPU2-13,False,LFB2082,False,basicjapanesecommunication
+,HFB2072,Innovation and Creativity Skills,2,MPU2,,MPU_2,CS,,MPU2,mpu2,,,CS-MPU2-14,False,HFB2072,False,innovationandcreativityskills
+,KFL1011F / KFL1011U,Event Management,1,CoQ,,CoQ,IS,,CoQ,co_curriculum,,,IS-COQ-01,False,KFL1011F,False,eventmanagement
+,KFL1011F / KFL1011U,Event Management,1,CoQ,,CoQ,IS,,CoQ,co_curriculum,,,IS-COQ-01,False,KFL1011U,False,eventmanagement
+,KFL1021F / KFL1021U,Groom-Me,1,CoQ,,CoQ,IS,,CoQ,co_curriculum,,,IS-COQ-02,False,KFL1021F,False,groomme
+,KFL1021F / KFL1021U,Groom-Me,1,CoQ,,CoQ,IS,,CoQ,co_curriculum,,,IS-COQ-02,False,KFL1021U,False,groomme
+,KFL1031F / KFL1031U,Safety & Risk Management,1,CoQ,,CoQ,IS,,CoQ,co_curriculum,,,IS-COQ-03,False,KFL1031F,False,safetyandriskmanagement
+,KFL1031F / KFL1031U,Safety & Risk Management,1,CoQ,,CoQ,IS,,CoQ,co_curriculum,,,IS-COQ-03,False,KFL1031U,False,safetyandriskmanagement
+,KFL1041F / KFL1041U,Wellbeing & Resilience,1,CoQ,,CoQ,IS,,CoQ,co_curriculum,,,IS-COQ-04,False,KFL1041F,False,wellbeingandresilience
+,KFL1041F / KFL1041U,Wellbeing & Resilience,1,CoQ,,CoQ,IS,,CoQ,co_curriculum,,,IS-COQ-04,False,KFL1041U,False,wellbeingandresilience
+,KFL1051F / KFL1051U,Global Citizen,1,CoQ,,CoQ,IS,,CoQ,co_curriculum,,,IS-COQ-05,False,KFL1051F,False,globalcitizen
+,KFL1051F / KFL1051U,Global Citizen,1,CoQ,,CoQ,IS,,CoQ,co_curriculum,,,IS-COQ-05,False,KFL1051U,False,globalcitizen
+,KFL1061F / KFL1061U,Territorial Army 101,1,CoQ,,CoQ,IS,,CoQ,co_curriculum,,,IS-COQ-06,False,KFL1061F,False,territorialarmy101
+,KFL1061F / KFL1061U,Territorial Army 101,1,CoQ,,CoQ,IS,,CoQ,co_curriculum,,,IS-COQ-06,False,KFL1061U,False,territorialarmy101
+,KFL1071F / KFL1071U,Speaking Out Loud,1,CoQ,,CoQ,IS,,CoQ,co_curriculum,,,IS-COQ-07,False,KFL1071F,False,speakingoutloud
+,KFL1071F / KFL1071U,Speaking Out Loud,1,CoQ,,CoQ,IS,,CoQ,co_curriculum,,,IS-COQ-07,False,KFL1071U,False,speakingoutloud
+,KFL1081F / KFL1081U,The Press,1,CoQ,,CoQ,IS,,CoQ,co_curriculum,,,IS-COQ-08,False,KFL1081F,False,thepress
+,KFL1081F / KFL1081U,The Press,1,CoQ,,CoQ,IS,,CoQ,co_curriculum,,,IS-COQ-08,False,KFL1081U,False,thepress
+,KFL1091F / KFL1091U,Content Creator,1,CoQ,,CoQ,IS,,CoQ,co_curriculum,,,IS-COQ-09,False,KFL1091F,False,contentcreator
+,KFL1091F / KFL1091U,Content Creator,1,CoQ,,CoQ,IS,,CoQ,co_curriculum,,,IS-COQ-09,False,KFL1091U,False,contentcreator
+,KFL1101F / KFL1101U,Effective Influencer,1,CoQ,,CoQ,IS,,CoQ,co_curriculum,,,IS-COQ-10,False,KFL1101F,False,effectiveinfluencer
+,KFL1101F / KFL1101U,Effective Influencer,1,CoQ,,CoQ,IS,,CoQ,co_curriculum,,,IS-COQ-10,False,KFL1101U,False,effectiveinfluencer
+,KFC1011F / KFC1011U,Creative Animation,1,CoQ,,CoQ,IS,,CoQ,co_curriculum,,,IS-COQ-11,False,KFC1011F,False,creativeanimation
+,KFC1011F / KFC1011U,Creative Animation,1,CoQ,,CoQ,IS,,CoQ,co_curriculum,,,IS-COQ-11,False,KFC1011U,False,creativeanimation
+,KFC1021F / KFC1021U,Snap a Shot!,1,CoQ,,CoQ,IS,,CoQ,co_curriculum,,,IS-COQ-12,False,KFC1021F,False,snapashot
+,KFC1021F / KFC1021U,Snap a Shot!,1,CoQ,,CoQ,IS,,CoQ,co_curriculum,,,IS-COQ-12,False,KFC1021U,False,snapashot
+,KFC1031F / KFC1031U,Interior Design,1,CoQ,,CoQ,IS,,CoQ,co_curriculum,,,IS-COQ-13,False,KFC1031F,False,interiordesign
+,KFC1031F / KFC1031U,Interior Design,1,CoQ,,CoQ,IS,,CoQ,co_curriculum,,,IS-COQ-13,False,KFC1031U,False,interiordesign
+,KFC1041F / KFC1041U,3D Prototyping,1,CoQ,,CoQ,IS,,CoQ,co_curriculum,,,IS-COQ-14,False,KFC1041F,False,3dprototyping
+,KFC1041F / KFC1041U,3D Prototyping,1,CoQ,,CoQ,IS,,CoQ,co_curriculum,,,IS-COQ-14,False,KFC1041U,False,3dprototyping
+,KFC1051F / KFC1051U,3D Prototyping,1,CoQ,,CoQ,IS,,CoQ,co_curriculum,,,IS-COQ-15,False,KFC1051F,False,3dprototyping
+,KFC1051F / KFC1051U,3D Prototyping,1,CoQ,,CoQ,IS,,CoQ,co_curriculum,,,IS-COQ-15,False,KFC1051U,False,3dprototyping
+,KFC1061F / KFC1061U,The Inventors,1,CoQ,,CoQ,IS,,CoQ,co_curriculum,,,IS-COQ-16,False,KFC1061F,False,theinventors
+,KFC1061F / KFC1061U,The Inventors,1,CoQ,,CoQ,IS,,CoQ,co_curriculum,,,IS-COQ-16,False,KFC1061U,False,theinventors
+,KFC1071F / KFC1071U,Digital-preneur,1,CoQ,,CoQ,IS,,CoQ,co_curriculum,,,IS-COQ-17,False,KFC1071F,False,digitalpreneur
+,KFC1071F / KFC1071U,Digital-preneur,1,CoQ,,CoQ,IS,,CoQ,co_curriculum,,,IS-COQ-17,False,KFC1071U,False,digitalpreneur
+,KFC1081F / KFC1081U,E-marketing,1,CoQ,,CoQ,IS,,CoQ,co_curriculum,,,IS-COQ-18,False,KFC1081F,False,emarketing
+,KFC1081F / KFC1081U,E-marketing,1,CoQ,,CoQ,IS,,CoQ,co_curriculum,,,IS-COQ-18,False,KFC1081U,False,emarketing
+,KFC1091F / KFC1091U,FinTech,1,CoQ,,CoQ,IS,,CoQ,co_curriculum,,,IS-COQ-19,False,KFC1091F,False,fintech
+,KFC1091F / KFC1091U,FinTech,1,CoQ,,CoQ,IS,,CoQ,co_curriculum,,,IS-COQ-19,False,KFC1091U,False,fintech
+,KFC1101F / KFC1101U,Investment,1,CoQ,,CoQ,IS,,CoQ,co_curriculum,,,IS-COQ-20,False,KFC1101F,False,investment
+,KFC1101F / KFC1101U,Investment,1,CoQ,,CoQ,IS,,CoQ,co_curriculum,,,IS-COQ-20,False,KFC1101U,False,investment
+,KFA1011F / KFA1011U,Culinary Arts,1,CoQ,,CoQ,IS,,CoQ,co_curriculum,,,IS-COQ-21,False,KFA1011F,False,culinaryarts
+,KFA1011F / KFA1011U,Culinary Arts,1,CoQ,,CoQ,IS,,CoQ,co_curriculum,,,IS-COQ-21,False,KFA1011U,False,culinaryarts
+,KFA1021F / KFA1021U,"Lights, Camera, Action!",1,CoQ,,CoQ,IS,,CoQ,co_curriculum,,,IS-COQ-22,False,KFA1021F,False,lightscameraaction
+,KFA1021F / KFA1021U,"Lights, Camera, Action!",1,CoQ,,CoQ,IS,,CoQ,co_curriculum,,,IS-COQ-22,False,KFA1021U,False,lightscameraaction
+,KFA1031F / KFA1031U,Traditional Music,1,CoQ,,CoQ,IS,,CoQ,co_curriculum,,,IS-COQ-23,False,KFA1031F,False,traditionalmusic
+,KFA1031F / KFA1031U,Traditional Music,1,CoQ,,CoQ,IS,,CoQ,co_curriculum,,,IS-COQ-23,False,KFA1031U,False,traditionalmusic
+,KFA1041F / KFA1041U,Let’s Dance,1,CoQ,,CoQ,IS,,CoQ,co_curriculum,,,IS-COQ-24,False,KFA1041F,False,letsdance
+,KFA1041F / KFA1041U,Let’s Dance,1,CoQ,,CoQ,IS,,CoQ,co_curriculum,,,IS-COQ-24,False,KFA1041U,False,letsdance
+,KFA1051F / KFA1051U,Malaysian Craft,1,CoQ,,CoQ,IS,,CoQ,co_curriculum,,,IS-COQ-25,False,KFA1051F,False,malaysiancraft
+,KFA1051F / KFA1051U,Malaysian Craft,1,CoQ,,CoQ,IS,,CoQ,co_curriculum,,,IS-COQ-25,False,KFA1051U,False,malaysiancraft
+,KFA1061F / KFA1061U,The Voice,1,CoQ,,CoQ,IS,,CoQ,co_curriculum,,,IS-COQ-26,False,KFA1061F,False,thevoice
+,KFA1061F / KFA1061U,The Voice,1,CoQ,,CoQ,IS,,CoQ,co_curriculum,,,IS-COQ-26,False,KFA1061U,False,thevoice
+,KFA1071F / KFA1071U,Doodle Arts,1,CoQ,,CoQ,IS,,CoQ,co_curriculum,,,IS-COQ-27,False,KFA1071F,False,doodlearts
+,KFA1071F / KFA1071U,Doodle Arts,1,CoQ,,CoQ,IS,,CoQ,co_curriculum,,,IS-COQ-27,False,KFA1071U,False,doodlearts
+,KFA1081F / KFA1081U,Calligraphy,1,CoQ,,CoQ,IS,,CoQ,co_curriculum,,,IS-COQ-28,False,KFA1081F,False,calligraphy
+,KFA1081F / KFA1081U,Calligraphy,1,CoQ,,CoQ,IS,,CoQ,co_curriculum,,,IS-COQ-28,False,KFA1081U,False,calligraphy
+,KFA1091F / KFA1091U,String Ensemble,1,CoQ,,CoQ,IS,,CoQ,co_curriculum,,,IS-COQ-29,False,KFA1091F,False,stringensemble
+,KFA1091F / KFA1091U,String Ensemble,1,CoQ,,CoQ,IS,,CoQ,co_curriculum,,,IS-COQ-29,False,KFA1091U,False,stringensemble
+,KFA1101F / KFA1101U,Creative Writing,1,CoQ,,CoQ,IS,,CoQ,co_curriculum,,,IS-COQ-30,False,KFA1101F,False,creativewriting
+,KFA1101F / KFA1101U,Creative Writing,1,CoQ,,CoQ,IS,,CoQ,co_curriculum,,,IS-COQ-30,False,KFA1101U,False,creativewriting
+,KFS1011F / KFS1011U,Outdoor Recreation,1,CoQ,,CoQ,IS,,CoQ,co_curriculum,,,IS-COQ-31,False,KFS1011F,False,outdoorrecreation
+,KFS1011F / KFS1011U,Outdoor Recreation,1,CoQ,,CoQ,IS,,CoQ,co_curriculum,,,IS-COQ-31,False,KFS1011U,False,outdoorrecreation
+,KFS1021F / KFS1021U,Fencing,1,CoQ,,CoQ,IS,,CoQ,co_curriculum,,,IS-COQ-32,False,KFS1021F,False,fencing
+,KFS1021F / KFS1021U,Fencing,1,CoQ,,CoQ,IS,,CoQ,co_curriculum,,,IS-COQ-32,False,KFS1021U,False,fencing
+,KFS1031F / KFS1031U,Aerobic Dance,1,CoQ,,CoQ,IS,,CoQ,co_curriculum,,,IS-COQ-33,False,KFS1031F,False,aerobicdance
+,KFS1031F / KFS1031U,Aerobic Dance,1,CoQ,,CoQ,IS,,CoQ,co_curriculum,,,IS-COQ-33,False,KFS1031U,False,aerobicdance
+,KFS1041F / KFS1041U,Shooting,1,CoQ,,CoQ,IS,,CoQ,co_curriculum,,,IS-COQ-34,False,KFS1041F,False,shooting
+,KFS1041F / KFS1041U,Shooting,1,CoQ,,CoQ,IS,,CoQ,co_curriculum,,,IS-COQ-34,False,KFS1041U,False,shooting
+,KFS1051F / KFS1051U,Golf,1,CoQ,,CoQ,IS,,CoQ,co_curriculum,,,IS-COQ-35,False,KFS1051F,False,golf
+,KFS1051F / KFS1051U,Golf,1,CoQ,,CoQ,IS,,CoQ,co_curriculum,,,IS-COQ-35,False,KFS1051U,False,golf
+,KFS1061F / KFS1061U,Mixed Martial Arts,1,CoQ,,CoQ,IS,,CoQ,co_curriculum,,,IS-COQ-36,False,KFS1061F,False,mixedmartialarts
+,KFS1061F / KFS1061U,Mixed Martial Arts,1,CoQ,,CoQ,IS,,CoQ,co_curriculum,,,IS-COQ-36,False,KFS1061U,False,mixedmartialarts
+,KFS1071F / KFS1071U,Wall Climbing,1,CoQ,,CoQ,IS,,CoQ,co_curriculum,,,IS-COQ-37,False,KFS1071F,False,wallclimbing
+,KFS1071F / KFS1071U,Wall Climbing,1,CoQ,,CoQ,IS,,CoQ,co_curriculum,,,IS-COQ-37,False,KFS1071U,False,wallclimbing
+,KFS1081F / KFS1081U,Scuba Diving,1,CoQ,,CoQ,IS,,CoQ,co_curriculum,,,IS-COQ-38,False,KFS1081F,False,scubadiving
+,KFS1081F / KFS1081U,Scuba Diving,1,CoQ,,CoQ,IS,,CoQ,co_curriculum,,,IS-COQ-38,False,KFS1081U,False,scubadiving
+,KFS1091F / KFS1091U,Sports First Aider,1,CoQ,,CoQ,IS,,CoQ,co_curriculum,,,IS-COQ-39,False,KFS1091F,False,sportsfirstaider
+,KFS1091F / KFS1091U,Sports First Aider,1,CoQ,,CoQ,IS,,CoQ,co_curriculum,,,IS-COQ-39,False,KFS1091U,False,sportsfirstaider
+,KFS1101F / KFS1101U,Sports Management,1,CoQ,,CoQ,IS,,CoQ,co_curriculum,,,IS-COQ-40,False,KFS1101F,False,sportsmanagement
+,KFS1101F / KFS1101U,Sports Management,1,CoQ,,CoQ,IS,,CoQ,co_curriculum,,,IS-COQ-40,False,KFS1101U,False,sportsmanagement
+,LFB2012,Basic Arabic Communication,2,MPU2,,MPU_2,IS,,MPU2,mpu2,,,IS-MPU2-01,False,LFB2012,False,basicarabiccommunication
+,LFB2022,Basic Mandarin Communication,2,MPU2,,MPU_2,IS,,MPU2,mpu2,,,IS-MPU2-02,False,LFB2022,False,basicmandarincommunication
+,LFB2032,Bahasa Kebangsaan A,2,MPU2,for Malaysian Citizen only,MPU_2,IS,,MPU2,mpu2,,,IS-MPU2-03,False,LFB2032,False,bahasakebangsaana
+,LFB2062,Basic French Communication,2,MPU2,,MPU_2,IS,,MPU2,mpu2,,,IS-MPU2-04,False,LFB2062,False,basicfrenchcommunication
+,LFB2052,Basic Korean Communication,2,MPU2,,MPU_2,IS,,MPU2,mpu2,,,IS-MPU2-05,False,LFB2052,False,basickoreancommunication
+,LFB2042,Technical Writing,2,MPU2,,MPU_2,IS,,MPU2,mpu2,,,IS-MPU2-06,False,LFB2042,False,technicalwriting
+,GFB2092,Business Ventures,2,MPU2,,MPU_2,IS,,MPU2,mpu2,,,IS-MPU2-07,False,GFB2092,False,businessventures
+,HFB2042,Islamic Critical Thinking,2,MPU2,,MPU_2,IS,,MPU2,mpu2,,,IS-MPU2-08,False,HFB2042,False,islamiccriticalthinking
+,HFB2052,Islamic and Contemporary Leadership,2,MPU2,,MPU_2,IS,,MPU2,mpu2,,,IS-MPU2-09,False,HFB2052,False,islamicandcontemporaryleadership
+,HFB2062,Stress Management Skills,2,MPU2,,MPU_2,IS,,MPU2,mpu2,,,IS-MPU2-10,False,HFB2062,False,stressmanagementskills
+,HFB2082,Problem Solving and Decision Making,2,MPU2,,MPU_2,IS,,MPU2,mpu2,,,IS-MPU2-11,False,HFB2082,False,problemsolvinganddecisionmaking
+,LFB2072,Basic Spanish Communication,2,MPU2,,MPU_2,IS,,MPU2,mpu2,,,IS-MPU2-12,False,LFB2072,False,basicspanishcommunication
+,LFB2082,Basic Japanese Communication,2,MPU2,,MPU_2,IS,,MPU2,mpu2,,,IS-MPU2-13,False,LFB2082,False,basicjapanesecommunication
+,HFB2072,Innovation and Creativity Skills,2,MPU2,,MPU_2,IS,,MPU2,mpu2,,,IS-MPU2-14,False,HFB2072,False,innovationandcreativityskills
